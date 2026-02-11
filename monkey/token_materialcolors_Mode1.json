@@ -1,12 +1,5 @@
 {
   "Centro": {
-        "monkey": {
-      "base": {
-        "$type": "color",
-        "$value": "#FF0000",
-        "$description": "MONKEY DOES IT"
-      }
-    },
     "darkBlue": {
       "base": {
         "$type": "color",
@@ -186,6 +179,10 @@
         "$value": "#e69238"
       }
     }
+  },
+  "MONKEY2": {
+    "$type": "color",
+    "$value": "#ffffff"
   },
   "amber": {
     "100": {
