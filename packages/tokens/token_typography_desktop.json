@@ -1,0 +1,146 @@
+{
+  "_fontSize": {
+    "0,625rem": {
+      "$type": "number",
+      "$value": 10
+    },
+    "0,75rem": {
+      "$type": "number",
+      "$value": 12
+    },
+    "0,8125rem": {
+      "$type": "number",
+      "$value": 13
+    },
+    "0,875rem": {
+      "$type": "number",
+      "$value": 14
+    },
+    "0,9375rem": {
+      "$type": "number",
+      "$value": 15
+    },
+    "1,125rem": {
+      "$type": "number",
+      "$value": 18
+    },
+    "1,25rem": {
+      "$type": "number",
+      "$value": 20
+    },
+    "1,5625rem": {
+      "$type": "number",
+      "$value": 25
+    },
+    "1,5rem": {
+      "$type": "number",
+      "$value": 24
+    },
+    "1rem": {
+      "$type": "number",
+      "$value": 16
+    },
+    "2,125rem": {
+      "$type": "number",
+      "$value": 34
+    },
+    "2,375rem": {
+      "$type": "number",
+      "$value": 38
+    },
+    "2rem": {
+      "$type": "number",
+      "$value": 32
+    },
+    "3,5rem": {
+      "$type": "number",
+      "$value": 56
+    },
+    "3,75rem": {
+      "$type": "number",
+      "$value": 60
+    },
+    "3rem": {
+      "$type": "number",
+      "$value": 48
+    },
+    "6rem": {
+      "$type": "number",
+      "$value": 96
+    }
+  },
+  "fontFamily": {
+    "$type": "string",
+    "$value": "Montserrat"
+  },
+  "fontWeightBold": {
+    "$type": "number",
+    "$value": 700
+  },
+  "fontWeightLight": {
+    "$type": "number",
+    "$value": 300
+  },
+  "fontWeightMedium": {
+    "$type": "number",
+    "$value": 500
+  },
+  "fontWeightRegular": {
+    "$type": "number",
+    "$value": 400
+  },
+  "fontWeightSemiBold": {
+    "$type": "number",
+    "$value": 600
+  },
+  "typography": {
+    "body1": {
+      "$type": "number",
+      "$value": "{_fontSize.1rem}"
+    },
+    "body2": {
+      "$type": "number",
+      "$value": "{_fontSize.0,875rem}"
+    },
+    "caption": {
+      "$type": "number",
+      "$value": "{_fontSize.0,75rem}"
+    },
+    "h1": {
+      "$type": "number",
+      "$value": "{_fontSize.6rem}"
+    },
+    "h2": {
+      "$type": "number",
+      "$value": "{_fontSize.3,75rem}"
+    },
+    "h3": {
+      "$type": "number",
+      "$value": "{_fontSize.3rem}"
+    },
+    "h4": {
+      "$type": "number",
+      "$value": "{_fontSize.2rem}"
+    },
+    "h5": {
+      "$type": "number",
+      "$value": "{_fontSize.1,5rem}"
+    },
+    "h6": {
+      "$type": "number",
+      "$value": "{_fontSize.1,25rem}"
+    },
+    "overline": {
+      "$type": "number",
+      "$value": "{_fontSize.0,75rem}"
+    },
+    "subtitle1": {
+      "$type": "number",
+      "$value": "{_fontSize.1rem}"
+    },
+    "subtitle2": {
+      "$type": "number",
+      "$value": "{_fontSize.0,875rem}"
+    }
+  }
+}
