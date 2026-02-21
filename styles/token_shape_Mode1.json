@@ -3,6 +3,10 @@
     "type": "number",
     "value": 4
   },
+  "chipRadius": {
+    "type": "number",
+    "value": "{borderRadius}"
+  },
   "none": {
     "type": "number",
     "value": 0
