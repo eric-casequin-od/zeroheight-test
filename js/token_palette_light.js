@@ -136,9 +136,9 @@ module.exports = {
         },
         "warning": {
           "background": {
-            "value": "#fff4e5",
+            "value": "#c47c30",
             "original": {
-              "value": "#FFF4E5"
+              "value": "rgba(196, 124, 48, 0.1)"
             },
             "name": "ColorComponentsAlertWarningBackground",
             "attributes": {
@@ -157,9 +157,9 @@ module.exports = {
             ]
           },
           "color": {
-            "value": "#663c00",
+            "value": "#73491c",
             "original": {
-              "value": "#663C00"
+              "value": "#73491C"
             },
             "name": "ColorComponentsAlertWarningColor",
             "attributes": {
@@ -1928,9 +1928,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#01579b",
+        "value": "#18363e",
         "original": {
-          "value": "#01579B"
+          "value": "#18363E"
         },
         "name": "ColorInfoDark",
         "attributes": {
@@ -1945,9 +1945,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#03a9f4",
+        "value": "#4fb3cd",
         "original": {
-          "value": "#03A9F4"
+          "value": "#4FB3CD"
         },
         "name": "ColorInfoLight",
         "attributes": {
@@ -1962,9 +1962,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#0288d1",
+        "value": "#377d90",
         "original": {
-          "value": "#0288D1"
+          "value": "#377D90"
         },
         "name": "ColorInfoMain",
         "attributes": {
@@ -1983,10 +1983,10 @@ module.exports = {
       "_states": {
         "focus": {
           "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-          "value": "#1976d2",
+          "value": "#832a80",
           "original": {
             "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-            "value": "rgba(25, 118, 210, 0.1)"
+            "value": "rgba(131, 42, 128, 0.1)"
           },
           "name": "ColorPrimaryStatesFocus",
           "attributes": {
@@ -2003,9 +2003,9 @@ module.exports = {
           ]
         },
         "focusVisible": {
-          "value": "#1976d2",
+          "value": "#832a80",
           "original": {
-            "value": "rgba(25, 118, 210, 0.3)"
+            "value": "rgba(131, 42, 128, 0.3)"
           },
           "name": "ColorPrimaryStatesFocusVisible",
           "attributes": {
@@ -2023,10 +2023,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#1976d2",
+          "value": "#832a80",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(25, 118, 210, 0)"
+            "value": "rgba(131, 42, 128, 0)"
           },
           "name": "ColorPrimaryStatesHover",
           "attributes": {
@@ -2044,10 +2044,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#1976d2",
+          "value": "#832a80",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(25, 118, 210, 0.5)"
+            "value": "rgba(131, 42, 128, 0.5)"
           },
           "name": "ColorPrimaryStatesOutlinedBorder",
           "attributes": {
@@ -2065,10 +2065,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#1976d2",
+          "value": "#832a80",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(25, 118, 210, 0.1)"
+            "value": "rgba(131, 42, 128, 0.1)"
           },
           "name": "ColorPrimaryStatesSelected",
           "attributes": {
@@ -2106,10 +2106,10 @@ module.exports = {
       },
       "dark": {
         "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
-        "value": "#4f194d",
+        "value": "#5c1d5a",
         "original": {
           "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
-          "value": "#4F194D"
+          "value": "#5C1D5A"
         },
         "name": "ColorPrimaryDark",
         "attributes": {
@@ -2125,10 +2125,10 @@ module.exports = {
       },
       "light": {
         "comment": "Reflects the primary.light variable from the theme object",
-        "value": "#b57fb3",
+        "value": "#bb8ab9",
         "original": {
           "comment": "Reflects the primary.light variable from the theme object",
-          "value": "#B57FB3"
+          "value": "#BB8AB9"
         },
         "name": "ColorPrimaryLight",
         "attributes": {
@@ -2166,10 +2166,10 @@ module.exports = {
       "_states": {
         "focus": {
           "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-          "value": "#9c27b0",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-            "value": "rgba(156, 39, 176, 0.1)"
+            "value": "rgba(0, 120, 162, 0.1)"
           },
           "name": "ColorSecondaryStatesFocus",
           "attributes": {
@@ -2186,9 +2186,9 @@ module.exports = {
           ]
         },
         "focusVisible": {
-          "value": "#9c27b0",
+          "value": "#0078a2",
           "original": {
-            "value": "rgba(156, 39, 176, 0.3)"
+            "value": "rgba(0, 120, 162, 0.3)"
           },
           "name": "ColorSecondaryStatesFocusVisible",
           "attributes": {
@@ -2206,10 +2206,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#9c27b0",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(156, 39, 176, 0)"
+            "value": "rgba(0, 120, 162, 0)"
           },
           "name": "ColorSecondaryStatesHover",
           "attributes": {
@@ -2227,10 +2227,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#9c27b0",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(156, 39, 176, 0.5)"
+            "value": "rgba(0, 120, 162, 0.5)"
           },
           "name": "ColorSecondaryStatesOutlinedBorder",
           "attributes": {
@@ -2248,10 +2248,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#9c27b0",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(156, 39, 176, 0.1)"
+            "value": "rgba(0, 120, 162, 0.1)"
           },
           "name": "ColorSecondaryStatesSelected",
           "attributes": {
@@ -2286,9 +2286,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#7b1fa2",
+        "value": "#00344f",
         "original": {
-          "value": "#7B1FA2"
+          "value": "#00344F"
         },
         "name": "ColorSecondaryDark",
         "attributes": {
@@ -2303,9 +2303,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#ba68c8",
+        "value": "#4fb3cd",
         "original": {
-          "value": "#BA68C8"
+          "value": "#4FB3CD"
         },
         "name": "ColorSecondaryLight",
         "attributes": {
@@ -2320,9 +2320,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#9c27b0",
+        "value": "#0078a2",
         "original": {
-          "value": "#9C27B0"
+          "value": "#0078A2"
         },
         "name": "ColorSecondaryMain",
         "attributes": {
@@ -2601,10 +2601,10 @@ module.exports = {
       },
       "primary": {
         "comment": "Reflects the text.primary variable from the theme object",
-        "value": "#000000",
+        "value": "#00344f",
         "original": {
           "comment": "Reflects the text.primary variable from the theme object",
-          "value": "rgba(0, 0, 0, 0.9)"
+          "value": "#00344F"
         },
         "name": "ColorTextPrimary",
         "attributes": {
@@ -2641,9 +2641,9 @@ module.exports = {
     "warning": {
       "_states": {
         "focusVisible": {
-          "value": "#ef6c00",
+          "value": "#c47c30",
           "original": {
-            "value": "rgba(239, 108, 0, 0.3)"
+            "value": "rgba(196, 124, 48, 0.3)"
           },
           "name": "ColorWarningStatesFocusVisible",
           "attributes": {
@@ -2661,10 +2661,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#ef6c00",
+          "value": "#c47c30",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(239, 108, 0, 0)"
+            "value": "rgba(196, 124, 48, 0)"
           },
           "name": "ColorWarningStatesHover",
           "attributes": {
@@ -2682,10 +2682,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#ef6c00",
+          "value": "#c47c30",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(239, 108, 0, 0.5)"
+            "value": "rgba(196, 124, 48, 0.5)"
           },
           "name": "ColorWarningStatesOutlinedBorder",
           "attributes": {
@@ -2703,10 +2703,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#ef6c00",
+          "value": "#c47c30",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(239, 108, 0, 0.1)"
+            "value": "rgba(196, 124, 48, 0.1)"
           },
           "name": "ColorWarningStatesSelected",
           "attributes": {
@@ -2741,9 +2741,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#e65100",
+        "value": "#73491c",
         "original": {
-          "value": "#E65100"
+          "value": "#73491C"
         },
         "name": "ColorWarningDark",
         "attributes": {
@@ -2758,9 +2758,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#ff9800",
+        "value": "#e69238",
         "original": {
-          "value": "#FF9800"
+          "value": "#E69238"
         },
         "name": "ColorWarningLight",
         "attributes": {
@@ -2775,9 +2775,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#ef6c00",
+        "value": "#c47c30",
         "original": {
-          "value": "#EF6C00"
+          "value": "#C47C30"
         },
         "name": "ColorWarningMain",
         "attributes": {
