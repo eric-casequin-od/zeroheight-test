@@ -1,4 +1,8 @@
 {
+  "centro-ui": {
+    "type": "string",
+    "value": "1.0.0"
+  },
   "material-ui": {
     "type": "string",
     "value": "7.2.0"
