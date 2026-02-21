@@ -1928,9 +1928,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#0288d1",
+        "value": "#377d90",
         "original": {
-          "value": "#0288D1"
+          "value": "#377D90"
         },
         "name": "ColorInfoDark",
         "attributes": {
@@ -1945,9 +1945,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#4fc3f7",
+        "value": "#9ed5e4",
         "original": {
-          "value": "#4FC3F7"
+          "value": "#9ED5E4"
         },
         "name": "ColorInfoLight",
         "attributes": {
@@ -1962,9 +1962,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#29b6f6",
+        "value": "#84cadc",
         "original": {
-          "value": "#29B6F6"
+          "value": "#84CADC"
         },
         "name": "ColorInfoMain",
         "attributes": {
@@ -2087,10 +2087,10 @@ module.exports = {
       },
       "contrastText": {
         "comment": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color",
-        "value": "#000000",
+        "value": "#f3eaf2",
         "original": {
           "comment": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color",
-          "value": "rgba(0, 0, 0, 0.9)"
+          "value": "#F3EAF2"
         },
         "name": "ColorPrimaryContrastText",
         "attributes": {
@@ -2106,10 +2106,10 @@ module.exports = {
       },
       "dark": {
         "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
-        "value": "#42a5f5",
+        "value": "#4da1be",
         "original": {
           "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
-          "value": "#42A5F5"
+          "value": "#4DA1BE"
         },
         "name": "ColorPrimaryDark",
         "attributes": {
@@ -2125,10 +2125,10 @@ module.exports = {
       },
       "light": {
         "comment": "Reflects the primary.light variable from the theme object",
-        "value": "#e3f2fd",
+        "value": "#e6f2f6",
         "original": {
           "comment": "Reflects the primary.light variable from the theme object",
-          "value": "#E3F2FD"
+          "value": "#E6F2F6"
         },
         "name": "ColorPrimaryLight",
         "attributes": {
@@ -2144,10 +2144,10 @@ module.exports = {
       },
       "main": {
         "comment": "Reflects the primary.main variable from the theme object",
-        "value": "#90caf9",
+        "value": "#99c9da",
         "original": {
           "comment": "Reflects the primary.main variable from the theme object",
-          "value": "#90CAF9"
+          "value": "#99C9DA"
         },
         "name": "ColorPrimaryMain",
         "attributes": {
@@ -2269,9 +2269,9 @@ module.exports = {
         }
       },
       "contrastText": {
-        "value": "#000000",
+        "value": "#e6f2f6",
         "original": {
-          "value": "rgba(0, 0, 0, 0.9)"
+          "value": "#E6F2F6"
         },
         "name": "ColorSecondaryContrastText",
         "attributes": {
@@ -2286,9 +2286,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#ab47bc",
+        "value": "#a86aa6",
         "original": {
-          "value": "#AB47BC"
+          "value": "#A86AA6"
         },
         "name": "ColorSecondaryDark",
         "attributes": {
@@ -2303,9 +2303,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#f3e5f5",
+        "value": "#f3eaf2",
         "original": {
-          "value": "#F3E5F5"
+          "value": "#F3EAF2"
         },
         "name": "ColorSecondaryLight",
         "attributes": {
@@ -2320,9 +2320,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#ce93d8",
+        "value": "#cdaacc",
         "original": {
-          "value": "#CE93D8"
+          "value": "#CDAACC"
         },
         "name": "ColorSecondaryMain",
         "attributes": {
@@ -2741,9 +2741,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#f57c00",
+        "value": "#a16627",
         "original": {
-          "value": "#F57C00"
+          "value": "#A16627"
         },
         "name": "ColorWarningDark",
         "attributes": {
@@ -2758,9 +2758,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#ffb74d",
+        "value": "#f1c392",
         "original": {
-          "value": "#FFB74D"
+          "value": "#F1C392"
         },
         "name": "ColorWarningLight",
         "attributes": {
@@ -2775,9 +2775,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#ffa726",
+        "value": "#eeb374",
         "original": {
-          "value": "#FFA726"
+          "value": "#EEB374"
         },
         "name": "ColorWarningMain",
         "attributes": {
