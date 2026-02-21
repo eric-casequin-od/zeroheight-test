@@ -1,5 +1,20 @@
 module.exports = {
   "content": {
+    "centro-ui": {
+      "value": "1.0.0",
+      "original": {
+        "value": "1.0.0"
+      },
+      "name": "ContentCentroUi",
+      "attributes": {
+        "category": "content",
+        "type": "centro-ui"
+      },
+      "path": [
+        "content",
+        "centro-ui"
+      ]
+    },
     "material-ui": {
       "value": "7.2.0",
       "original": {
