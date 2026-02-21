@@ -523,7 +523,7 @@
     "contrastText": {
       "comment": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color",
       "type": "color",
-      "value": "rgba(0, 0, 0, 0.9)"
+      "value": "{purple.50}"
     },
     "dark": {
       "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
@@ -570,7 +570,7 @@
     },
     "contrastText": {
       "type": "color",
-      "value": "rgba(0, 0, 0, 0.9)"
+      "value": "{blue.50}"
     },
     "dark": {
       "type": "color",
