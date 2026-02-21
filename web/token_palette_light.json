@@ -15,8 +15,8 @@
           "color": "#1e4620"
         },
         "warning": {
-          "background": "#fff4e5",
-          "color": "#663c00"
+          "background": "rgba(196, 124, 48, 0.1)",
+          "color": "#73491c"
         }
       },
       "appBar": {
@@ -159,35 +159,35 @@
         "selected": "rgba(2, 136, 209, 0.1)"
       },
       "contrastText": "#ffffff",
-      "dark": "#01579b",
-      "light": "#03a9f4",
-      "main": "#0288d1"
+      "dark": "#18363e",
+      "light": "#4fb3cd",
+      "main": "#377d90"
     },
     "primary": {
       "_states": {
-        "focus": "rgba(25, 118, 210, 0.1)",
-        "focusVisible": "rgba(25, 118, 210, 0.3)",
-        "hover": "rgba(25, 118, 210, 0)",
-        "outlinedBorder": "rgba(25, 118, 210, 0.5)",
-        "selected": "rgba(25, 118, 210, 0.1)"
+        "focus": "rgba(131, 42, 128, 0.1)",
+        "focusVisible": "rgba(131, 42, 128, 0.3)",
+        "hover": "rgba(131, 42, 128, 0)",
+        "outlinedBorder": "rgba(131, 42, 128, 0.5)",
+        "selected": "rgba(131, 42, 128, 0.1)"
       },
       "contrastText": "#ffffff",
-      "dark": "#4f194d",
-      "light": "#b57fb3",
+      "dark": "#5c1d5a",
+      "light": "#bb8ab9",
       "main": "#832a80"
     },
     "secondary": {
       "_states": {
-        "focus": "rgba(156, 39, 176, 0.1)",
-        "focusVisible": "rgba(156, 39, 176, 0.3)",
-        "hover": "rgba(156, 39, 176, 0)",
-        "outlinedBorder": "rgba(156, 39, 176, 0.5)",
-        "selected": "rgba(156, 39, 176, 0.1)"
+        "focus": "rgba(0, 120, 162, 0.1)",
+        "focusVisible": "rgba(0, 120, 162, 0.3)",
+        "hover": "rgba(0, 120, 162, 0)",
+        "outlinedBorder": "rgba(0, 120, 162, 0.5)",
+        "selected": "rgba(0, 120, 162, 0.1)"
       },
       "contrastText": "#ffffff",
-      "dark": "#7b1fa2",
-      "light": "#ba68c8",
-      "main": "#9c27b0"
+      "dark": "#00344f",
+      "light": "#4fb3cd",
+      "main": "#0078a2"
     },
     "success": {
       "_states": {
@@ -209,20 +209,20 @@
         "selected": "rgba(0, 0, 0, 0.1)"
       },
       "disabled": "rgba(0, 0, 0, 0.4)",
-      "primary": "rgba(0, 0, 0, 0.9)",
+      "primary": "#00344f",
       "secondary": "rgba(0, 0, 0, 0.6)"
     },
     "warning": {
       "_states": {
-        "focusVisible": "rgba(239, 108, 0, 0.3)",
-        "hover": "rgba(239, 108, 0, 0)",
-        "outlinedBorder": "rgba(239, 108, 0, 0.5)",
-        "selected": "rgba(239, 108, 0, 0.1)"
+        "focusVisible": "rgba(196, 124, 48, 0.3)",
+        "hover": "rgba(196, 124, 48, 0)",
+        "outlinedBorder": "rgba(196, 124, 48, 0.5)",
+        "selected": "rgba(196, 124, 48, 0.1)"
       },
       "contrastText": "#ffffff",
-      "dark": "#e65100",
-      "light": "#ff9800",
-      "main": "#ef6c00"
+      "dark": "#73491c",
+      "light": "#e69238",
+      "main": "#c47c30"
     }
   }
 }
