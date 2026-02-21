@@ -522,7 +522,7 @@
     },
     "contrastText": {
       "$type": "color",
-      "$value": "#000000e6",
+      "$value": "{purple.50}",
       "$description": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color"
     },
     "dark": {
@@ -570,7 +570,7 @@
     },
     "contrastText": {
       "$type": "color",
-      "$value": "#000000e6"
+      "$value": "{blue.50}"
     },
     "dark": {
       "$type": "color",
