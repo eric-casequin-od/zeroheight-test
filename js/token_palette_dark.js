@@ -1,5 +1,5070 @@
 module.exports = {
   "color": {
+    "T": {
+      "error": {
+        "dark": {
+          "50": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.05)"
+            },
+            "name": "ColorTErrorDark50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.1)"
+            },
+            "name": "ColorTErrorDark100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.15)"
+            },
+            "name": "ColorTErrorDark200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.25)"
+            },
+            "name": "ColorTErrorDark300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.35)"
+            },
+            "name": "ColorTErrorDark400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.55)"
+            },
+            "name": "ColorTErrorDark500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.65)"
+            },
+            "name": "ColorTErrorDark600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.75)"
+            },
+            "name": "ColorTErrorDark700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.85)"
+            },
+            "name": "ColorTErrorDark800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0.95)"
+            },
+            "name": "ColorTErrorDark900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#5f2120",
+            "original": {
+              "value": "#5F2120"
+            },
+            "name": "ColorTErrorDark1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#5f2120",
+            "original": {
+              "value": "rgba(95, 33, 32, 0)"
+            },
+            "name": "ColorTErrorDark000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "dark",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "dark",
+              "000"
+            ]
+          }
+        },
+        "light": {
+          "50": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.05)"
+            },
+            "name": "ColorTErrorLight50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.1)"
+            },
+            "name": "ColorTErrorLight100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.15)"
+            },
+            "name": "ColorTErrorLight200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.25)"
+            },
+            "name": "ColorTErrorLight300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.35)"
+            },
+            "name": "ColorTErrorLight400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.55)"
+            },
+            "name": "ColorTErrorLight500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.65)"
+            },
+            "name": "ColorTErrorLight600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.75)"
+            },
+            "name": "ColorTErrorLight700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.85)"
+            },
+            "name": "ColorTErrorLight800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0.95)"
+            },
+            "name": "ColorTErrorLight900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#ef5350",
+            "original": {
+              "value": "#EF5350"
+            },
+            "name": "ColorTErrorLight1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#ef5350",
+            "original": {
+              "value": "rgba(239, 83, 80, 0)"
+            },
+            "name": "ColorTErrorLight000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "light",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "light",
+              "000"
+            ]
+          }
+        },
+        "main": {
+          "50": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.05)"
+            },
+            "name": "ColorTErrorMain50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.1)"
+            },
+            "name": "ColorTErrorMain100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.15)"
+            },
+            "name": "ColorTErrorMain200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.25)"
+            },
+            "name": "ColorTErrorMain300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.35)"
+            },
+            "name": "ColorTErrorMain400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.55)"
+            },
+            "name": "ColorTErrorMain500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.65)"
+            },
+            "name": "ColorTErrorMain600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.75)"
+            },
+            "name": "ColorTErrorMain700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.85)"
+            },
+            "name": "ColorTErrorMain800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0.95)"
+            },
+            "name": "ColorTErrorMain900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "#D32F2F"
+            },
+            "name": "ColorTErrorMain1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#d32f2f",
+            "original": {
+              "value": "rgba(211, 47, 47, 0)"
+            },
+            "name": "ColorTErrorMain000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "error",
+              "subitem": "main",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "error",
+              "main",
+              "000"
+            ]
+          }
+        }
+      },
+      "info": {
+        "dark": {
+          "50": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.05)"
+            },
+            "name": "ColorTInfoDark50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.1)"
+            },
+            "name": "ColorTInfoDark100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.15)"
+            },
+            "name": "ColorTInfoDark200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.25)"
+            },
+            "name": "ColorTInfoDark300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.35)"
+            },
+            "name": "ColorTInfoDark400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.55)"
+            },
+            "name": "ColorTInfoDark500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.65)"
+            },
+            "name": "ColorTInfoDark600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.75)"
+            },
+            "name": "ColorTInfoDark700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.85)"
+            },
+            "name": "ColorTInfoDark800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0.95)"
+            },
+            "name": "ColorTInfoDark900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#18363e",
+            "original": {
+              "value": "#18363E"
+            },
+            "name": "ColorTInfoDark1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#18363e",
+            "original": {
+              "value": "rgba(24, 54, 62, 0)"
+            },
+            "name": "ColorTInfoDark000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "dark",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "dark",
+              "000"
+            ]
+          }
+        },
+        "light": {
+          "50": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.05)"
+            },
+            "name": "ColorTInfoLight50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.1)"
+            },
+            "name": "ColorTInfoLight100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.15)"
+            },
+            "name": "ColorTInfoLight200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.25)"
+            },
+            "name": "ColorTInfoLight300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.35)"
+            },
+            "name": "ColorTInfoLight400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.55)"
+            },
+            "name": "ColorTInfoLight500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.65)"
+            },
+            "name": "ColorTInfoLight600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.75)"
+            },
+            "name": "ColorTInfoLight700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.85)"
+            },
+            "name": "ColorTInfoLight800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.95)"
+            },
+            "name": "ColorTInfoLight900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "#4FB3CD"
+            },
+            "name": "ColorTInfoLight1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0)"
+            },
+            "name": "ColorTInfoLight000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "light",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "light",
+              "000"
+            ]
+          }
+        },
+        "main": {
+          "50": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.05)"
+            },
+            "name": "ColorTInfoMain50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.1)"
+            },
+            "name": "ColorTInfoMain100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.15)"
+            },
+            "name": "ColorTInfoMain200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.25)"
+            },
+            "name": "ColorTInfoMain300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.35)"
+            },
+            "name": "ColorTInfoMain400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.55)"
+            },
+            "name": "ColorTInfoMain500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.65)"
+            },
+            "name": "ColorTInfoMain600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.75)"
+            },
+            "name": "ColorTInfoMain700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.85)"
+            },
+            "name": "ColorTInfoMain800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0.95)"
+            },
+            "name": "ColorTInfoMain900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#377d90",
+            "original": {
+              "value": "#377D90"
+            },
+            "name": "ColorTInfoMain1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#377d90",
+            "original": {
+              "value": "rgba(55, 125, 144, 0)"
+            },
+            "name": "ColorTInfoMain000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "info",
+              "subitem": "main",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "info",
+              "main",
+              "000"
+            ]
+          }
+        }
+      },
+      "neutral": {
+        "inverted000": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0)"
+          },
+          "name": "ColorTNeutralInverted000",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted000"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted000"
+          ]
+        },
+        "inverted100": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.04)"
+          },
+          "name": "ColorTNeutralInverted100",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted100"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted100"
+          ]
+        },
+        "inverted1000": {
+          "value": "#000000",
+          "original": {
+            "value": "#000000"
+          },
+          "name": "ColorTNeutralInverted1000",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted1000"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted1000"
+          ]
+        },
+        "inverted200": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.07)"
+          },
+          "name": "ColorTNeutralInverted200",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted200"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted200"
+          ]
+        },
+        "inverted300": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.12)"
+          },
+          "name": "ColorTNeutralInverted300",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted300"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted300"
+          ]
+        },
+        "inverted400": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.26)"
+          },
+          "name": "ColorTNeutralInverted400",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted400"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted400"
+          ]
+        },
+        "inverted50": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.02)"
+          },
+          "name": "ColorTNeutralInverted50",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted50"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted50"
+          ]
+        },
+        "inverted500": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.38)"
+          },
+          "name": "ColorTNeutralInverted500",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted500"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted500"
+          ]
+        },
+        "inverted600": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.54)"
+          },
+          "name": "ColorTNeutralInverted600",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted600"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted600"
+          ]
+        },
+        "inverted700": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.62)"
+          },
+          "name": "ColorTNeutralInverted700",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted700"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted700"
+          ]
+        },
+        "inverted800": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.74)"
+          },
+          "name": "ColorTNeutralInverted800",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted800"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted800"
+          ]
+        },
+        "inverted900": {
+          "value": "#000000",
+          "original": {
+            "value": "rgba(0, 0, 0, 0.87)"
+          },
+          "name": "ColorTNeutralInverted900",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "inverted900"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "inverted900"
+          ]
+        },
+        "neutral000": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0)"
+          },
+          "name": "ColorTNeutralNeutral000",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral000"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral000"
+          ]
+        },
+        "neutral100": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.1)"
+          },
+          "name": "ColorTNeutralNeutral100",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral100"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral100"
+          ]
+        },
+        "neutral1000": {
+          "value": "#ffffff",
+          "original": {
+            "value": "#FFFFFF"
+          },
+          "name": "ColorTNeutralNeutral1000",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral1000"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral1000"
+          ]
+        },
+        "neutral200": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.15)"
+          },
+          "name": "ColorTNeutralNeutral200",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral200"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral200"
+          ]
+        },
+        "neutral300": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.25)"
+          },
+          "name": "ColorTNeutralNeutral300",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral300"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral300"
+          ]
+        },
+        "neutral400": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.35)"
+          },
+          "name": "ColorTNeutralNeutral400",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral400"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral400"
+          ]
+        },
+        "neutral50": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.05)"
+          },
+          "name": "ColorTNeutralNeutral50",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral50"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral50"
+          ]
+        },
+        "neutral500": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.55)"
+          },
+          "name": "ColorTNeutralNeutral500",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral500"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral500"
+          ]
+        },
+        "neutral600": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.65)"
+          },
+          "name": "ColorTNeutralNeutral600",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral600"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral600"
+          ]
+        },
+        "neutral700": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.75)"
+          },
+          "name": "ColorTNeutralNeutral700",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral700"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral700"
+          ]
+        },
+        "neutral800": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.85)"
+          },
+          "name": "ColorTNeutralNeutral800",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral800"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral800"
+          ]
+        },
+        "neutral900": {
+          "value": "#ffffff",
+          "original": {
+            "value": "rgba(255, 255, 255, 0.95)"
+          },
+          "name": "ColorTNeutralNeutral900",
+          "attributes": {
+            "category": "color",
+            "type": "T",
+            "item": "neutral",
+            "subitem": "neutral900"
+          },
+          "path": [
+            "color",
+            "T",
+            "neutral",
+            "neutral900"
+          ]
+        }
+      },
+      "primary": {
+        "dark": {
+          "50": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.05)"
+            },
+            "name": "ColorTPrimaryDark50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.1)"
+            },
+            "name": "ColorTPrimaryDark100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.15)"
+            },
+            "name": "ColorTPrimaryDark200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.25)"
+            },
+            "name": "ColorTPrimaryDark300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.35)"
+            },
+            "name": "ColorTPrimaryDark400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.55)"
+            },
+            "name": "ColorTPrimaryDark500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.65)"
+            },
+            "name": "ColorTPrimaryDark600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.75)"
+            },
+            "name": "ColorTPrimaryDark700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.85)"
+            },
+            "name": "ColorTPrimaryDark800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0.95)"
+            },
+            "name": "ColorTPrimaryDark900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "#5C1D5A"
+            },
+            "name": "ColorTPrimaryDark1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#5c1d5a",
+            "original": {
+              "value": "rgba(92, 29, 90, 0)"
+            },
+            "name": "ColorTPrimaryDark000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "dark",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "dark",
+              "000"
+            ]
+          }
+        },
+        "light": {
+          "50": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.05)"
+            },
+            "name": "ColorTPrimaryLight50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.1)"
+            },
+            "name": "ColorTPrimaryLight100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.15)"
+            },
+            "name": "ColorTPrimaryLight200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.25)"
+            },
+            "name": "ColorTPrimaryLight300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.35)"
+            },
+            "name": "ColorTPrimaryLight400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.55)"
+            },
+            "name": "ColorTPrimaryLight500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.65)"
+            },
+            "name": "ColorTPrimaryLight600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.75)"
+            },
+            "name": "ColorTPrimaryLight700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.85)"
+            },
+            "name": "ColorTPrimaryLight800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0.95)"
+            },
+            "name": "ColorTPrimaryLight900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "#BC8CBA"
+            },
+            "name": "ColorTPrimaryLight1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#bc8cba",
+            "original": {
+              "value": "rgba(188, 140, 186, 0)"
+            },
+            "name": "ColorTPrimaryLight000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "light",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "light",
+              "000"
+            ]
+          }
+        },
+        "main": {
+          "50": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.05)"
+            },
+            "name": "ColorTPrimaryMain50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.1)"
+            },
+            "name": "ColorTPrimaryMain100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.15)"
+            },
+            "name": "ColorTPrimaryMain200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.25)"
+            },
+            "name": "ColorTPrimaryMain300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.35)"
+            },
+            "name": "ColorTPrimaryMain400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.55)"
+            },
+            "name": "ColorTPrimaryMain500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.65)"
+            },
+            "name": "ColorTPrimaryMain600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.75)"
+            },
+            "name": "ColorTPrimaryMain700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.85)"
+            },
+            "name": "ColorTPrimaryMain800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.95)"
+            },
+            "name": "ColorTPrimaryMain900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#832a80",
+            "original": {
+              "value": "#832A80"
+            },
+            "name": "ColorTPrimaryMain1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0)"
+            },
+            "name": "ColorTPrimaryMain000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "000"
+            ]
+          },
+          "900 2": {
+            "value": "#832a80",
+            "original": {
+              "value": "rgba(131, 42, 128, 0.95)"
+            },
+            "name": "ColorTPrimaryMain9002",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "primary",
+              "subitem": "main",
+              "state": "900 2"
+            },
+            "path": [
+              "color",
+              "T",
+              "primary",
+              "main",
+              "900 2"
+            ]
+          }
+        }
+      },
+      "secondary": {
+        "dark": {
+          "50": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.05)"
+            },
+            "name": "ColorTSecondaryDark50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.1)"
+            },
+            "name": "ColorTSecondaryDark100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.15)"
+            },
+            "name": "ColorTSecondaryDark200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.25)"
+            },
+            "name": "ColorTSecondaryDark300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.35)"
+            },
+            "name": "ColorTSecondaryDark400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.55)"
+            },
+            "name": "ColorTSecondaryDark500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.65)"
+            },
+            "name": "ColorTSecondaryDark600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.75)"
+            },
+            "name": "ColorTSecondaryDark700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.85)"
+            },
+            "name": "ColorTSecondaryDark800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0.95)"
+            },
+            "name": "ColorTSecondaryDark900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#00344f",
+            "original": {
+              "value": "#00344F"
+            },
+            "name": "ColorTSecondaryDark1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#00344f",
+            "original": {
+              "value": "rgba(0, 52, 79, 0)"
+            },
+            "name": "ColorTSecondaryDark000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "dark",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "dark",
+              "000"
+            ]
+          }
+        },
+        "light": {
+          "50": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.05)"
+            },
+            "name": "ColorTSecondaryLight50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.1)"
+            },
+            "name": "ColorTSecondaryLight100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.15)"
+            },
+            "name": "ColorTSecondaryLight200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.25)"
+            },
+            "name": "ColorTSecondaryLight300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.35)"
+            },
+            "name": "ColorTSecondaryLight400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.55)"
+            },
+            "name": "ColorTSecondaryLight500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.65)"
+            },
+            "name": "ColorTSecondaryLight600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.75)"
+            },
+            "name": "ColorTSecondaryLight700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.85)"
+            },
+            "name": "ColorTSecondaryLight800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0.95)"
+            },
+            "name": "ColorTSecondaryLight900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "#4FB3CD"
+            },
+            "name": "ColorTSecondaryLight1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#4fb3cd",
+            "original": {
+              "value": "rgba(79, 179, 205, 0)"
+            },
+            "name": "ColorTSecondaryLight000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "light",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "light",
+              "000"
+            ]
+          }
+        },
+        "main": {
+          "50": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.05)"
+            },
+            "name": "ColorTSecondaryMain50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.1)"
+            },
+            "name": "ColorTSecondaryMain100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.15)"
+            },
+            "name": "ColorTSecondaryMain200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.25)"
+            },
+            "name": "ColorTSecondaryMain300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.35)"
+            },
+            "name": "ColorTSecondaryMain400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.55)"
+            },
+            "name": "ColorTSecondaryMain500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.65)"
+            },
+            "name": "ColorTSecondaryMain600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.75)"
+            },
+            "name": "ColorTSecondaryMain700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.85)"
+            },
+            "name": "ColorTSecondaryMain800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0.95)"
+            },
+            "name": "ColorTSecondaryMain900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#0078a2",
+            "original": {
+              "value": "#0078A2"
+            },
+            "name": "ColorTSecondaryMain1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#0078a2",
+            "original": {
+              "value": "rgba(0, 120, 162, 0)"
+            },
+            "name": "ColorTSecondaryMain000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "secondary",
+              "subitem": "main",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "secondary",
+              "main",
+              "000"
+            ]
+          }
+        }
+      },
+      "success": {
+        "dark": {
+          "50": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.05)"
+            },
+            "name": "ColorTSuccessDark50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.1)"
+            },
+            "name": "ColorTSuccessDark100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.15)"
+            },
+            "name": "ColorTSuccessDark200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.25)"
+            },
+            "name": "ColorTSuccessDark300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.35)"
+            },
+            "name": "ColorTSuccessDark400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.55)"
+            },
+            "name": "ColorTSuccessDark500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.65)"
+            },
+            "name": "ColorTSuccessDark600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.75)"
+            },
+            "name": "ColorTSuccessDark700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.85)"
+            },
+            "name": "ColorTSuccessDark800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0.95)"
+            },
+            "name": "ColorTSuccessDark900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "#1B5E20"
+            },
+            "name": "ColorTSuccessDark1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#1b5e20",
+            "original": {
+              "value": "rgba(27, 94, 32, 0)"
+            },
+            "name": "ColorTSuccessDark000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "dark",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "dark",
+              "000"
+            ]
+          }
+        },
+        "light": {
+          "50": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.05)"
+            },
+            "name": "ColorTSuccessLight50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.1)"
+            },
+            "name": "ColorTSuccessLight100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.15)"
+            },
+            "name": "ColorTSuccessLight200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.25)"
+            },
+            "name": "ColorTSuccessLight300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.35)"
+            },
+            "name": "ColorTSuccessLight400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.55)"
+            },
+            "name": "ColorTSuccessLight500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.65)"
+            },
+            "name": "ColorTSuccessLight600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.75)"
+            },
+            "name": "ColorTSuccessLight700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.85)"
+            },
+            "name": "ColorTSuccessLight800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0.95)"
+            },
+            "name": "ColorTSuccessLight900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#4caf50",
+            "original": {
+              "value": "#4CAF50"
+            },
+            "name": "ColorTSuccessLight1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#4caf50",
+            "original": {
+              "value": "rgba(76, 175, 80, 0)"
+            },
+            "name": "ColorTSuccessLight000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "light",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "light",
+              "000"
+            ]
+          }
+        },
+        "main": {
+          "50": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.05)"
+            },
+            "name": "ColorTSuccessMain50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.1)"
+            },
+            "name": "ColorTSuccessMain100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.15)"
+            },
+            "name": "ColorTSuccessMain200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.25)"
+            },
+            "name": "ColorTSuccessMain300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.35)"
+            },
+            "name": "ColorTSuccessMain400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.55)"
+            },
+            "name": "ColorTSuccessMain500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.65)"
+            },
+            "name": "ColorTSuccessMain600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.75)"
+            },
+            "name": "ColorTSuccessMain700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.85)"
+            },
+            "name": "ColorTSuccessMain800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0.95)"
+            },
+            "name": "ColorTSuccessMain900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "#2E7D32"
+            },
+            "name": "ColorTSuccessMain1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#2e7d32",
+            "original": {
+              "value": "rgba(46, 125, 50, 0)"
+            },
+            "name": "ColorTSuccessMain000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "success",
+              "subitem": "main",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "success",
+              "main",
+              "000"
+            ]
+          }
+        }
+      },
+      "warning": {
+        "dark": {
+          "50": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.05)"
+            },
+            "name": "ColorTWarningDark50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.1)"
+            },
+            "name": "ColorTWarningDark100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.15)"
+            },
+            "name": "ColorTWarningDark200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.25)"
+            },
+            "name": "ColorTWarningDark300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.35)"
+            },
+            "name": "ColorTWarningDark400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.55)"
+            },
+            "name": "ColorTWarningDark500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.65)"
+            },
+            "name": "ColorTWarningDark600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.75)"
+            },
+            "name": "ColorTWarningDark700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.85)"
+            },
+            "name": "ColorTWarningDark800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0.95)"
+            },
+            "name": "ColorTWarningDark900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#a16627",
+            "original": {
+              "value": "#A16627"
+            },
+            "name": "ColorTWarningDark1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#a16627",
+            "original": {
+              "value": "rgba(161, 102, 39, 0)"
+            },
+            "name": "ColorTWarningDark000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "dark",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "dark",
+              "000"
+            ]
+          }
+        },
+        "light": {
+          "50": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.05)"
+            },
+            "name": "ColorTWarningLight50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.1)"
+            },
+            "name": "ColorTWarningLight100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.15)"
+            },
+            "name": "ColorTWarningLight200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.25)"
+            },
+            "name": "ColorTWarningLight300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.35)"
+            },
+            "name": "ColorTWarningLight400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.55)"
+            },
+            "name": "ColorTWarningLight500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.65)"
+            },
+            "name": "ColorTWarningLight600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.75)"
+            },
+            "name": "ColorTWarningLight700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.85)"
+            },
+            "name": "ColorTWarningLight800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0.95)"
+            },
+            "name": "ColorTWarningLight900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#f1c392",
+            "original": {
+              "value": "#F1C392"
+            },
+            "name": "ColorTWarningLight1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#f1c392",
+            "original": {
+              "value": "rgba(241, 195, 146, 0)"
+            },
+            "name": "ColorTWarningLight000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "light",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "light",
+              "000"
+            ]
+          }
+        },
+        "main": {
+          "50": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.05)"
+            },
+            "name": "ColorTWarningMain50",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "50"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "50"
+            ]
+          },
+          "100": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.1)"
+            },
+            "name": "ColorTWarningMain100",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "100"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "100"
+            ]
+          },
+          "200": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.15)"
+            },
+            "name": "ColorTWarningMain200",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "200"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "200"
+            ]
+          },
+          "300": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.25)"
+            },
+            "name": "ColorTWarningMain300",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "300"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "300"
+            ]
+          },
+          "400": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.35)"
+            },
+            "name": "ColorTWarningMain400",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "400"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "400"
+            ]
+          },
+          "500": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.55)"
+            },
+            "name": "ColorTWarningMain500",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "500"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "500"
+            ]
+          },
+          "600": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.65)"
+            },
+            "name": "ColorTWarningMain600",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "600"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "600"
+            ]
+          },
+          "700": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.75)"
+            },
+            "name": "ColorTWarningMain700",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "700"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "700"
+            ]
+          },
+          "800": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.85)"
+            },
+            "name": "ColorTWarningMain800",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "800"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "800"
+            ]
+          },
+          "900": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0.95)"
+            },
+            "name": "ColorTWarningMain900",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "900"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "900"
+            ]
+          },
+          "1000": {
+            "value": "#c47c30",
+            "original": {
+              "value": "#C47C30"
+            },
+            "name": "ColorTWarningMain1000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "1000"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "1000"
+            ]
+          },
+          "000": {
+            "value": "#c47c30",
+            "original": {
+              "value": "rgba(196, 124, 48, 0)"
+            },
+            "name": "ColorTWarningMain000",
+            "attributes": {
+              "category": "color",
+              "type": "T",
+              "item": "warning",
+              "subitem": "main",
+              "state": "000"
+            },
+            "path": [
+              "color",
+              "T",
+              "warning",
+              "main",
+              "000"
+            ]
+          }
+        }
+      }
+    },
     "_components": {
       "alert": {
         "error": {
@@ -324,7 +5389,7 @@ module.exports = {
         "defaultHoverFill": {
           "value": "#ffffff",
           "original": {
-            "value": "rgba(255, 255, 255, 0.1)"
+            "value": "rgba(255, 255, 255, 0.12)"
           },
           "name": "ColorComponentsChipDefaultHoverFill",
           "attributes": {
@@ -346,7 +5411,7 @@ module.exports = {
           "enabledFill": {
             "value": "#ffffff",
             "original": {
-              "value": "rgba(255, 255, 255, 0.1)"
+              "value": "rgba(255, 255, 255, 0.09)"
             },
             "name": "ColorComponentsInputFilledEnabledFill",
             "attributes": {
@@ -367,7 +5432,7 @@ module.exports = {
           "hoverFill": {
             "value": "#ffffff",
             "original": {
-              "value": "rgba(255, 255, 255, 0.1)"
+              "value": "rgba(255, 255, 255, 0.12)"
             },
             "name": "ColorComponentsInputFilledHoverFill",
             "attributes": {
@@ -390,7 +5455,7 @@ module.exports = {
           "enabledBorder": {
             "value": "#ffffff",
             "original": {
-              "value": "rgba(255, 255, 255, 0.2)"
+              "value": "rgba(255, 255, 255, 0.23)"
             },
             "name": "ColorComponentsInputOutlinedEnabledBorder",
             "attributes": {
@@ -434,7 +5499,7 @@ module.exports = {
           "enabledBorder": {
             "value": "#ffffff",
             "original": {
-              "value": "rgba(255, 255, 255, 0.4)"
+              "value": "rgba(255, 255, 255, 0.42)"
             },
             "name": "ColorComponentsInputStandardEnabledBorder",
             "attributes": {
@@ -1004,7 +6069,7 @@ module.exports = {
         "outlineBorder": {
           "value": "#ffffff",
           "original": {
-            "value": "rgba(255, 255, 255, 0.1)"
+            "value": "rgba(255, 255, 255, 0.25)"
           },
           "name": "ColorComponentsPaperOutlineBorder",
           "attributes": {
@@ -1044,7 +6109,7 @@ module.exports = {
         "enabledBorder": {
           "value": "#ffffff",
           "original": {
-            "value": "rgba(255, 255, 255, 0.2)"
+            "value": "rgba(255, 255, 255, 0.23)"
           },
           "name": "ColorComponentsRatingEnabledBorder",
           "attributes": {
@@ -1145,7 +6210,7 @@ module.exports = {
         "slideFill": {
           "value": "#ffffff",
           "original": {
-            "value": "rgba(255, 255, 255, 0.4)"
+            "value": "rgba(255, 255, 255, 0.38)"
           },
           "name": "ColorComponentsSwitchSlideFill",
           "attributes": {
@@ -1228,7 +6293,7 @@ module.exports = {
       "active": {
         "value": "#ffffff",
         "original": {
-          "value": "#FFFFFF"
+          "value": "rgba(255, 255, 255, 0.65)"
         },
         "name": "ColorActionActive",
         "attributes": {
@@ -1247,7 +6312,7 @@ module.exports = {
         "value": "#ffffff",
         "original": {
           "comment": "Reflects the action.disabled variable from the theme object",
-          "value": "rgba(255, 255, 255, 0.3)"
+          "value": "rgba(255, 255, 255, 0.35)"
         },
         "name": "ColorActionDisabled",
         "attributes": {
@@ -1266,7 +6331,7 @@ module.exports = {
         "value": "#ffffff",
         "original": {
           "comment": "Reflects the action.disabledBackground variable from the theme object",
-          "value": "rgba(255, 255, 255, 0.1)"
+          "value": "rgba(255, 255, 255, 0.25)"
         },
         "name": "ColorActionDisabledBackground",
         "attributes": {
@@ -1285,7 +6350,7 @@ module.exports = {
         "value": "#ffffff",
         "original": {
           "comment": "Reflects the action.focus variable from the theme object",
-          "value": "rgba(255, 255, 255, 0.1)"
+          "value": "rgba(255, 255, 255, 0.25)"
         },
         "name": "ColorActionFocus",
         "attributes": {
@@ -1323,7 +6388,7 @@ module.exports = {
         "value": "#ffffff",
         "original": {
           "comment": "Reflects the action.selected variable from the theme object",
-          "value": "rgba(255, 255, 255, 0.2)"
+          "value": "rgba(255, 255, 255, 0.15)"
         },
         "name": "ColorActionSelected",
         "attributes": {
@@ -1382,7 +6447,7 @@ module.exports = {
           "focus": {
             "value": "#000000",
             "original": {
-              "value": "rgba(0, 0, 0, 0.1)"
+              "value": "rgba(0, 0, 0, 0.12)"
             },
             "name": "ColorCommonBlackStatesFocus",
             "attributes": {
@@ -1405,7 +6470,7 @@ module.exports = {
             "value": "#000000",
             "original": {
               "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-              "value": "rgba(0, 0, 0, 0.3)"
+              "value": "rgba(0, 0, 0, 0.26)"
             },
             "name": "ColorCommonBlackStatesFocusVisible",
             "attributes": {
@@ -1428,7 +6493,7 @@ module.exports = {
             "value": "#000000",
             "original": {
               "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-              "value": "rgba(0, 0, 0, 0.1)"
+              "value": "rgba(0, 0, 0, 0.04)"
             },
             "name": "ColorCommonBlackStatesHover",
             "attributes": {
@@ -1472,7 +6537,7 @@ module.exports = {
             "value": "#000000",
             "original": {
               "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-              "value": "rgba(0, 0, 0, 0.5)"
+              "value": "rgba(0, 0, 0, 0.54)"
             },
             "name": "ColorCommonBlackStatesOutlinedBorder",
             "attributes": {
@@ -1495,7 +6560,7 @@ module.exports = {
             "value": "#000000",
             "original": {
               "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-              "value": "rgba(0, 0, 0, 0.2)"
+              "value": "rgba(0, 0, 0, 0.07)"
             },
             "name": "ColorCommonBlackStatesSelected",
             "attributes": {
@@ -1520,7 +6585,7 @@ module.exports = {
           "focus": {
             "value": "#ffffff",
             "original": {
-              "value": "rgba(255, 255, 255, 0.1)"
+              "value": "rgba(255, 255, 255, 0.12)"
             },
             "name": "ColorCommonWhiteStatesFocus",
             "attributes": {
@@ -1564,7 +6629,7 @@ module.exports = {
             "value": "#ffffff",
             "original": {
               "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-              "value": "rgba(255, 255, 255, 0.1)"
+              "value": "rgba(255, 255, 255, 0.08)"
             },
             "name": "ColorCommonWhiteStatesHover",
             "attributes": {
@@ -1631,7 +6696,7 @@ module.exports = {
             "value": "#ffffff",
             "original": {
               "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-              "value": "rgba(255, 255, 255, 0.2)"
+              "value": "rgba(255, 255, 255, 0.16)"
             },
             "name": "ColorCommonWhiteStatesSelected",
             "attributes": {
@@ -1657,7 +6722,7 @@ module.exports = {
       "value": "#ffffff",
       "original": {
         "comment": "Reflects the divider variable from the theme object",
-        "value": "rgba(255, 255, 255, 0.1)"
+        "value": "rgba(255, 255, 255, 0.25)"
       },
       "name": "ColorDivider",
       "attributes": {
@@ -1672,9 +6737,9 @@ module.exports = {
     "error": {
       "_states": {
         "focusVisible": {
-          "value": "#f44336",
+          "value": "#d32f2f",
           "original": {
-            "value": "rgba(244, 67, 54, 0.3)"
+            "value": "rgba(211, 47, 47, 0.35)"
           },
           "name": "ColorErrorStatesFocusVisible",
           "attributes": {
@@ -1692,10 +6757,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#f44336",
+          "value": "#d32f2f",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(244, 67, 54, 0.1)"
+            "value": "rgba(211, 47, 47, 0.15)"
           },
           "name": "ColorErrorStatesHover",
           "attributes": {
@@ -1713,10 +6778,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#f44336",
+          "value": "#d32f2f",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(244, 67, 54, 0.5)"
+            "value": "rgba(211, 47, 47, 0.65)"
           },
           "name": "ColorErrorStatesOutlinedBorder",
           "attributes": {
@@ -1734,10 +6799,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#f44336",
+          "value": "#d32f2f",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(244, 67, 54, 0.2)"
+            "value": "rgba(211, 47, 47, 0.25)"
           },
           "name": "ColorErrorStatesSelected",
           "attributes": {
@@ -1772,9 +6837,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#d32f2f",
+        "value": "#5f2120",
         "original": {
-          "value": "#D32F2F"
+          "value": "#5F2120"
         },
         "name": "ColorErrorDark",
         "attributes": {
@@ -1789,9 +6854,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#e57373",
+        "value": "#ef5350",
         "original": {
-          "value": "#E57373"
+          "value": "#EF5350"
         },
         "name": "ColorErrorLight",
         "attributes": {
@@ -1806,9 +6871,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#f44336",
+        "value": "#d32f2f",
         "original": {
-          "value": "#F44336"
+          "value": "#D32F2F"
         },
         "name": "ColorErrorMain",
         "attributes": {
@@ -1851,7 +6916,7 @@ module.exports = {
           "value": "#29b6f6",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(41, 182, 246, 0.1)"
+            "value": "rgba(41, 182, 246, 0.08)"
           },
           "name": "ColorInfoStatesHover",
           "attributes": {
@@ -1893,7 +6958,7 @@ module.exports = {
           "value": "#29b6f6",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(41, 182, 246, 0.2)"
+            "value": "rgba(41, 182, 246, 0.16)"
           },
           "name": "ColorInfoStatesSelected",
           "attributes": {
@@ -1913,7 +6978,7 @@ module.exports = {
       "contrastText": {
         "value": "#000000",
         "original": {
-          "value": "rgba(0, 0, 0, 0.9)"
+          "value": "rgba(0, 0, 0, 0.87)"
         },
         "name": "ColorInfoContrastText",
         "attributes": {
@@ -1983,10 +7048,10 @@ module.exports = {
       "_states": {
         "focus": {
           "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-          "value": "#90caf9",
+          "value": "#832a80",
           "original": {
             "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-            "value": "rgba(144, 202, 249, 0.1)"
+            "value": "rgba(131, 42, 128, 0.25)"
           },
           "name": "ColorPrimaryStatesFocus",
           "attributes": {
@@ -2003,9 +7068,9 @@ module.exports = {
           ]
         },
         "focusVisible": {
-          "value": "#90caf9",
+          "value": "#832a80",
           "original": {
-            "value": "rgba(144, 202, 249, 0.3)"
+            "value": "rgba(131, 42, 128, 0.35)"
           },
           "name": "ColorPrimaryStatesFocusVisible",
           "attributes": {
@@ -2023,10 +7088,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#90caf9",
+          "value": "#832a80",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(144, 202, 249, 0.1)"
+            "value": "rgba(131, 42, 128, 0.1)"
           },
           "name": "ColorPrimaryStatesHover",
           "attributes": {
@@ -2044,10 +7109,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#90caf9",
+          "value": "#832a80",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(144, 202, 249, 0.5)"
+            "value": "rgba(131, 42, 128, 0.65)"
           },
           "name": "ColorPrimaryStatesOutlinedBorder",
           "attributes": {
@@ -2065,10 +7130,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#90caf9",
+          "value": "#832a80",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(144, 202, 249, 0.2)"
+            "value": "rgba(131, 42, 128, 0.15)"
           },
           "name": "ColorPrimaryStatesSelected",
           "attributes": {
@@ -2087,10 +7152,10 @@ module.exports = {
       },
       "contrastText": {
         "comment": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color",
-        "value": "#f3eaf2",
+        "value": "#ffffff",
         "original": {
           "comment": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color",
-          "value": "#F3EAF2"
+          "value": "#FFFFFF"
         },
         "name": "ColorPrimaryContrastText",
         "attributes": {
@@ -2106,10 +7171,10 @@ module.exports = {
       },
       "dark": {
         "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
-        "value": "#4da1be",
+        "value": "#5c1d5a",
         "original": {
           "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
-          "value": "#4DA1BE"
+          "value": "#5C1D5A"
         },
         "name": "ColorPrimaryDark",
         "attributes": {
@@ -2125,10 +7190,10 @@ module.exports = {
       },
       "light": {
         "comment": "Reflects the primary.light variable from the theme object",
-        "value": "#e6f2f6",
+        "value": "#bc8cba",
         "original": {
           "comment": "Reflects the primary.light variable from the theme object",
-          "value": "#E6F2F6"
+          "value": "#BC8CBA"
         },
         "name": "ColorPrimaryLight",
         "attributes": {
@@ -2144,10 +7209,10 @@ module.exports = {
       },
       "main": {
         "comment": "Reflects the primary.main variable from the theme object",
-        "value": "#99c9da",
+        "value": "#832a80",
         "original": {
           "comment": "Reflects the primary.main variable from the theme object",
-          "value": "#99C9DA"
+          "value": "#832A80"
         },
         "name": "ColorPrimaryMain",
         "attributes": {
@@ -2166,10 +7231,10 @@ module.exports = {
       "_states": {
         "focus": {
           "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-          "value": "#ce93d8",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-            "value": "rgba(206, 147, 216, 0.1)"
+            "value": "rgba(0, 120, 162, 0.25)"
           },
           "name": "ColorSecondaryStatesFocus",
           "attributes": {
@@ -2186,9 +7251,9 @@ module.exports = {
           ]
         },
         "focusVisible": {
-          "value": "#ce93d8",
+          "value": "#0078a2",
           "original": {
-            "value": "rgba(206, 147, 216, 0.3)"
+            "value": "rgba(0, 120, 162, 0.35)"
           },
           "name": "ColorSecondaryStatesFocusVisible",
           "attributes": {
@@ -2206,10 +7271,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#ce93d8",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(206, 147, 216, 0.1)"
+            "value": "rgba(0, 120, 162, 0.1)"
           },
           "name": "ColorSecondaryStatesHover",
           "attributes": {
@@ -2227,10 +7292,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#ce93d8",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(206, 147, 216, 0.5)"
+            "value": "rgba(0, 120, 162, 0.65)"
           },
           "name": "ColorSecondaryStatesOutlinedBorder",
           "attributes": {
@@ -2248,10 +7313,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#ce93d8",
+          "value": "#0078a2",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(206, 147, 216, 0.2)"
+            "value": "rgba(0, 120, 162, 0.15)"
           },
           "name": "ColorSecondaryStatesSelected",
           "attributes": {
@@ -2269,9 +7334,9 @@ module.exports = {
         }
       },
       "contrastText": {
-        "value": "#e6f2f6",
+        "value": "#ffffff",
         "original": {
-          "value": "#E6F2F6"
+          "value": "#FFFFFF"
         },
         "name": "ColorSecondaryContrastText",
         "attributes": {
@@ -2286,9 +7351,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#a86aa6",
+        "value": "#00344f",
         "original": {
-          "value": "#A86AA6"
+          "value": "#00344F"
         },
         "name": "ColorSecondaryDark",
         "attributes": {
@@ -2303,9 +7368,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#f3eaf2",
+        "value": "#4fb3cd",
         "original": {
-          "value": "#F3EAF2"
+          "value": "#4FB3CD"
         },
         "name": "ColorSecondaryLight",
         "attributes": {
@@ -2320,9 +7385,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#cdaacc",
+        "value": "#0078a2",
         "original": {
-          "value": "#CDAACC"
+          "value": "#0078A2"
         },
         "name": "ColorSecondaryMain",
         "attributes": {
@@ -2365,7 +7430,7 @@ module.exports = {
           "value": "#66bb6a",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(102, 187, 106, 0.1)"
+            "value": "rgba(102, 187, 106, 0.08)"
           },
           "name": "ColorSuccessStatesHover",
           "attributes": {
@@ -2407,7 +7472,7 @@ module.exports = {
           "value": "#66bb6a",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(102, 187, 106, 0.2)"
+            "value": "rgba(102, 187, 106, 0.16)"
           },
           "name": "ColorSuccessStatesSelected",
           "attributes": {
@@ -2427,7 +7492,7 @@ module.exports = {
       "contrastText": {
         "value": "#000000",
         "original": {
-          "value": "rgba(0, 0, 0, 0.9)"
+          "value": "rgba(0, 0, 0, 0.87)"
         },
         "name": "ColorSuccessContrastText",
         "attributes": {
@@ -2500,7 +7565,7 @@ module.exports = {
           "value": "#ffffff",
           "original": {
             "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
-            "value": "rgba(255, 255, 255, 0.1)"
+            "value": "rgba(255, 255, 255, 0.12)"
           },
           "name": "ColorTextStatesFocus",
           "attributes": {
@@ -2542,7 +7607,7 @@ module.exports = {
           "value": "#ffffff",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(255, 255, 255, 0.1)"
+            "value": "rgba(255, 255, 255, 0.08)"
           },
           "name": "ColorTextStatesHover",
           "attributes": {
@@ -2563,7 +7628,7 @@ module.exports = {
           "value": "#ffffff",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(255, 255, 255, 0.2)"
+            "value": "rgba(255, 255, 255, 0.16)"
           },
           "name": "ColorTextStatesSelected",
           "attributes": {
@@ -2585,7 +7650,7 @@ module.exports = {
         "value": "#ffffff",
         "original": {
           "comment": "Reflects the text.disabled variable from the theme object",
-          "value": "rgba(255, 255, 255, 0.4)"
+          "value": "rgba(255, 255, 255, 0.38)"
         },
         "name": "ColorTextDisabled",
         "attributes": {
@@ -2664,7 +7729,7 @@ module.exports = {
           "value": "#ffa726",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(255, 167, 38, 0.1)"
+            "value": "rgba(255, 167, 38, 0.08)"
           },
           "name": "ColorWarningStatesHover",
           "attributes": {
@@ -2706,7 +7771,7 @@ module.exports = {
           "value": "#ffa726",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(255, 167, 38, 0.2)"
+            "value": "rgba(255, 167, 38, 0.16)"
           },
           "name": "ColorWarningStatesSelected",
           "attributes": {
@@ -2726,7 +7791,7 @@ module.exports = {
       "contrastText": {
         "value": "#000000",
         "original": {
-          "value": "rgba(0, 0, 0, 0.9)"
+          "value": "rgba(0, 0, 0, 0.87)"
         },
         "name": "ColorWarningContrastText",
         "attributes": {
@@ -2791,6 +7856,23 @@ module.exports = {
           "main"
         ]
       }
+    }
+  },
+  "content": {
+    "Mode": {
+      "value": "Dark",
+      "original": {
+        "value": "Dark"
+      },
+      "name": "ContentMode",
+      "attributes": {
+        "category": "content",
+        "type": "Mode"
+      },
+      "path": [
+        "content",
+        "Mode"
+      ]
     }
   }
 };
