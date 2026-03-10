@@ -3,6 +3,10 @@
     "$type": "number",
     "$value": 4
   },
+  "borderRadiusInner": {
+    "$type": "number",
+    "$value": 4
+  },
   "chipRadius": {
     "$type": "number",
     "$value": "{borderRadius}"
