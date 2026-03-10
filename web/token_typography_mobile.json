@@ -1,5 +1,47 @@
 {
   "content": {
-    "fontFamily": "Montserrat"
+    "caption": {
+      "font-weight": "SemiBold"
+    },
+    "font-weight-bold": "Bold",
+    "font-weight-light": "Light",
+    "font-weight-medium": "Medium",
+    "font-weight-regular": "Regular",
+    "font-weight-semibold": "SemiBold",
+    "fontFamily": "Montserrat",
+    "fontFamilyMonospace": "Montserrat",
+    "header 1": {
+      "font-family": "Montserrat",
+      "font-weight": "SemiBold"
+    },
+    "header 2": {
+      "font-family": "Montserrat",
+      "font-weight": "SemiBold"
+    },
+    "header 3": {
+      "font-family": "Montserrat",
+      "font-weight": "SemiBold"
+    },
+    "header 4": {
+      "font-family": "Montserrat",
+      "font-weight": "SemiBold"
+    },
+    "header 5": {
+      "font-family": "Montserrat",
+      "font-weight": "SemiBold"
+    },
+    "header 6": {
+      "font-family": "Montserrat",
+      "font-weight": "SemiBold"
+    },
+    "monospace": {
+      "font-family": "Montserrat",
+      "font-weight": "Regular"
+    },
+    "paragraph": {
+      "paragraph-weight": "Regular",
+      "paragraph-weight-bold": "Bold",
+      "paragraph-weight-medium": "Medium"
+    }
   }
 }
