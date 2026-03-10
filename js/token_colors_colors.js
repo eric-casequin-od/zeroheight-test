@@ -1716,9 +1716,9 @@ module.exports = {
         ]
       },
       "200": {
-        "value": "#eeeeee",
+        "value": "#ededed",
         "original": {
-          "value": "#EEEEEE"
+          "value": "#EDEDED"
         },
         "name": "ColorGrey200",
         "attributes": {
@@ -3585,9 +3585,9 @@ module.exports = {
         ]
       },
       "300": {
-        "value": "#bb8ab9",
+        "value": "#bc8cba",
         "original": {
-          "value": "#BB8AB9"
+          "value": "#BC8CBA"
         },
         "name": "ColorPurple300",
         "attributes": {
