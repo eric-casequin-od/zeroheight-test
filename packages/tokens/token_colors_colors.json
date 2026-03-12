@@ -412,7 +412,7 @@
     },
     "200": {
       "$type": "color",
-      "$value": "#EEEEEE"
+      "$value": "#EDEDED"
     },
     "300": {
       "$type": "color",
@@ -864,7 +864,7 @@
     },
     "300": {
       "$type": "color",
-      "$value": "#BB8AB9"
+      "$value": "#BC8CBA"
     },
     "400": {
       "$type": "color",
