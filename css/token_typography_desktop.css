@@ -1,3 +1,27 @@
 :root {
+  --content-caption-font-weight: Regular;
+  --content-font-weight-bold: Bold;
+  --content-font-weight-light: Light;
+  --content-font-weight-medium: Medium;
+  --content-font-weight-regular: Regular;
+  --content-font-weight-semibold: SemiBold;
   --content-font-family: Montserrat;
+  --content-font-family-monospace: Montserrat;
+  --content-header-1-font-family: Montserrat;
+  --content-header-1-font-weight: SemiBold;
+  --content-header-2-font-family: Montserrat;
+  --content-header-2-font-weight: SemiBold;
+  --content-header-3-font-family: Montserrat;
+  --content-header-3-font-weight: SemiBold;
+  --content-header-4-font-family: Montserrat;
+  --content-header-4-font-weight: SemiBold;
+  --content-header-5-font-family: Montserrat;
+  --content-header-5-font-weight: SemiBold;
+  --content-header-6-font-family: Montserrat;
+  --content-header-6-font-weight: Regular;
+  --content-monospace-font-family: Montserrat;
+  --content-monospace-font-weight: Regular;
+  --content-paragraph-paragraph-weight: Regular;
+  --content-paragraph-paragraph-weight-bold: Bold;
+  --content-paragraph-paragraph-weight-medium: Medium;
 }
