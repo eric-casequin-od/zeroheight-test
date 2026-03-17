@@ -120,5 +120,39 @@
       "type": "number",
       "value": 9.5
     }
+  },
+  "negative": {
+    "neg10": {
+      "type": "number",
+      "value": -10
+    },
+    "neg12": {
+      "type": "number",
+      "value": -12
+    },
+    "neg14": {
+      "type": "number",
+      "value": -14
+    },
+    "neg16": {
+      "type": "number",
+      "value": -16
+    },
+    "neg2": {
+      "type": "number",
+      "value": -2
+    },
+    "neg4": {
+      "type": "number",
+      "value": -4
+    },
+    "neg6": {
+      "type": "number",
+      "value": -6
+    },
+    "neg8": {
+      "type": "number",
+      "value": -8
+    }
   }
 }

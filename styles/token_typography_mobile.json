@@ -72,7 +72,7 @@
   "caption": {
     "font-size": {
       "type": "number",
-      "value": "{_fontSize.0,625rem - 10}"
+      "value": "{_fontSize.0,75rem - 12}"
     },
     "font-weight": {
       "type": "string",
@@ -84,11 +84,11 @@
     },
     "line-height": {
       "type": "number",
-      "value": "{_fontSize.0,625rem - 10}"
+      "value": "{_fontSize.1,125rem - 18}"
     },
     "spacing": {
       "type": "number",
-      "value": "{_fontSize.0,625rem - 10}"
+      "value": "{_fontSize.0,75rem - 12}"
     }
   },
   "font-weight-bold": {
@@ -117,7 +117,7 @@
   },
   "fontFamilyMonospace": {
     "type": "string",
-    "value": "Montserrat"
+    "value": "Inconsolata"
   },
   "fontWeightBold": {
     "type": "number",
@@ -158,7 +158,7 @@
     },
     "line-height": {
       "type": "number",
-      "value": 71.67
+      "value": 82.42
     },
     "spacing": {
       "type": "number",
@@ -180,15 +180,15 @@
     },
     "letter-spacing": {
       "type": "number",
-      "value": -1
+      "value": 0
     },
     "line-height": {
       "type": "number",
-      "value": 30
+      "value": 43.7
     },
     "spacing": {
       "type": "number",
-      "value": 30
+      "value": 43.7
     }
   },
   "header 3": {
@@ -206,11 +206,11 @@
     },
     "letter-spacing": {
       "type": "number",
-      "value": -1
+      "value": 0
     },
     "line-height": {
       "type": "number",
-      "value": 28.8
+      "value": 36.8
     },
     "spacing": {
       "type": "number",
@@ -236,11 +236,11 @@
     },
     "line-height": {
       "type": "number",
-      "value": 24
+      "value": 27.6
     },
     "spacing": {
       "type": "number",
-      "value": 20
+      "value": 27.6
     }
   },
   "header 5": {
@@ -262,11 +262,11 @@
     },
     "line-height": {
       "type": "number",
-      "value": "{_fontSize.1,25rem - 20}"
+      "value": 23
     },
     "spacing": {
       "type": "number",
-      "value": "{_fontSize.1,25rem - 20}"
+      "value": 23
     }
   },
   "header 6": {
@@ -288,11 +288,11 @@
     },
     "line-height": {
       "type": "number",
-      "value": "{_fontSize.1,25rem - 20}"
+      "value": 28.8
     },
     "spacing": {
       "type": "number",
-      "value": "{_fontSize.1,25rem - 20}"
+      "value": 28.8
     }
   },
   "monospace": {
@@ -392,7 +392,7 @@
       "line-height": {
         "comment": "Base text",
         "type": "number",
-        "value": "{_fontSize.1,5rem - 24}"
+        "value": "{_fontSize.1,25rem - 20}"
       },
       "spacing": {
         "comment": "Base text",

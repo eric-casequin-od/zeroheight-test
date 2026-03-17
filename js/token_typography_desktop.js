@@ -110,9 +110,9 @@ module.exports = {
       ]
     },
     "fontFamilyMonospace": {
-      "value": "Montserrat",
+      "value": "Inconsolata",
       "original": {
-        "value": "Montserrat"
+        "value": "Inconsolata"
       },
       "name": "ContentFontFamilyMonospace",
       "attributes": {
@@ -342,9 +342,9 @@ module.exports = {
     },
     "monospace": {
       "font-family": {
-        "value": "Montserrat",
+        "value": "Inconsolata",
         "original": {
-          "value": "Montserrat"
+          "value": "Inconsolata"
         },
         "name": "ContentMonospaceFontFamily",
         "attributes": {

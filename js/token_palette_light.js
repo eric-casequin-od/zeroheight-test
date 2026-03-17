@@ -4,9 +4,9 @@ module.exports = {
       "alert": {
         "error": {
           "background": {
-            "value": "#d32f2f",
+            "value": "#fdecea",
             "original": {
-              "value": "rgba(211, 47, 47, 0.07)"
+              "value": "#FDECEA"
             },
             "name": "ColorComponentsAlertErrorBackground",
             "attributes": {
@@ -48,9 +48,9 @@ module.exports = {
         },
         "info": {
           "background": {
-            "value": "#377d90",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(55, 125, 144, 0.07)"
+              "value": "#E5F6FD"
             },
             "name": "ColorComponentsAlertInfoBackground",
             "attributes": {
@@ -92,9 +92,9 @@ module.exports = {
         },
         "success": {
           "background": {
-            "value": "#2e7d32",
+            "value": "#e8f5e9",
             "original": {
-              "value": "rgba(46, 125, 50, 0.07)"
+              "value": "#E8F5E9"
             },
             "name": "ColorComponentsAlertSuccessBackground",
             "attributes": {
@@ -136,9 +136,9 @@ module.exports = {
         },
         "warning": {
           "background": {
-            "value": "#c47c30",
+            "value": "#fff3e0",
             "original": {
-              "value": "rgba(196, 124, 48, 0.07)"
+              "value": "#FFF3E0"
             },
             "name": "ColorComponentsAlertWarningBackground",
             "attributes": {
@@ -157,9 +157,9 @@ module.exports = {
             ]
           },
           "color": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "#A16627"
+              "value": "#E65100"
             },
             "name": "ColorComponentsAlertWarningColor",
             "attributes": {
@@ -1341,10 +1341,10 @@ module.exports = {
     "background": {
       "default": {
         "comment": "Reflects the background.default variable from the theme object",
-        "value": "#ffffff",
+        "value": "#fafafa",
         "original": {
           "comment": "Reflects the background.default variable from the theme object",
-          "value": "#FFFFFF"
+          "value": "#FAFAFA"
         },
         "name": "ColorBackgroundDefault",
         "attributes": {
@@ -1378,6 +1378,25 @@ module.exports = {
     },
     "brand": {
       "error": {
+        "background": {
+          "value": "#fdecea",
+          "original": {
+            "value": "#FDECEA"
+          },
+          "name": "ColorBrandErrorBackground",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "error",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "brand",
+            "error",
+            "background"
+          ]
+        },
         "dark": {
           "50": {
             "value": "#5f2120",
@@ -2142,6 +2161,25 @@ module.exports = {
         }
       },
       "info": {
+        "background": {
+          "value": "#e5f6fd",
+          "original": {
+            "value": "#E5F6FD"
+          },
+          "name": "ColorBrandInfoBackground",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "info",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "brand",
+            "info",
+            "background"
+          ]
+        },
         "dark": {
           "50": {
             "value": "#18363e",
@@ -2398,9 +2436,9 @@ module.exports = {
         },
         "light": {
           "50": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.02)"
+              "value": "rgba(229, 246, 253, 0.02)"
             },
             "name": "ColorBrandInfoLight50",
             "attributes": {
@@ -2419,9 +2457,9 @@ module.exports = {
             ]
           },
           "100": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.04)"
+              "value": "rgba(229, 246, 253, 0.04)"
             },
             "name": "ColorBrandInfoLight100",
             "attributes": {
@@ -2440,9 +2478,9 @@ module.exports = {
             ]
           },
           "200": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.07)"
+              "value": "rgba(229, 246, 253, 0.07)"
             },
             "name": "ColorBrandInfoLight200",
             "attributes": {
@@ -2461,9 +2499,9 @@ module.exports = {
             ]
           },
           "300": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.12)"
+              "value": "rgba(229, 246, 253, 0.12)"
             },
             "name": "ColorBrandInfoLight300",
             "attributes": {
@@ -2482,9 +2520,9 @@ module.exports = {
             ]
           },
           "400": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.26)"
+              "value": "rgba(229, 246, 253, 0.26)"
             },
             "name": "ColorBrandInfoLight400",
             "attributes": {
@@ -2503,9 +2541,9 @@ module.exports = {
             ]
           },
           "500": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.38)"
+              "value": "rgba(229, 246, 253, 0.38)"
             },
             "name": "ColorBrandInfoLight500",
             "attributes": {
@@ -2524,9 +2562,9 @@ module.exports = {
             ]
           },
           "600": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.54)"
+              "value": "rgba(229, 246, 253, 0.54)"
             },
             "name": "ColorBrandInfoLight600",
             "attributes": {
@@ -2545,9 +2583,9 @@ module.exports = {
             ]
           },
           "700": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.62)"
+              "value": "rgba(229, 246, 253, 0.62)"
             },
             "name": "ColorBrandInfoLight700",
             "attributes": {
@@ -2566,9 +2604,9 @@ module.exports = {
             ]
           },
           "800": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.74)"
+              "value": "rgba(229, 246, 253, 0.74)"
             },
             "name": "ColorBrandInfoLight800",
             "attributes": {
@@ -2587,9 +2625,9 @@ module.exports = {
             ]
           },
           "900": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0.87)"
+              "value": "rgba(229, 246, 253, 0.87)"
             },
             "name": "ColorBrandInfoLight900",
             "attributes": {
@@ -2608,9 +2646,9 @@ module.exports = {
             ]
           },
           "1000": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "#4FB3CD"
+              "value": "#E5F6FD"
             },
             "name": "ColorBrandInfoLight1000",
             "attributes": {
@@ -2629,9 +2667,9 @@ module.exports = {
             ]
           },
           "000": {
-            "value": "#4fb3cd",
+            "value": "#e5f6fd",
             "original": {
-              "value": "rgba(79, 179, 205, 0)"
+              "value": "rgba(229, 246, 253, 0)"
             },
             "name": "ColorBrandInfoLight000",
             "attributes": {
@@ -2651,257 +2689,271 @@ module.exports = {
           }
         },
         "main": {
-          "50": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.02)"
+          "alpha": {
+            "50": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.02)"
+              },
+              "name": "ColorBrandInfoMainAlpha50",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "50"
+              ]
             },
-            "name": "ColorBrandInfoMain50",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "50"
+            "100": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.04)"
+              },
+              "name": "ColorBrandInfoMainAlpha100",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "100"
+              ]
             },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "50"
-            ]
-          },
-          "100": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.04)"
+            "200": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.07)"
+              },
+              "name": "ColorBrandInfoMainAlpha200",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "200"
+              ]
             },
-            "name": "ColorBrandInfoMain100",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "100"
+            "300": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.12)"
+              },
+              "name": "ColorBrandInfoMainAlpha300",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "300"
+              ]
             },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "100"
-            ]
-          },
-          "200": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.07)"
+            "400": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.26)"
+              },
+              "name": "ColorBrandInfoMainAlpha400",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "400"
+              ]
             },
-            "name": "ColorBrandInfoMain200",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "200"
+            "500": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.38)"
+              },
+              "name": "ColorBrandInfoMainAlpha500",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "500"
+              ]
             },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "200"
-            ]
-          },
-          "300": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.12)"
+            "600": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.54)"
+              },
+              "name": "ColorBrandInfoMainAlpha600",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "600"
+              ]
             },
-            "name": "ColorBrandInfoMain300",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "300"
+            "700": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.62)"
+              },
+              "name": "ColorBrandInfoMainAlpha700",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "700"
+              ]
             },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "300"
-            ]
-          },
-          "400": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.26)"
+            "800": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.74)"
+              },
+              "name": "ColorBrandInfoMainAlpha800",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "800"
+              ]
             },
-            "name": "ColorBrandInfoMain400",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "400"
+            "900": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0.87)"
+              },
+              "name": "ColorBrandInfoMainAlpha900",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "900"
+              ]
             },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "400"
-            ]
-          },
-          "500": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.38)"
+            "1000": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "#0D79A6"
+              },
+              "name": "ColorBrandInfoMainAlpha1000",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "1000"
+              ]
             },
-            "name": "ColorBrandInfoMain500",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "500"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "500"
-            ]
-          },
-          "600": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.54)"
-            },
-            "name": "ColorBrandInfoMain600",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "600"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "600"
-            ]
-          },
-          "700": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.62)"
-            },
-            "name": "ColorBrandInfoMain700",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "700"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "700"
-            ]
-          },
-          "800": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.74)"
-            },
-            "name": "ColorBrandInfoMain800",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "800"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "800"
-            ]
-          },
-          "900": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0.87)"
-            },
-            "name": "ColorBrandInfoMain900",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "900"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "900"
-            ]
-          },
-          "1000": {
-            "value": "#377d90",
-            "original": {
-              "value": "#377D90"
-            },
-            "name": "ColorBrandInfoMain1000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "1000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "1000"
-            ]
-          },
-          "000": {
-            "value": "#377d90",
-            "original": {
-              "value": "rgba(55, 125, 144, 0)"
-            },
-            "name": "ColorBrandInfoMain000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "info",
-              "subitem": "main",
-              "state": "000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "info",
-              "main",
-              "000"
-            ]
+            "000": {
+              "value": "#0d79a6",
+              "original": {
+                "value": "rgba(13, 121, 166, 0)"
+              },
+              "name": "ColorBrandInfoMainAlpha000",
+              "attributes": {
+                "category": "color",
+                "type": "brand",
+                "item": "info",
+                "subitem": "main",
+                "state": "alpha"
+              },
+              "path": [
+                "color",
+                "brand",
+                "info",
+                "main",
+                "alpha",
+                "000"
+              ]
+            }
           }
         }
       },
@@ -3592,767 +3644,309 @@ module.exports = {
         }
       },
       "primary": {
+        "contrastText": {
+          "value": "#ffffff",
+          "original": {
+            "value": "#FFFFFF"
+          },
+          "name": "ColorBrandPrimaryContrastText",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "contrastText"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "contrastText"
+          ]
+        },
         "dark": {
-          "50": {
-            "value": "#5c1d5a",
-            "original": {
+          "alpha": {
+            "50": {
               "value": "rgba(92, 29, 90, 0.02)"
             },
-            "name": "ColorBrandPrimaryDark50",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "50"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "50"
-            ]
-          },
-          "100": {
-            "value": "#5c1d5a",
-            "original": {
+            "100": {
               "value": "rgba(92, 29, 90, 0.04)"
             },
-            "name": "ColorBrandPrimaryDark100",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "100"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "100"
-            ]
-          },
-          "200": {
-            "value": "#5c1d5a",
-            "original": {
+            "200": {
               "value": "rgba(92, 29, 90, 0.07)"
             },
-            "name": "ColorBrandPrimaryDark200",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "200"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "200"
-            ]
-          },
-          "300": {
-            "value": "#5c1d5a",
-            "original": {
+            "300": {
               "value": "rgba(92, 29, 90, 0.12)"
             },
-            "name": "ColorBrandPrimaryDark300",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "300"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "300"
-            ]
-          },
-          "400": {
-            "value": "#5c1d5a",
-            "original": {
+            "400": {
               "value": "rgba(92, 29, 90, 0.26)"
             },
-            "name": "ColorBrandPrimaryDark400",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "400"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "400"
-            ]
-          },
-          "500": {
-            "value": "#5c1d5a",
-            "original": {
+            "500": {
               "value": "rgba(92, 29, 90, 0.38)"
             },
-            "name": "ColorBrandPrimaryDark500",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "500"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "500"
-            ]
-          },
-          "600": {
-            "value": "#5c1d5a",
-            "original": {
+            "600": {
               "value": "rgba(92, 29, 90, 0.54)"
             },
-            "name": "ColorBrandPrimaryDark600",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "600"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "600"
-            ]
-          },
-          "700": {
-            "value": "#5c1d5a",
-            "original": {
+            "700": {
               "value": "rgba(92, 29, 90, 0.62)"
             },
-            "name": "ColorBrandPrimaryDark700",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "700"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "700"
-            ]
-          },
-          "800": {
-            "value": "#5c1d5a",
-            "original": {
+            "800": {
               "value": "rgba(92, 29, 90, 0.74)"
             },
-            "name": "ColorBrandPrimaryDark800",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "800"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "800"
-            ]
-          },
-          "900": {
-            "value": "#5c1d5a",
-            "original": {
+            "900": {
               "value": "rgba(92, 29, 90, 0.87)"
             },
-            "name": "ColorBrandPrimaryDark900",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "900"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "900"
-            ]
-          },
-          "1000": {
-            "value": "#5c1d5a",
-            "original": {
+            "1000": {
               "value": "#5C1D5A"
             },
-            "name": "ColorBrandPrimaryDark1000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "1000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "1000"
-            ]
-          },
-          "000": {
-            "value": "#5c1d5a",
-            "original": {
+            "000": {
               "value": "rgba(92, 29, 90, 0)"
+            }
+          },
+          "value": "#5c1d5a",
+          "original": {
+            "alpha": {
+              "50": {
+                "value": "rgba(92, 29, 90, 0.02)"
+              },
+              "100": {
+                "value": "rgba(92, 29, 90, 0.04)"
+              },
+              "200": {
+                "value": "rgba(92, 29, 90, 0.07)"
+              },
+              "300": {
+                "value": "rgba(92, 29, 90, 0.12)"
+              },
+              "400": {
+                "value": "rgba(92, 29, 90, 0.26)"
+              },
+              "500": {
+                "value": "rgba(92, 29, 90, 0.38)"
+              },
+              "600": {
+                "value": "rgba(92, 29, 90, 0.54)"
+              },
+              "700": {
+                "value": "rgba(92, 29, 90, 0.62)"
+              },
+              "800": {
+                "value": "rgba(92, 29, 90, 0.74)"
+              },
+              "900": {
+                "value": "rgba(92, 29, 90, 0.87)"
+              },
+              "1000": {
+                "value": "#5C1D5A"
+              },
+              "000": {
+                "value": "rgba(92, 29, 90, 0)"
+              }
             },
-            "name": "ColorBrandPrimaryDark000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "dark",
-              "state": "000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "dark",
-              "000"
-            ]
-          }
+            "value": "#5C1D5A"
+          },
+          "name": "ColorBrandPrimaryDark",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "dark"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "dark"
+          ]
         },
         "light": {
-          "50": {
-            "value": "#bc8cba",
-            "original": {
+          "alpha": {
+            "50": {
               "value": "rgba(188, 140, 186, 0.02)"
             },
-            "name": "ColorBrandPrimaryLight50",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "50"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "50"
-            ]
-          },
-          "100": {
-            "value": "#bc8cba",
-            "original": {
+            "100": {
               "value": "rgba(188, 140, 186, 0.04)"
             },
-            "name": "ColorBrandPrimaryLight100",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "100"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "100"
-            ]
-          },
-          "200": {
-            "value": "#bc8cba",
-            "original": {
+            "200": {
               "value": "rgba(188, 140, 186, 0.07)"
             },
-            "name": "ColorBrandPrimaryLight200",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "200"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "200"
-            ]
-          },
-          "300": {
-            "value": "#bc8cba",
-            "original": {
+            "300": {
               "value": "rgba(188, 140, 186, 0.12)"
             },
-            "name": "ColorBrandPrimaryLight300",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "300"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "300"
-            ]
-          },
-          "400": {
-            "value": "#bc8cba",
-            "original": {
+            "400": {
               "value": "rgba(188, 140, 186, 0.26)"
             },
-            "name": "ColorBrandPrimaryLight400",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "400"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "400"
-            ]
-          },
-          "500": {
-            "value": "#bc8cba",
-            "original": {
+            "500": {
               "value": "rgba(188, 140, 186, 0.38)"
             },
-            "name": "ColorBrandPrimaryLight500",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "500"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "500"
-            ]
-          },
-          "600": {
-            "value": "#bc8cba",
-            "original": {
+            "600": {
               "value": "rgba(188, 140, 186, 0.54)"
             },
-            "name": "ColorBrandPrimaryLight600",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "600"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "600"
-            ]
-          },
-          "700": {
-            "value": "#bc8cba",
-            "original": {
+            "700": {
               "value": "rgba(188, 140, 186, 0.62)"
             },
-            "name": "ColorBrandPrimaryLight700",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "700"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "700"
-            ]
-          },
-          "800": {
-            "value": "#bc8cba",
-            "original": {
+            "800": {
               "value": "rgba(188, 140, 186, 0.74)"
             },
-            "name": "ColorBrandPrimaryLight800",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "800"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "800"
-            ]
-          },
-          "900": {
-            "value": "#bc8cba",
-            "original": {
+            "900": {
               "value": "rgba(188, 140, 186, 0.87)"
             },
-            "name": "ColorBrandPrimaryLight900",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "900"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "900"
-            ]
-          },
-          "1000": {
-            "value": "#bc8cba",
-            "original": {
+            "1000": {
               "value": "#BC8CBA"
             },
-            "name": "ColorBrandPrimaryLight1000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "1000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "1000"
-            ]
-          },
-          "000": {
-            "value": "#bc8cba",
-            "original": {
+            "000": {
               "value": "rgba(188, 140, 186, 0)"
+            }
+          },
+          "value": "#bc8cba",
+          "original": {
+            "alpha": {
+              "50": {
+                "value": "rgba(188, 140, 186, 0.02)"
+              },
+              "100": {
+                "value": "rgba(188, 140, 186, 0.04)"
+              },
+              "200": {
+                "value": "rgba(188, 140, 186, 0.07)"
+              },
+              "300": {
+                "value": "rgba(188, 140, 186, 0.12)"
+              },
+              "400": {
+                "value": "rgba(188, 140, 186, 0.26)"
+              },
+              "500": {
+                "value": "rgba(188, 140, 186, 0.38)"
+              },
+              "600": {
+                "value": "rgba(188, 140, 186, 0.54)"
+              },
+              "700": {
+                "value": "rgba(188, 140, 186, 0.62)"
+              },
+              "800": {
+                "value": "rgba(188, 140, 186, 0.74)"
+              },
+              "900": {
+                "value": "rgba(188, 140, 186, 0.87)"
+              },
+              "1000": {
+                "value": "#BC8CBA"
+              },
+              "000": {
+                "value": "rgba(188, 140, 186, 0)"
+              }
             },
-            "name": "ColorBrandPrimaryLight000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "light",
-              "state": "000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "light",
-              "000"
-            ]
-          }
+            "value": "#BC8CBA"
+          },
+          "name": "ColorBrandPrimaryLight",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "light"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "light"
+          ]
         },
         "main": {
-          "50": {
-            "value": "#832a80",
-            "original": {
+          "alpha": {
+            "50": {
               "value": "rgba(131, 42, 128, 0.02)"
             },
-            "name": "ColorBrandPrimaryMain50",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "50"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "50"
-            ]
-          },
-          "100": {
-            "value": "#832a80",
-            "original": {
+            "100": {
               "value": "rgba(131, 42, 128, 0.04)"
             },
-            "name": "ColorBrandPrimaryMain100",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "100"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "100"
-            ]
-          },
-          "200": {
-            "value": "#832a80",
-            "original": {
+            "200": {
               "value": "rgba(131, 42, 128, 0.07)"
             },
-            "name": "ColorBrandPrimaryMain200",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "200"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "200"
-            ]
-          },
-          "300": {
-            "value": "#832a80",
-            "original": {
+            "300": {
               "value": "rgba(131, 42, 128, 0.12)"
             },
-            "name": "ColorBrandPrimaryMain300",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "300"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "300"
-            ]
-          },
-          "400": {
-            "value": "#832a80",
-            "original": {
+            "400": {
               "value": "rgba(131, 42, 128, 0.26)"
             },
-            "name": "ColorBrandPrimaryMain400",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "400"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "400"
-            ]
-          },
-          "500": {
-            "value": "#832a80",
-            "original": {
+            "500": {
               "value": "rgba(131, 42, 128, 0.38)"
             },
-            "name": "ColorBrandPrimaryMain500",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "500"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "500"
-            ]
-          },
-          "600": {
-            "value": "#832a80",
-            "original": {
+            "600": {
               "value": "rgba(131, 42, 128, 0.54)"
             },
-            "name": "ColorBrandPrimaryMain600",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "600"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "600"
-            ]
-          },
-          "700": {
-            "value": "#832a80",
-            "original": {
+            "700": {
               "value": "rgba(131, 42, 128, 0.62)"
             },
-            "name": "ColorBrandPrimaryMain700",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "700"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "700"
-            ]
-          },
-          "800": {
-            "value": "#832a80",
-            "original": {
+            "800": {
               "value": "rgba(131, 42, 128, 0.74)"
             },
-            "name": "ColorBrandPrimaryMain800",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "800"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "800"
-            ]
-          },
-          "900": {
-            "value": "#832a80",
-            "original": {
+            "900": {
               "value": "rgba(131, 42, 128, 0.87)"
             },
-            "name": "ColorBrandPrimaryMain900",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "900"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "900"
-            ]
-          },
-          "1000": {
-            "value": "#832a80",
-            "original": {
+            "1000": {
               "value": "#832A80"
             },
-            "name": "ColorBrandPrimaryMain1000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "1000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "1000"
-            ]
-          },
-          "000": {
-            "value": "#832a80",
-            "original": {
+            "000": {
               "value": "rgba(131, 42, 128, 0)"
+            }
+          },
+          "value": "#832a80",
+          "original": {
+            "alpha": {
+              "50": {
+                "value": "rgba(131, 42, 128, 0.02)"
+              },
+              "100": {
+                "value": "rgba(131, 42, 128, 0.04)"
+              },
+              "200": {
+                "value": "rgba(131, 42, 128, 0.07)"
+              },
+              "300": {
+                "value": "rgba(131, 42, 128, 0.12)"
+              },
+              "400": {
+                "value": "rgba(131, 42, 128, 0.26)"
+              },
+              "500": {
+                "value": "rgba(131, 42, 128, 0.38)"
+              },
+              "600": {
+                "value": "rgba(131, 42, 128, 0.54)"
+              },
+              "700": {
+                "value": "rgba(131, 42, 128, 0.62)"
+              },
+              "800": {
+                "value": "rgba(131, 42, 128, 0.74)"
+              },
+              "900": {
+                "value": "rgba(131, 42, 128, 0.87)"
+              },
+              "1000": {
+                "value": "#832A80"
+              },
+              "000": {
+                "value": "rgba(131, 42, 128, 0)"
+              }
             },
-            "name": "ColorBrandPrimaryMain000",
-            "attributes": {
-              "category": "color",
-              "type": "brand",
-              "item": "primary",
-              "subitem": "main",
-              "state": "000"
-            },
-            "path": [
-              "color",
-              "brand",
-              "primary",
-              "main",
-              "000"
-            ]
-          }
+            "value": "#832A80"
+          },
+          "name": "ColorBrandPrimaryMain",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "primary",
+            "subitem": "main"
+          },
+          "path": [
+            "color",
+            "brand",
+            "primary",
+            "main"
+          ]
         }
       },
       "secondary": {
@@ -5120,6 +4714,25 @@ module.exports = {
         }
       },
       "success": {
+        "background": {
+          "value": "#e8f5e9",
+          "original": {
+            "value": "#E8F5E9"
+          },
+          "name": "ColorBrandSuccessBackground",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "success",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "brand",
+            "success",
+            "background"
+          ]
+        },
         "dark": {
           "50": {
             "value": "#1b5e20",
@@ -5884,11 +5497,30 @@ module.exports = {
         }
       },
       "warning": {
+        "background": {
+          "value": "#fff3e0",
+          "original": {
+            "value": "#FFF3E0"
+          },
+          "name": "ColorBrandWarningBackground",
+          "attributes": {
+            "category": "color",
+            "type": "brand",
+            "item": "warning",
+            "subitem": "background"
+          },
+          "path": [
+            "color",
+            "brand",
+            "warning",
+            "background"
+          ]
+        },
         "dark": {
           "50": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.02)"
+              "value": "rgba(230, 81, 0, 0.02)"
             },
             "name": "ColorBrandWarningDark50",
             "attributes": {
@@ -5907,9 +5539,9 @@ module.exports = {
             ]
           },
           "100": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.04)"
+              "value": "rgba(230, 81, 0, 0.04)"
             },
             "name": "ColorBrandWarningDark100",
             "attributes": {
@@ -5928,9 +5560,9 @@ module.exports = {
             ]
           },
           "200": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.07)"
+              "value": "rgba(230, 81, 0, 0.07)"
             },
             "name": "ColorBrandWarningDark200",
             "attributes": {
@@ -5949,9 +5581,9 @@ module.exports = {
             ]
           },
           "300": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.12)"
+              "value": "rgba(230, 81, 0, 0.12)"
             },
             "name": "ColorBrandWarningDark300",
             "attributes": {
@@ -5970,9 +5602,9 @@ module.exports = {
             ]
           },
           "400": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.26)"
+              "value": "rgba(230, 81, 0, 0.26)"
             },
             "name": "ColorBrandWarningDark400",
             "attributes": {
@@ -5991,9 +5623,9 @@ module.exports = {
             ]
           },
           "500": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.38)"
+              "value": "rgba(230, 81, 0, 0.38)"
             },
             "name": "ColorBrandWarningDark500",
             "attributes": {
@@ -6012,9 +5644,9 @@ module.exports = {
             ]
           },
           "600": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.54)"
+              "value": "rgba(230, 81, 0, 0.54)"
             },
             "name": "ColorBrandWarningDark600",
             "attributes": {
@@ -6033,9 +5665,9 @@ module.exports = {
             ]
           },
           "700": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.62)"
+              "value": "rgba(230, 81, 0, 0.62)"
             },
             "name": "ColorBrandWarningDark700",
             "attributes": {
@@ -6054,9 +5686,9 @@ module.exports = {
             ]
           },
           "800": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.74)"
+              "value": "rgba(230, 81, 0, 0.74)"
             },
             "name": "ColorBrandWarningDark800",
             "attributes": {
@@ -6075,9 +5707,9 @@ module.exports = {
             ]
           },
           "900": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0.87)"
+              "value": "rgba(230, 81, 0, 0.87)"
             },
             "name": "ColorBrandWarningDark900",
             "attributes": {
@@ -6096,9 +5728,9 @@ module.exports = {
             ]
           },
           "1000": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "#A16627"
+              "value": "#E65100"
             },
             "name": "ColorBrandWarningDark1000",
             "attributes": {
@@ -6117,9 +5749,9 @@ module.exports = {
             ]
           },
           "000": {
-            "value": "#a16627",
+            "value": "#e65100",
             "original": {
-              "value": "rgba(161, 102, 39, 0)"
+              "value": "rgba(230, 81, 0, 0)"
             },
             "name": "ColorBrandWarningDark000",
             "attributes": {
@@ -6140,9 +5772,9 @@ module.exports = {
         },
         "light": {
           "50": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.02)"
+              "value": "rgba(255, 183, 77, 0.02)"
             },
             "name": "ColorBrandWarningLight50",
             "attributes": {
@@ -6161,9 +5793,9 @@ module.exports = {
             ]
           },
           "100": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.04)"
+              "value": "rgba(255, 183, 77, 0.04)"
             },
             "name": "ColorBrandWarningLight100",
             "attributes": {
@@ -6182,9 +5814,9 @@ module.exports = {
             ]
           },
           "200": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.07)"
+              "value": "rgba(255, 183, 77, 0.07)"
             },
             "name": "ColorBrandWarningLight200",
             "attributes": {
@@ -6203,9 +5835,9 @@ module.exports = {
             ]
           },
           "300": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.12)"
+              "value": "rgba(255, 183, 77, 0.12)"
             },
             "name": "ColorBrandWarningLight300",
             "attributes": {
@@ -6224,9 +5856,9 @@ module.exports = {
             ]
           },
           "400": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.26)"
+              "value": "rgba(255, 183, 77, 0.26)"
             },
             "name": "ColorBrandWarningLight400",
             "attributes": {
@@ -6245,9 +5877,9 @@ module.exports = {
             ]
           },
           "500": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.38)"
+              "value": "rgba(255, 183, 77, 0.38)"
             },
             "name": "ColorBrandWarningLight500",
             "attributes": {
@@ -6266,9 +5898,9 @@ module.exports = {
             ]
           },
           "600": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.54)"
+              "value": "rgba(255, 183, 77, 0.54)"
             },
             "name": "ColorBrandWarningLight600",
             "attributes": {
@@ -6287,9 +5919,9 @@ module.exports = {
             ]
           },
           "700": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.62)"
+              "value": "rgba(255, 183, 77, 0.62)"
             },
             "name": "ColorBrandWarningLight700",
             "attributes": {
@@ -6308,9 +5940,9 @@ module.exports = {
             ]
           },
           "800": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.74)"
+              "value": "rgba(255, 183, 77, 0.74)"
             },
             "name": "ColorBrandWarningLight800",
             "attributes": {
@@ -6329,9 +5961,9 @@ module.exports = {
             ]
           },
           "900": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0.87)"
+              "value": "rgba(255, 183, 77, 0.87)"
             },
             "name": "ColorBrandWarningLight900",
             "attributes": {
@@ -6350,9 +5982,9 @@ module.exports = {
             ]
           },
           "1000": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "#F1C392"
+              "value": "#FFB74D"
             },
             "name": "ColorBrandWarningLight1000",
             "attributes": {
@@ -6371,9 +6003,9 @@ module.exports = {
             ]
           },
           "000": {
-            "value": "#f1c392",
+            "value": "#ffb74d",
             "original": {
-              "value": "rgba(241, 195, 146, 0)"
+              "value": "rgba(255, 183, 77, 0)"
             },
             "name": "ColorBrandWarningLight000",
             "attributes": {
@@ -6394,9 +6026,9 @@ module.exports = {
         },
         "main": {
           "50": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.02)"
+              "value": "rgba(245, 124, 0, 0.02)"
             },
             "name": "ColorBrandWarningMain50",
             "attributes": {
@@ -6415,9 +6047,9 @@ module.exports = {
             ]
           },
           "100": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.04)"
+              "value": "rgba(245, 124, 0, 0.04)"
             },
             "name": "ColorBrandWarningMain100",
             "attributes": {
@@ -6436,9 +6068,9 @@ module.exports = {
             ]
           },
           "200": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.07)"
+              "value": "rgba(245, 124, 0, 0.07)"
             },
             "name": "ColorBrandWarningMain200",
             "attributes": {
@@ -6457,9 +6089,9 @@ module.exports = {
             ]
           },
           "300": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.12)"
+              "value": "rgba(245, 124, 0, 0.12)"
             },
             "name": "ColorBrandWarningMain300",
             "attributes": {
@@ -6478,9 +6110,9 @@ module.exports = {
             ]
           },
           "400": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.26)"
+              "value": "rgba(245, 124, 0, 0.26)"
             },
             "name": "ColorBrandWarningMain400",
             "attributes": {
@@ -6499,9 +6131,9 @@ module.exports = {
             ]
           },
           "500": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.38)"
+              "value": "rgba(245, 124, 0, 0.38)"
             },
             "name": "ColorBrandWarningMain500",
             "attributes": {
@@ -6520,9 +6152,9 @@ module.exports = {
             ]
           },
           "600": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.54)"
+              "value": "rgba(245, 124, 0, 0.54)"
             },
             "name": "ColorBrandWarningMain600",
             "attributes": {
@@ -6541,9 +6173,9 @@ module.exports = {
             ]
           },
           "700": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.62)"
+              "value": "rgba(245, 124, 0, 0.62)"
             },
             "name": "ColorBrandWarningMain700",
             "attributes": {
@@ -6562,9 +6194,9 @@ module.exports = {
             ]
           },
           "800": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.74)"
+              "value": "rgba(245, 124, 0, 0.74)"
             },
             "name": "ColorBrandWarningMain800",
             "attributes": {
@@ -6583,9 +6215,9 @@ module.exports = {
             ]
           },
           "900": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0.87)"
+              "value": "rgba(245, 124, 0, 0.87)"
             },
             "name": "ColorBrandWarningMain900",
             "attributes": {
@@ -6604,9 +6236,9 @@ module.exports = {
             ]
           },
           "1000": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "#C47C30"
+              "value": "#F57C00"
             },
             "name": "ColorBrandWarningMain1000",
             "attributes": {
@@ -6625,9 +6257,9 @@ module.exports = {
             ]
           },
           "000": {
-            "value": "#c47c30",
+            "value": "#f57c00",
             "original": {
-              "value": "rgba(196, 124, 48, 0)"
+              "value": "rgba(245, 124, 0, 0)"
             },
             "name": "ColorBrandWarningMain000",
             "attributes": {
@@ -7029,7 +6661,7 @@ module.exports = {
       "contrastText": {
         "value": "#ffffff",
         "original": {
-          "value": "rgba(255, 255, 255, 0.85)"
+          "value": "#FFFFFF"
         },
         "name": "ColorErrorContrastText",
         "attributes": {
@@ -7099,10 +6731,10 @@ module.exports = {
       "_states": {
         "focusVisible": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#377d90",
+          "value": "#0d79a6",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(55, 125, 144, 0.26)"
+            "value": "rgba(13, 121, 166, 0.26)"
           },
           "name": "ColorInfoStatesFocusVisible",
           "attributes": {
@@ -7120,10 +6752,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#377d90",
+          "value": "#0d79a6",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(55, 125, 144, 0.04)"
+            "value": "rgba(13, 121, 166, 0.04)"
           },
           "name": "ColorInfoStatesHover",
           "attributes": {
@@ -7141,10 +6773,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#377d90",
+          "value": "#0d79a6",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(55, 125, 144, 0.54)"
+            "value": "rgba(13, 121, 166, 0.54)"
           },
           "name": "ColorInfoStatesOutlinedBorder",
           "attributes": {
@@ -7162,10 +6794,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#377d90",
+          "value": "#0d79a6",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(55, 125, 144, 0.07)"
+            "value": "rgba(13, 121, 166, 0.07)"
           },
           "name": "ColorInfoStatesSelected",
           "attributes": {
@@ -7185,7 +6817,7 @@ module.exports = {
       "contrastText": {
         "value": "#ffffff",
         "original": {
-          "value": "rgba(255, 255, 255, 0.85)"
+          "value": "#FFFFFF"
         },
         "name": "ColorInfoContrastText",
         "attributes": {
@@ -7217,9 +6849,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#4fb3cd",
+        "value": "#e5f6fd",
         "original": {
-          "value": "#4FB3CD"
+          "value": "#E5F6FD"
         },
         "name": "ColorInfoLight",
         "attributes": {
@@ -7234,9 +6866,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#377d90",
+        "value": "#0d79a6",
         "original": {
-          "value": "#377D90"
+          "value": "#0D79A6"
         },
         "name": "ColorInfoMain",
         "attributes": {
@@ -7699,7 +7331,7 @@ module.exports = {
       "contrastText": {
         "value": "#ffffff",
         "original": {
-          "value": "rgba(255, 255, 255, 0.85)"
+          "value": "#FFFFFF"
         },
         "name": "ColorSuccessContrastText",
         "attributes": {
@@ -7913,9 +7545,9 @@ module.exports = {
     "warning": {
       "_states": {
         "focusVisible": {
-          "value": "#c47c30",
+          "value": "#f57c00",
           "original": {
-            "value": "rgba(196, 124, 48, 0.26)"
+            "value": "rgba(245, 124, 0, 0.26)"
           },
           "name": "ColorWarningStatesFocusVisible",
           "attributes": {
@@ -7933,10 +7565,10 @@ module.exports = {
         },
         "hover": {
           "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-          "value": "#c47c30",
+          "value": "#f57c00",
           "original": {
             "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
-            "value": "rgba(196, 124, 48, 0.04)"
+            "value": "rgba(245, 124, 0, 0.04)"
           },
           "name": "ColorWarningStatesHover",
           "attributes": {
@@ -7954,10 +7586,10 @@ module.exports = {
         },
         "outlinedBorder": {
           "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-          "value": "#c47c30",
+          "value": "#f57c00",
           "original": {
             "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
-            "value": "rgba(196, 124, 48, 0.54)"
+            "value": "rgba(245, 124, 0, 0.54)"
           },
           "name": "ColorWarningStatesOutlinedBorder",
           "attributes": {
@@ -7975,10 +7607,10 @@ module.exports = {
         },
         "selected": {
           "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-          "value": "#c47c30",
+          "value": "#f57c00",
           "original": {
             "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
-            "value": "rgba(196, 124, 48, 0.07)"
+            "value": "rgba(245, 124, 0, 0.07)"
           },
           "name": "ColorWarningStatesSelected",
           "attributes": {
@@ -7998,7 +7630,7 @@ module.exports = {
       "contrastText": {
         "value": "#ffffff",
         "original": {
-          "value": "rgba(255, 255, 255, 0.85)"
+          "value": "#FFFFFF"
         },
         "name": "ColorWarningContrastText",
         "attributes": {
@@ -8013,9 +7645,9 @@ module.exports = {
         ]
       },
       "dark": {
-        "value": "#a16627",
+        "value": "#e65100",
         "original": {
-          "value": "#A16627"
+          "value": "#E65100"
         },
         "name": "ColorWarningDark",
         "attributes": {
@@ -8030,9 +7662,9 @@ module.exports = {
         ]
       },
       "light": {
-        "value": "#f1c392",
+        "value": "#ffb74d",
         "original": {
-          "value": "#F1C392"
+          "value": "#FFB74D"
         },
         "name": "ColorWarningLight",
         "attributes": {
@@ -8047,9 +7679,9 @@ module.exports = {
         ]
       },
       "main": {
-        "value": "#c47c30",
+        "value": "#f57c00",
         "original": {
-          "value": "#C47C30"
+          "value": "#F57C00"
         },
         "name": "ColorWarningMain",
         "attributes": {
