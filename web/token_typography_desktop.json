@@ -9,7 +9,7 @@
     "font-weight-regular": "Regular",
     "font-weight-semibold": "SemiBold",
     "fontFamily": "Montserrat",
-    "fontFamilyMonospace": "Montserrat",
+    "fontFamilyMonospace": "Inconsolata",
     "header 1": {
       "font-family": "Montserrat",
       "font-weight": "SemiBold"
@@ -35,7 +35,7 @@
       "font-weight": "Regular"
     },
     "monospace": {
-      "font-family": "Montserrat",
+      "font-family": "Inconsolata",
       "font-weight": "Regular"
     },
     "paragraph": {
