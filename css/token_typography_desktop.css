@@ -6,7 +6,7 @@
   --content-font-weight-regular: Regular;
   --content-font-weight-semibold: SemiBold;
   --content-font-family: Montserrat;
-  --content-font-family-monospace: Montserrat;
+  --content-font-family-monospace: Inconsolata;
   --content-header-1-font-family: Montserrat;
   --content-header-1-font-weight: SemiBold;
   --content-header-2-font-family: Montserrat;
@@ -19,7 +19,7 @@
   --content-header-5-font-weight: SemiBold;
   --content-header-6-font-family: Montserrat;
   --content-header-6-font-weight: Regular;
-  --content-monospace-font-family: Montserrat;
+  --content-monospace-font-family: Inconsolata;
   --content-monospace-font-weight: Regular;
   --content-paragraph-paragraph-weight: Regular;
   --content-paragraph-paragraph-weight-bold: Bold;
