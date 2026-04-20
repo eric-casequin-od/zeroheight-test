@@ -1,0 +1,101 @@
+{
+  "borderRadius": {
+    "default": {
+      "$type": "number",
+      "$value": "{borderRadius.small}"
+    },
+    "full": {
+      "$type": "number",
+      "$value": 9999,
+      "$description": "Use this border radius for pill shaped elements"
+    },
+    "large": {
+      "$type": "number",
+      "$value": 12
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 6
+    },
+    "small": {
+      "$type": "number",
+      "$value": 4
+    }
+  },
+  "borderWidth": {
+    "default": {
+      "$type": "number",
+      "$value": "{borderWidth.thin}"
+    },
+    "thick": {
+      "$type": "number",
+      "$value": 2
+    },
+    "thicker": {
+      "$type": "number",
+      "$value": 4
+    },
+    "thin": {
+      "$type": "number",
+      "$value": 1
+    }
+  },
+  "boxShadow": {
+    "thin": {
+      "$type": "number",
+      "$value": 0
+    }
+  },
+  "breakpoint": {
+    "large": {
+      "$type": "number",
+      "$value": 1012
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 768
+    },
+    "small": {
+      "$type": "number",
+      "$value": 544
+    },
+    "xlarge": {
+      "$type": "number",
+      "$value": 1280
+    },
+    "xsmall": {
+      "$type": "number",
+      "$value": 320
+    },
+    "xxlarge": {
+      "$type": "number",
+      "$value": 1400
+    }
+  },
+  "space": {
+    "large": {
+      "$type": "number",
+      "$value": 12
+    },
+    "medium": {
+      "$type": "number",
+      "$value": 8
+    },
+    "small": {
+      "$type": "number",
+      "$value": 6
+    },
+    "xlarge": {
+      "$type": "number",
+      "$value": 16
+    },
+    "xsmall": {
+      "$type": "number",
+      "$value": 4
+    },
+    "xxsmall": {
+      "$type": "number",
+      "$value": 2
+    }
+  }
+}
