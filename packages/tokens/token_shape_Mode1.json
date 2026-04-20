@@ -1,11 +1,7 @@
 {
   "borderRadius": {
     "$type": "number",
-    "$value": "{radius-4}"
-  },
-  "chipRadius": {
-    "$type": "number",
-    "$value": "{radius-4}"
+    "$value": "{borderRadius.small}"
   },
   "none": {
     "$type": "number",
