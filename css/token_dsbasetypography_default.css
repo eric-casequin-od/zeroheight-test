@@ -1,0 +1,12 @@
+:root {
+  --content-font-stack-monospace: Inconsolata;
+  --content-font-stack-sans-serif: Montserrat;
+  --content-font-stack-sans-serif-display: Montserrat;
+  --content-font-stack-system: Montserrat;
+  --content-metadata-type-scale: 1.250 - Major Thirds;
+  --content-metadata-line-heights-body: fontsize * 1.5;
+  --content-metadata-line-heights-headers: fontsize * 1.15;
+  --content-text-display-font-family: Montserrat;
+  --content-text-monospace-font-family: Inconsolata;
+  --content-text-overline-font-family: Montserrat;
+}
