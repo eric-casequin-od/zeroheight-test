@@ -1,0 +1,354 @@
+{
+  "fontSize": {
+    "$type": "number",
+    "$value": "{text.size.m}"
+  },
+  "fontStack": {
+    "monospace": {
+      "$type": "string",
+      "$value": "Inconsolata"
+    },
+    "sansSerif": {
+      "$type": "string",
+      "$value": "Montserrat"
+    },
+    "sansSerifDisplay": {
+      "$type": "string",
+      "$value": "Montserrat"
+    },
+    "system": {
+      "$type": "string",
+      "$value": "Montserrat"
+    }
+  },
+  "metadata": {
+    "Type Scale": {
+      "$type": "string",
+      "$value": "1.250 - Major Thirds"
+    },
+    "_Line Heights": {
+      "body": {
+        "$type": "string",
+        "$value": "fontsize * 1.5"
+      },
+      "headers": {
+        "$type": "string",
+        "$value": "fontsize * 1.15"
+      }
+    }
+  },
+  "text": {
+    "body": {
+      "fontWeight": {
+        "$type": "number",
+        "$value": "{text.weight.regular}"
+      },
+      "letterSpacing": {
+        "large": {
+          "$type": "number",
+          "$value": 0,
+          "$description": "Base text"
+        },
+        "medium": {
+          "$type": "number",
+          "$value": 0,
+          "$description": "Base text"
+        },
+        "small": {
+          "$type": "number",
+          "$value": 0,
+          "$description": "Base text"
+        }
+      },
+      "lineHeight": {
+        "large": {
+          "$type": "number",
+          "$value": 21.88,
+          "$description": "Base text"
+        },
+        "medium": {
+          "$type": "number",
+          "$value": 17.5,
+          "$description": "Base text"
+        },
+        "small": {
+          "$type": "number",
+          "$value": 14,
+          "$description": "Base text"
+        }
+      },
+      "size": {
+        "large": {
+          "$type": "number",
+          "$value": "{text.size.l}",
+          "$description": "Base text"
+        },
+        "medium": {
+          "$type": "number",
+          "$value": "{text.size.m}",
+          "$description": "Base text"
+        },
+        "small": {
+          "$type": "number",
+          "$value": "{text.size.s}",
+          "$description": "Base text"
+        }
+      }
+    },
+    "caption": {
+      "fontSize": {
+        "$type": "number",
+        "$value": "{text.size.s}"
+      },
+      "fontWeight": {
+        "$type": "number",
+        "$value": "{fontWeightRegular}"
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0.3
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 14
+      }
+    },
+    "display": {
+      "fontFamily": {
+        "$type": "string",
+        "$value": "Montserrat"
+      },
+      "fontSize": {
+        "$type": "number",
+        "$value": "{text.size.4xl}"
+      },
+      "fontWeight": {
+        "$type": "number",
+        "$value": "{text.weight.bold}"
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": -0.2
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 49.13
+      },
+      "spacing": {
+        "$type": "number",
+        "$value": 0
+      }
+    },
+    "lineHeight": {
+      "loose": {
+        "$type": "number",
+        "$value": 1.75,
+        "$description": "Base text"
+      },
+      "normal": {
+        "$type": "number",
+        "$value": 1.5,
+        "$description": "Base text"
+      },
+      "relaxed": {
+        "$type": "number",
+        "$value": 1.63,
+        "$description": "Base text"
+      },
+      "snug": {
+        "$type": "number",
+        "$value": 1.38,
+        "$description": "Base text"
+      },
+      "tight": {
+        "$type": "number",
+        "$value": 1.25,
+        "$description": "Base text"
+      }
+    },
+    "monospace": {
+      "fontFamily": {
+        "$type": "string",
+        "$value": "{fontStack.monospace}"
+      },
+      "fontSize": {
+        "$type": "number",
+        "$value": "{text.size.m}"
+      },
+      "fontWeight": {
+        "$type": "number",
+        "$value": "{text.weight.regular}"
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 24
+      }
+    },
+    "overline": {
+      "fontFamily": {
+        "$type": "string",
+        "$value": "{fontStack.sansSerif}"
+      },
+      "fontSize": {
+        "$type": "number",
+        "$value": "{text.size.m}"
+      },
+      "fontWeight": {
+        "$type": "number",
+        "$value": "{text.weight.regular}"
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 1
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 17.5
+      }
+    },
+    "size": {
+      "2xl": {
+        "$type": "number",
+        "$value": 27.34,
+        "$description": "Base text"
+      },
+      "3xl": {
+        "$type": "number",
+        "$value": 34.18,
+        "$description": "Base text"
+      },
+      "4xl": {
+        "$type": "number",
+        "$value": 42.72,
+        "$description": "Base text"
+      },
+      "l": {
+        "$type": "number",
+        "$value": 17.5,
+        "$description": "Base text"
+      },
+      "m": {
+        "$type": "number",
+        "$value": 14,
+        "$description": "Base text"
+      },
+      "s": {
+        "$type": "number",
+        "$value": 11.2,
+        "$description": "Base text"
+      },
+      "xl": {
+        "$type": "number",
+        "$value": 21.88,
+        "$description": "Base text"
+      },
+      "xs": {
+        "$type": "number",
+        "$value": 8.96,
+        "$description": "Base text"
+      }
+    },
+    "subtitle": {
+      "fontSize": {
+        "$type": "number",
+        "$value": "{text.size.xl}"
+      },
+      "letterSpacing": {
+        "$type": "number",
+        "$value": 0
+      },
+      "lineHeight": {
+        "$type": "number",
+        "$value": 25
+      },
+      "weight": {
+        "$type": "number",
+        "$value": "{text.weight.regular}"
+      }
+    },
+    "title": {
+      "letterSpacing": {
+        "large": {
+          "$type": "number",
+          "$value": -0.2
+        },
+        "medium": {
+          "$type": "number",
+          "$value": -0.2
+        },
+        "small": {
+          "$type": "number",
+          "$value": -0.2
+        }
+      },
+      "lineHeight": {
+        "large": {
+          "$type": "number",
+          "$value": 31.44
+        },
+        "medium": {
+          "$type": "number",
+          "$value": 25.16
+        },
+        "small": {
+          "$type": "number",
+          "$value": 20.13
+        }
+      },
+      "size": {
+        "large": {
+          "$type": "number",
+          "$value": "{text.size.2xl}"
+        },
+        "medium": {
+          "$type": "number",
+          "$value": "{text.size.xl}"
+        },
+        "small": {
+          "$type": "number",
+          "$value": "{text.size.l}"
+        }
+      },
+      "weight": {
+        "large": {
+          "$type": "number",
+          "$value": "{text.weight.regular}"
+        },
+        "medium": {
+          "$type": "number",
+          "$value": "{text.weight.semibold}"
+        },
+        "small": {
+          "$type": "number",
+          "$value": "{text.weight.semibold}"
+        }
+      }
+    },
+    "weight": {
+      "bold": {
+        "$type": "number",
+        "$value": 700
+      },
+      "light": {
+        "$type": "number",
+        "$value": 300
+      },
+      "medium": {
+        "$type": "number",
+        "$value": 500
+      },
+      "regular": {
+        "$type": "number",
+        "$value": 400
+      },
+      "semibold": {
+        "$type": "number",
+        "$value": 600
+      }
+    }
+  }
+}

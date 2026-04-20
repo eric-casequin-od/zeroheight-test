@@ -1,47 +1,48 @@
 {
   "content": {
-    "caption": {
-      "font-weight": "Regular"
+    "body1": {
+      "font-family": "Montserrat"
     },
-    "font-weight-bold": "Bold",
-    "font-weight-light": "Light",
-    "font-weight-medium": "Medium",
-    "font-weight-regular": "Regular",
-    "font-weight-semibold": "SemiBold",
+    "body2": {
+      "font-family": "Montserrat"
+    },
+    "caption": {
+      "font-family": "Inconsolata"
+    },
     "fontFamily": "Montserrat",
     "fontFamilyMonospace": "Inconsolata",
     "header 1": {
-      "font-family": "Montserrat",
-      "font-weight": "SemiBold"
+      "font-family": "Montserrat"
     },
     "header 2": {
-      "font-family": "Montserrat",
-      "font-weight": "SemiBold"
+      "font-family": "Montserrat"
     },
     "header 3": {
-      "font-family": "Montserrat",
-      "font-weight": "SemiBold"
+      "font-family": "Montserrat"
     },
     "header 4": {
-      "font-family": "Montserrat",
-      "font-weight": "SemiBold"
+      "font-family": "Montserrat"
     },
     "header 5": {
-      "font-family": "Montserrat",
-      "font-weight": "SemiBold"
+      "font-family": "Montserrat"
     },
     "header 6": {
-      "font-family": "Montserrat",
-      "font-weight": "Regular"
+      "font-family": "Montserrat"
+    },
+    "helper": {
+      "font-family": "Montserrat"
     },
     "monospace": {
-      "font-family": "Inconsolata",
-      "font-weight": "Regular"
+      "font-family": "Inconsolata"
     },
-    "paragraph": {
-      "paragraph-weight": "Regular",
-      "paragraph-weight-bold": "Bold",
-      "paragraph-weight-medium": "Medium"
+    "overline": {
+      "font-family": "Montserrat"
+    },
+    "subtitle1": {
+      "font-family": "Montserrat"
+    },
+    "subtitle2": {
+      "font-family": "Montserrat"
     }
   }
 }

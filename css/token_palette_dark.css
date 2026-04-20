@@ -1,26 +1,22 @@
 :root {
-  --color-components-alert-error-background: #5f2120;
-  --color-components-alert-error-color: #fdecea;
-  --color-components-alert-info-background: #18363e;
-  --color-components-alert-info-color: #e5f6fd;
-  --color-components-alert-success-background: #1b5e20;
-  --color-components-alert-success-color: #e8f5e9;
-  --color-components-alert-warning-background: #682500;
-  --color-components-alert-warning-color: rgba(255, 255, 255, 0.87);
+  --color-components-alert-error-background: rgba(193, 0, 7, 0.3);
+  --color-components-alert-error-color: #ffffff;
+  --color-components-alert-info-background: rgba(2, 119, 189, 0.3);
+  --color-components-alert-info-color: #ffffff;
+  --color-components-alert-success-background: rgba(44, 108, 47, 0.3);
+  --color-components-alert-success-color: #ffffff;
+  --color-components-alert-warning-background: rgba(132, 111, 38, 0.3);
+  --color-components-alert-warning-color: #ffffff;
   --color-components-app-bar-default-fill: #272727;
-  --color-components-avatar-fill: #757575;
-  --color-components-backdrop-fill: rgba(0, 0, 0, 0.5);
-  --color-components-breadcrumbs-collapse-fill: #757575;
+  --color-components-avatar-fill: #bdbdbd;
+  --color-components-backdrop-fill: rgba(0, 0, 0, 0.54);
+  --color-components-breadcrumbs-collapse-fill: #717171;
   --color-components-chip-default-close-fill: #ffffff;
-  --color-components-chip-default-enabled-border: #616161;
-  --color-components-chip-default-focus-fill: rgba(255, 255, 255, 0.2);
+  --color-components-chip-default-enabled-border: #5f5f5f;
+  --color-components-chip-default-focus-fill: rgba(255, 255, 255, 0.26);
   --color-components-chip-default-hover-fill: rgba(255, 255, 255, 0.12);
-  --color-components-input-filled-enabled-fill: rgba(255, 255, 255, 0.09);
-  --color-components-input-filled-hover-fill: rgba(255, 255, 255, 0.12);
-  --color-components-input-outlined-enabled-border: rgba(255, 255, 255, 0.23);
-  --color-components-input-outlined-hover-border: #ffffff;
-  --color-components-input-standard-enabled-border: rgba(255, 255, 255, 0.42);
-  --color-components-input-standard-hover-border: #ffffff;
+  --color-components-input-outlined-enabled-border: #717171;
+  --color-components-input-outlined-hover-border: #a5a5a5;
   --color-components-paper-elevation-0: #121212; /* Reflects the background.paper variable from the theme object */
   --color-components-paper-elevation-1: #1e1e1e; /* Reflects the background.paper variable from the theme object */
   --color-components-paper-elevation-10: #313131; /* Reflects the background.paper variable from the theme object */
@@ -47,317 +43,200 @@
   --color-components-paper-elevation-8: #2e2e2e; /* Reflects the background.paper variable from the theme object */
   --color-components-paper-elevation-9: #2e2e2e; /* Reflects the background.paper variable from the theme object */
   --color-components-paper-outline-border: rgba(255, 255, 255, 0.12);
-  --color-components-rating-active-fill: #ffb400;
-  --color-components-rating-enabled-border: rgba(255, 255, 255, 0.23);
-  --color-components-snackbar-fill: #2c2c2c;
-  --color-components-stepper-connector: #757575;
-  --color-components-switch-knob-fill-enabled: #e0e0e0;
-  --color-components-switch-know-fill-disabled: #757575;
+  --color-components-rating-active-fill: #ffb300;
+  --color-components-rating-enabled-border: rgba(255, 255, 255, 0.26);
+  --color-components-snackbar-fill: #4c4c4c;
+  --color-components-stepper-connector: #717171;
+  --color-components-switch-knob-fill-enabled: #bdbdbd;
+  --color-components-switch-know-fill-disabled: #717171;
   --color-components-switch-slide-fill: rgba(255, 255, 255, 0.38);
   --color-components-table-border: #515151;
-  --color-components-tooltip-fill: rgba(97, 97, 97, 0.9);
-  --color-native-scrollbar-bg: #616161;
-  --color-action-active: rgba(255, 255, 255, 0.54);
+  --color-components-tooltip-fill: rgba(0, 0, 0, 0.87);
+  --color-native-scrollbar-bg: #5f5f5f;
+  --color-action-active: #a5a5a5;
   --color-action-disabled: rgba(255, 255, 255, 0.26); /* Reflects the action.disabled variable from the theme object */
   --color-action-disabled-background: rgba(255, 255, 255, 0.12); /* Reflects the action.disabledBackground variable from the theme object */
   --color-action-focus: rgba(255, 255, 255, 0.12); /* Reflects the action.focus variable from the theme object */
   --color-action-hover: rgba(255, 255, 255, 0.04); /* Reflects the action.hover variable from the theme object */
-  --color-action-selected: rgba(255, 255, 255, 0.07); /* Reflects the action.selected variable from the theme object */
-  --color-background-default: #212121; /* Reflects the background.default variable from the theme object */
+  --color-action-selected: rgba(255, 255, 255, 0.08); /* Reflects the action.selected variable from the theme object */
+  --color-adapted-bg-color-accent-emphasis: #0277bd;
+  --color-adapted-bg-color-accent-muted: #e1f5fe;
+  --color-adapted-bg-color-attention-emphasis: #846f26;
+  --color-adapted-bg-color-attention-muted: #fefaeb;
+  --color-adapted-bg-color-black: #383838;
+  --color-adapted-bg-color-closed-emphasis: #c10007;
+  --color-adapted-bg-color-closed-muted: #ffe2e2;
+  --color-adapted-bg-color-danger-emphasis: #c10007;
+  --color-adapted-bg-color-danger-muted: #ffe2e2;
+  --color-adapted-bg-color-default: #383838;
+  --color-adapted-bg-color-disabled: #eeeeee;
+  --color-adapted-bg-color-done-emphasis: #2c6c2f;
+  --color-adapted-bg-color-done-muted: #d9f5da;
+  --color-adapted-bg-color-emphasis: #4c4c4c;
+  --color-adapted-bg-color-inset: #eeeeee;
+  --color-adapted-bg-color-inverse: #4c4c4c;
+  --color-adapted-bg-color-muted: #eeeeee;
+  --color-adapted-bg-color-neutral-emphasis: #5f5f5f;
+  --color-adapted-bg-color-neutral-muted: rgba(0, 0, 0, 0.12);
+  --color-adapted-bg-color-open-emphasis: #2c6c2f;
+  --color-adapted-bg-color-open-muted: #d9f5da;
+  --color-adapted-bg-color-severe-emphasis: #b05900;
+  --color-adapted-bg-color-severe-muted: #fdebd7;
+  --color-adapted-bg-color-success-emphasis: #348037;
+  --color-adapted-bg-color-success-muted: #d9f5da;
+  --color-adapted-bg-color-transparent: rgba(255, 255, 255, 0);
+  --color-adapted-bg-color-white: #ffffff;
+  --color-adapted-border-color-accent-emphasis: #0277bd;
+  --color-adapted-border-color-accent-muted: #e1f5fe;
+  --color-adapted-border-color-attention-emphasis: #846f26;
+  --color-adapted-border-color-attention-muted: rgba(187, 128, 9, 0.4);
+  --color-adapted-border-color-closed-emphasis: #c10007;
+  --color-adapted-border-color-closed-muted: rgba(248, 81, 73, 0.4);
+  --color-adapted-border-color-danger-emphasis: #c10007;
+  --color-adapted-border-color-danger-muted: rgba(248, 81, 73, 0.4);
+  --color-adapted-border-color-default: #717171;
+  --color-adapted-border-color-disabled: rgba(101, 108, 118, 0.1);
+  --color-adapted-border-color-done-emphasis: #615fff;
+  --color-adapted-border-color-done-muted: rgba(171, 125, 248, 0.4);
+  --color-adapted-border-color-emphasis: #a5a5a5;
+  --color-adapted-border-color-muted: rgba(95, 95, 95, 0.7);
+  --color-adapted-border-color-open-emphasis: #2c6c2f;
+  --color-adapted-border-color-open-muted: rgba(46, 160, 67, 0.4);
+  --color-adapted-border-color-severe-emphasis: #b05900;
+  --color-adapted-border-color-severe-muted: rgba(219, 109, 40, 0.4);
+  --color-adapted-border-color-success-emphasis: #2c6c2f;
+  --color-adapted-border-color-success-muted: rgba(46, 160, 67, 0.4);
+  --color-adapted-border-color-translucent: rgba(255, 255, 255, 0.15);
+  --color-adapted-border-color-transparent: rgba(0, 0, 0, 0);
+  --color-adapted-border-color-upsell-emphasis: #8250df;
+  --color-adapted-border-color-upsell-muted: rgba(194, 151, 255, 0.4);
+  --color-adapted-control-bg-color-active: #383838;
+  --color-adapted-control-bg-color-disabled: #eeeeee;
+  --color-adapted-control-bg-color-hover: #4c4c4c;
+  --color-adapted-control-bg-color-rest: #5f5f5f;
+  --color-adapted-control-bg-color-selected: #5f5f5f;
+  --color-adapted-control-border-color-danger: #cf222e;
+  --color-adapted-control-border-color-disabled: rgba(101, 108, 118, 0.1);
+  --color-adapted-control-border-color-emphasis: #a5a5a5;
+  --color-adapted-control-border-color-rest: #717171;
+  --color-adapted-control-border-color-selected: #5f5f5f;
+  --color-adapted-control-border-color-success: #1a7f37;
+  --color-adapted-control-border-color-warning: #9a6700;
+  --color-adapted-control-checked-bg-color-active: #3685f3;
+  --color-adapted-control-checked-bg-color-disabled: #818b98;
+  --color-adapted-control-checked-bg-color-hover: #2a7aef;
+  --color-adapted-control-checked-bg-color-rest: #0969da;
+  --color-adapted-control-checked-border-color-active: #0757ba;
+  --color-adapted-control-checked-border-color-disabled: #818b98;
+  --color-adapted-control-checked-border-color-hover: #0860ca;
+  --color-adapted-control-checked-border-color-rest: #0969da;
+  --color-adapted-control-checked-fg-color-disabled: #010409;
+  --color-adapted-control-checked-fg-color-rest: #ffffff;
+  --color-adapted-control-danger-bg-color-active: rgba(255, 100, 103, 0.4);
+  --color-adapted-control-danger-bg-color-hover: #ffe2e2;
+  --color-adapted-control-danger-fg-color-hover: #ff6467;
+  --color-adapted-control-danger-fg-color-rest: #f85149;
+  --color-adapted-control-fg-color-disabled: rgba(101, 108, 118, 0.6);
+  --color-adapted-control-fg-color-placeholder: rgba(101, 108, 118, 0.6);
+  --color-adapted-control-fg-color-rest: #fafafa;
+  --color-adapted-control-icon-color-rest: #a5a5a5;
+  --color-adapted-control-transparent-bg-color-active: rgba(101, 108, 118, 0.25);
+  --color-adapted-control-transparent-bg-color-disabled: #eeeeee;
+  --color-adapted-control-transparent-bg-color-hover: rgba(101, 108, 118, 0.2);
+  --color-adapted-control-transparent-bg-color-rest: rgba(0, 0, 0, 0);
+  --color-adapted-control-transparent-bg-color-selected: rgba(101, 108, 118, 0.1);
+  --color-adapted-control-transparent-border-color-active: rgba(0, 0, 0, 0);
+  --color-adapted-control-transparent-border-color-hover: rgba(0, 0, 0, 0);
+  --color-adapted-control-transparent-border-color-rest: rgba(0, 0, 0, 0);
+  --color-adapted-fg-color-accent: #03a9f4;
+  --color-adapted-fg-color-attention: #d29922;
+  --color-adapted-fg-color-black: #010409;
+  --color-adapted-fg-color-closed: #d1242f;
+  --color-adapted-fg-color-danger: #f85149;
+  --color-adapted-fg-color-default: #fafafa;
+  --color-adapted-fg-color-disabled: rgba(101, 108, 118, 0.6);
+  --color-adapted-fg-color-done: #615fff;
+  --color-adapted-fg-color-link: #03a9f4;
+  --color-adapted-fg-color-muted: #a5a5a5;
+  --color-adapted-fg-color-neutral: #8b8b8b;
+  --color-adapted-fg-color-on-emphasis: #ffffff;
+  --color-adapted-fg-color-on-inverse: #010409;
+  --color-adapted-fg-color-open: #1a7f37;
+  --color-adapted-fg-color-severe: #db6d28;
+  --color-adapted-fg-color-success: #3fb950;
+  --color-adapted-fg-color-white: #ffffff;
+  --color-adapted-focus-outline-color: #03a9f4;
+  --color-background-default: #383838; /* Reflects the background.default variable from the theme object */
   --color-background-paper: #121212;
-  --color-brand-error-background: #fdecea;
-  --color-brand-error-dark-50: rgba(95, 33, 32, 0.05);
-  --color-brand-error-dark-100: rgba(95, 33, 32, 0.1);
-  --color-brand-error-dark-200: rgba(95, 33, 32, 0.15);
-  --color-brand-error-dark-300: rgba(95, 33, 32, 0.25);
-  --color-brand-error-dark-400: rgba(95, 33, 32, 0.35);
-  --color-brand-error-dark-500: rgba(95, 33, 32, 0.55);
-  --color-brand-error-dark-600: rgba(95, 33, 32, 0.65);
-  --color-brand-error-dark-700: rgba(95, 33, 32, 0.75);
-  --color-brand-error-dark-800: rgba(95, 33, 32, 0.85);
-  --color-brand-error-dark-900: rgba(95, 33, 32, 0.95);
-  --color-brand-error-dark-1000: #5f2120;
-  --color-brand-error-dark-000: rgba(95, 33, 32, 0);
-  --color-brand-error-light-50: rgba(239, 83, 80, 0.05);
-  --color-brand-error-light-100: rgba(239, 83, 80, 0.1);
-  --color-brand-error-light-200: rgba(239, 83, 80, 0.15);
-  --color-brand-error-light-300: rgba(239, 83, 80, 0.25);
-  --color-brand-error-light-400: rgba(239, 83, 80, 0.35);
-  --color-brand-error-light-500: rgba(239, 83, 80, 0.55);
-  --color-brand-error-light-600: rgba(239, 83, 80, 0.65);
-  --color-brand-error-light-700: rgba(239, 83, 80, 0.75);
-  --color-brand-error-light-800: rgba(239, 83, 80, 0.85);
-  --color-brand-error-light-900: rgba(239, 83, 80, 0.95);
-  --color-brand-error-light-1000: #ef5350;
-  --color-brand-error-light-000: rgba(239, 83, 80, 0);
-  --color-brand-error-main-50: rgba(211, 47, 47, 0.05);
-  --color-brand-error-main-100: rgba(211, 47, 47, 0.1);
-  --color-brand-error-main-200: rgba(211, 47, 47, 0.15);
-  --color-brand-error-main-300: rgba(211, 47, 47, 0.25);
-  --color-brand-error-main-400: rgba(211, 47, 47, 0.35);
-  --color-brand-error-main-500: rgba(211, 47, 47, 0.55);
-  --color-brand-error-main-600: rgba(211, 47, 47, 0.65);
-  --color-brand-error-main-700: rgba(211, 47, 47, 0.75);
-  --color-brand-error-main-800: rgba(211, 47, 47, 0.85);
-  --color-brand-error-main-900: rgba(211, 47, 47, 0.95);
-  --color-brand-error-main-1000: #d32f2f;
-  --color-brand-error-main-000: rgba(211, 47, 47, 0);
-  --color-brand-info-background: #e5f6fd;
-  --color-brand-info-dark-50: rgba(24, 54, 62, 0.05);
-  --color-brand-info-dark-100: rgba(24, 54, 62, 0.1);
-  --color-brand-info-dark-200: rgba(24, 54, 62, 0.15);
-  --color-brand-info-dark-300: rgba(24, 54, 62, 0.25);
-  --color-brand-info-dark-400: rgba(24, 54, 62, 0.35);
-  --color-brand-info-dark-500: rgba(24, 54, 62, 0.55);
-  --color-brand-info-dark-600: rgba(24, 54, 62, 0.65);
-  --color-brand-info-dark-700: rgba(24, 54, 62, 0.75);
-  --color-brand-info-dark-800: rgba(24, 54, 62, 0.85);
-  --color-brand-info-dark-900: rgba(24, 54, 62, 0.95);
-  --color-brand-info-dark-1000: #18363e;
-  --color-brand-info-dark-000: rgba(24, 54, 62, 0);
-  --color-brand-info-light-50: rgba(229, 246, 253, 0.05);
-  --color-brand-info-light-100: rgba(229, 246, 253, 0.1);
-  --color-brand-info-light-200: rgba(229, 246, 253, 0.15);
-  --color-brand-info-light-300: rgba(229, 246, 253, 0.25);
-  --color-brand-info-light-400: rgba(229, 246, 253, 0.35);
-  --color-brand-info-light-500: rgba(229, 246, 253, 0.55);
-  --color-brand-info-light-600: rgba(229, 246, 253, 0.65);
-  --color-brand-info-light-700: rgba(229, 246, 253, 0.75);
-  --color-brand-info-light-800: rgba(229, 246, 253, 0.85);
-  --color-brand-info-light-900: rgba(229, 246, 253, 0.95);
-  --color-brand-info-light-1000: #e5f6fd;
-  --color-brand-info-light-000: rgba(229, 246, 253, 0);
-  --color-brand-info-main-alpha-50: rgba(13, 121, 166, 0.05);
-  --color-brand-info-main-alpha-100: rgba(13, 121, 166, 0.1);
-  --color-brand-info-main-alpha-200: rgba(13, 121, 166, 0.15);
-  --color-brand-info-main-alpha-300: rgba(13, 121, 166, 0.25);
-  --color-brand-info-main-alpha-400: rgba(13, 121, 166, 0.35);
-  --color-brand-info-main-alpha-500: rgba(13, 121, 166, 0.55);
-  --color-brand-info-main-alpha-600: rgba(13, 121, 166, 0.65);
-  --color-brand-info-main-alpha-700: rgba(13, 121, 166, 0.75);
-  --color-brand-info-main-alpha-800: rgba(13, 121, 166, 0.85);
-  --color-brand-info-main-alpha-900: rgba(13, 121, 166, 0.95);
-  --color-brand-info-main-alpha-1000: #0d79a6;
-  --color-brand-info-main-alpha-000: rgba(13, 121, 166, 0);
-  --color-brand-neutral-50: #fafafa;
-  --color-brand-neutral-100: #f5f5f5;
-  --color-brand-neutral-200: #ededed;
-  --color-brand-neutral-300: #e0e0e0;
-  --color-brand-neutral-400: #bdbdbd;
-  --color-brand-neutral-500: #9e9e9e;
-  --color-brand-neutral-600: #757575;
-  --color-brand-neutral-700: #616161;
-  --color-brand-neutral-800: #424242;
-  --color-brand-neutral-900: #212121;
-  --color-brand-neutral-1000: #000000;
-  --color-brand-neutral-000: #ffffff;
-  --color-brand-neutral-b000: rgba(0, 0, 0, 0);
-  --color-brand-neutral-b100: rgba(0, 0, 0, 0.1);
-  --color-brand-neutral-b200: rgba(0, 0, 0, 0.15);
-  --color-brand-neutral-b300: rgba(0, 0, 0, 0.25);
-  --color-brand-neutral-b400: rgba(0, 0, 0, 0.35);
-  --color-brand-neutral-b50: rgba(0, 0, 0, 0.05);
-  --color-brand-neutral-b500: rgba(0, 0, 0, 0.55);
-  --color-brand-neutral-b600: rgba(0, 0, 0, 0.65);
-  --color-brand-neutral-b700: rgba(0, 0, 0, 0.75);
-  --color-brand-neutral-b800: rgba(0, 0, 0, 0.85);
-  --color-brand-neutral-b900: rgba(0, 0, 0, 0.95);
-  --color-brand-neutral-black: #000000;
-  --color-brand-neutral-w000: rgba(255, 255, 255, 0);
-  --color-brand-neutral-w100: rgba(255, 255, 255, 0.04);
-  --color-brand-neutral-w200: rgba(255, 255, 255, 0.07);
-  --color-brand-neutral-w300: rgba(255, 255, 255, 0.12);
-  --color-brand-neutral-w400: rgba(255, 255, 255, 0.26);
-  --color-brand-neutral-w50: rgba(255, 255, 255, 0.02);
-  --color-brand-neutral-w500: rgba(255, 255, 255, 0.38);
-  --color-brand-neutral-w600: rgba(255, 255, 255, 0.54);
-  --color-brand-neutral-w700: rgba(255, 255, 255, 0.62);
-  --color-brand-neutral-w800: rgba(255, 255, 255, 0.74);
-  --color-brand-neutral-w900: rgba(255, 255, 255, 0.87);
-  --color-brand-neutral-white: #ffffff;
-  --color-brand-primary-contrast-text: #ffffff;
-  --color-brand-primary-dark: #5c1d5a;
-  --color-brand-primary-light: #bc8cba;
-  --color-brand-primary-main: #832a80;
-  --color-brand-secondary-dark-50: rgba(0, 52, 79, 0.05);
-  --color-brand-secondary-dark-100: rgba(0, 52, 79, 0.1);
-  --color-brand-secondary-dark-200: rgba(0, 52, 79, 0.15);
-  --color-brand-secondary-dark-300: rgba(0, 52, 79, 0.25);
-  --color-brand-secondary-dark-400: rgba(0, 52, 79, 0.35);
-  --color-brand-secondary-dark-500: rgba(0, 52, 79, 0.55);
-  --color-brand-secondary-dark-600: rgba(0, 52, 79, 0.65);
-  --color-brand-secondary-dark-700: rgba(0, 52, 79, 0.75);
-  --color-brand-secondary-dark-800: rgba(0, 52, 79, 0.85);
-  --color-brand-secondary-dark-900: rgba(0, 52, 79, 0.95);
-  --color-brand-secondary-dark-1000: #00344f;
-  --color-brand-secondary-dark-000: rgba(0, 52, 79, 0);
-  --color-brand-secondary-light-50: rgba(79, 179, 205, 0.05);
-  --color-brand-secondary-light-100: rgba(79, 179, 205, 0.1);
-  --color-brand-secondary-light-200: rgba(79, 179, 205, 0.15);
-  --color-brand-secondary-light-300: rgba(79, 179, 205, 0.25);
-  --color-brand-secondary-light-400: rgba(79, 179, 205, 0.35);
-  --color-brand-secondary-light-500: rgba(79, 179, 205, 0.55);
-  --color-brand-secondary-light-600: rgba(79, 179, 205, 0.65);
-  --color-brand-secondary-light-700: rgba(79, 179, 205, 0.75);
-  --color-brand-secondary-light-800: rgba(79, 179, 205, 0.85);
-  --color-brand-secondary-light-900: rgba(79, 179, 205, 0.95);
-  --color-brand-secondary-light-1000: #4fb3cd;
-  --color-brand-secondary-light-000: rgba(79, 179, 205, 0);
-  --color-brand-secondary-main-50: rgba(0, 120, 162, 0.05);
-  --color-brand-secondary-main-100: rgba(0, 120, 162, 0.1);
-  --color-brand-secondary-main-200: rgba(0, 120, 162, 0.15);
-  --color-brand-secondary-main-300: rgba(0, 120, 162, 0.25);
-  --color-brand-secondary-main-400: rgba(0, 120, 162, 0.35);
-  --color-brand-secondary-main-500: rgba(0, 120, 162, 0.55);
-  --color-brand-secondary-main-600: rgba(0, 120, 162, 0.65);
-  --color-brand-secondary-main-700: rgba(0, 120, 162, 0.75);
-  --color-brand-secondary-main-800: rgba(0, 120, 162, 0.85);
-  --color-brand-secondary-main-900: rgba(0, 120, 162, 0.95);
-  --color-brand-secondary-main-1000: #0078a2;
-  --color-brand-secondary-main-000: rgba(0, 120, 162, 0);
-  --color-brand-success-background: #e8f5e9;
-  --color-brand-success-dark-50: rgba(27, 94, 32, 0.05);
-  --color-brand-success-dark-100: rgba(27, 94, 32, 0.1);
-  --color-brand-success-dark-200: rgba(27, 94, 32, 0.15);
-  --color-brand-success-dark-300: rgba(27, 94, 32, 0.25);
-  --color-brand-success-dark-400: rgba(27, 94, 32, 0.35);
-  --color-brand-success-dark-500: rgba(27, 94, 32, 0.55);
-  --color-brand-success-dark-600: rgba(27, 94, 32, 0.65);
-  --color-brand-success-dark-700: rgba(27, 94, 32, 0.75);
-  --color-brand-success-dark-800: rgba(27, 94, 32, 0.85);
-  --color-brand-success-dark-900: rgba(27, 94, 32, 0.95);
-  --color-brand-success-dark-1000: #1b5e20;
-  --color-brand-success-dark-000: rgba(27, 94, 32, 0);
-  --color-brand-success-light-50: rgba(76, 175, 80, 0.05);
-  --color-brand-success-light-100: rgba(76, 175, 80, 0.1);
-  --color-brand-success-light-200: rgba(76, 175, 80, 0.15);
-  --color-brand-success-light-300: rgba(76, 175, 80, 0.25);
-  --color-brand-success-light-400: rgba(76, 175, 80, 0.35);
-  --color-brand-success-light-500: rgba(76, 175, 80, 0.55);
-  --color-brand-success-light-600: rgba(76, 175, 80, 0.65);
-  --color-brand-success-light-700: rgba(76, 175, 80, 0.75);
-  --color-brand-success-light-800: rgba(76, 175, 80, 0.85);
-  --color-brand-success-light-900: rgba(76, 175, 80, 0.95);
-  --color-brand-success-light-1000: #4caf50;
-  --color-brand-success-light-000: rgba(76, 175, 80, 0);
-  --color-brand-success-main-50: rgba(46, 125, 50, 0.05);
-  --color-brand-success-main-100: rgba(46, 125, 50, 0.1);
-  --color-brand-success-main-200: rgba(46, 125, 50, 0.15);
-  --color-brand-success-main-300: rgba(46, 125, 50, 0.25);
-  --color-brand-success-main-400: rgba(46, 125, 50, 0.35);
-  --color-brand-success-main-500: rgba(46, 125, 50, 0.55);
-  --color-brand-success-main-600: rgba(46, 125, 50, 0.65);
-  --color-brand-success-main-700: rgba(46, 125, 50, 0.75);
-  --color-brand-success-main-800: rgba(46, 125, 50, 0.85);
-  --color-brand-success-main-900: rgba(46, 125, 50, 0.95);
-  --color-brand-success-main-1000: #2e7d32;
-  --color-brand-success-main-000: rgba(46, 125, 50, 0);
-  --color-brand-warning-background: #682500;
-  --color-brand-warning-dark-50: rgba(161, 110, 101, 0.05);
-  --color-brand-warning-dark-100: rgba(230, 81, 0, 0.1);
-  --color-brand-warning-dark-200: rgba(230, 81, 0, 0.15);
-  --color-brand-warning-dark-300: rgba(230, 81, 0, 0.25);
-  --color-brand-warning-dark-400: rgba(230, 81, 0, 0.35);
-  --color-brand-warning-dark-500: rgba(230, 81, 0, 0.55);
-  --color-brand-warning-dark-600: rgba(230, 81, 0, 0.65);
-  --color-brand-warning-dark-700: rgba(230, 81, 0, 0.75);
-  --color-brand-warning-dark-800: rgba(230, 81, 0, 0.85);
-  --color-brand-warning-dark-900: rgba(230, 81, 0, 0.95);
-  --color-brand-warning-dark-1000: #e65100;
-  --color-brand-warning-dark-000: rgba(230, 81, 0, 0);
-  --color-brand-warning-light-50: rgba(255, 183, 77, 0.05);
-  --color-brand-warning-light-100: rgba(255, 183, 77, 0.1);
-  --color-brand-warning-light-200: rgba(255, 183, 77, 0.15);
-  --color-brand-warning-light-300: rgba(255, 183, 77, 0.25);
-  --color-brand-warning-light-400: rgba(255, 183, 77, 0.35);
-  --color-brand-warning-light-500: rgba(255, 183, 77, 0.55);
-  --color-brand-warning-light-600: rgba(255, 183, 77, 0.65);
-  --color-brand-warning-light-700: rgba(255, 183, 77, 0.75);
-  --color-brand-warning-light-800: rgba(255, 183, 77, 0.85);
-  --color-brand-warning-light-900: rgba(255, 183, 77, 0.95);
-  --color-brand-warning-light-1000: #ffb74d;
-  --color-brand-warning-light-000: rgba(255, 183, 77, 0);
-  --color-brand-warning-main-50: rgba(245, 124, 0, 0.05);
-  --color-brand-warning-main-100: rgba(245, 124, 0, 0.1);
-  --color-brand-warning-main-200: rgba(245, 124, 0, 0.15);
-  --color-brand-warning-main-300: rgba(245, 124, 0, 0.25);
-  --color-brand-warning-main-400: rgba(245, 124, 0, 0.35);
-  --color-brand-warning-main-500: rgba(245, 124, 0, 0.55);
-  --color-brand-warning-main-600: rgba(245, 124, 0, 0.65);
-  --color-brand-warning-main-700: rgba(245, 124, 0, 0.75);
-  --color-brand-warning-main-800: rgba(245, 124, 0, 0.85);
-  --color-brand-warning-main-900: rgba(245, 124, 0, 0.95);
-  --color-brand-warning-main-1000: #f57c00;
-  --color-brand-warning-main-000: rgba(245, 124, 0, 0);
-  --color-common-black-states-focus: rgba(255, 255, 255, 0.12);
-  --color-common-black-states-focus-visible: rgba(255, 255, 255, 0.26); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-common-black-states-hover: rgba(255, 255, 255, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-common-black-states-main: #ffffff;
-  --color-common-black-states-outlined-border: rgba(255, 255, 255, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-common-black-states-selected: rgba(255, 255, 255, 0.07); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-common-black-states-focus: rgba(0, 0, 0, 0.12);
+  --color-common-black-states-focus-visible: rgba(0, 0, 0, 0.3); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-common-black-states-hover: rgba(0, 0, 0, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-common-black-states-main: #000000;
+  --color-common-black-states-outlined-border: rgba(0, 0, 0, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-common-black-states-selected: rgba(0, 0, 0, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
   --color-common-white-states-focus: rgba(255, 255, 255, 0.12);
-  --color-common-white-states-focus-visible: rgba(255, 255, 255, 0.26);
+  --color-common-white-states-focus-visible: rgba(255, 255, 255, 0.3);
   --color-common-white-states-hover: rgba(255, 255, 255, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
   --color-common-white-states-main: #ffffff;
   --color-common-white-states-outlined-border: rgba(255, 255, 255, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-common-white-states-selected: rgba(255, 255, 255, 0.07); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-common-white-states-selected: rgba(255, 255, 255, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
   --color-divider: rgba(255, 255, 255, 0.12); /* Reflects the divider variable from the theme object */
-  --color-error-states-focus-visible: rgba(211, 47, 47, 0.35);
-  --color-error-states-hover: rgba(211, 47, 47, 0.1); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-error-states-outlined-border: rgba(211, 47, 47, 0.65); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-error-states-selected: rgba(211, 47, 47, 0.15); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-error-contrast-text: rgba(255, 255, 255, 0.87);
-  --color-error-dark: #5f2120;
-  --color-error-light: #ef5350;
-  --color-error-main: #d32f2f;
-  --color-info-states-focus-visible: rgba(13, 121, 166, 0.35); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-info-states-hover: rgba(13, 121, 166, 0.1); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-info-states-outlined-border: rgba(13, 121, 166, 0.65); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-info-states-selected: rgba(13, 121, 166, 0.15); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-info-contrast-text: rgba(255, 255, 255, 0.87);
-  --color-info-dark: #18363e;
-  --color-info-light: #e5f6fd;
-  --color-info-main: #0d79a6;
-  --color-primary-states-focus: rgba(131, 42, 128, 0.25); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
-  --color-primary-states-focus-visible: rgba(131, 42, 128, 0.35);
-  --color-primary-states-hover: rgba(131, 42, 128, 0.1); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-primary-states-outlined-border: rgba(131, 42, 128, 0.65); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-primary-states-selected: rgba(131, 42, 128, 0.15); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-error-states-focus-visible: rgba(251, 44, 54, 0.3);
+  --color-error-states-hover: rgba(251, 44, 54, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-error-states-outlined-border: rgba(251, 44, 54, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-error-states-selected: rgba(251, 44, 54, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-error-contrast-text: #ffffff;
+  --color-error-dark: #c10007;
+  --color-error-light: #ffe2e2;
+  --color-error-main: #fb2c36;
+  --color-info-states-focus-visible: rgba(3, 169, 244, 0.3); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-info-states-hover: rgba(3, 169, 244, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-info-states-outlined-border: rgba(3, 169, 244, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-info-states-selected: rgba(3, 169, 244, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-info-contrast-text: #ffffff;
+  --color-info-dark: #0277bd;
+  --color-info-light: #e1f5fe;
+  --color-info-main: #03a9f4;
+  --color-primary-states-focus: rgba(131, 42, 128, 0.3); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
+  --color-primary-states-focus-visible: rgba(131, 42, 128, 0.38);
+  --color-primary-states-hover: rgba(131, 42, 128, 0.08); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-primary-states-outlined-border: rgba(131, 42, 128, 0.3); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-primary-states-selected: rgba(131, 42, 128, 0.12); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
   --color-primary-contrast-text: #ffffff; /* Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color */
-  --color-primary-dark: #5c1d5a; /* Used for hover states. Reflects the primary.dark variable from the theme object */
-  --color-primary-light: #bc8cba; /* Reflects the primary.light variable from the theme object */
+  --color-primary-dark: #5d1e5a; /* Used for hover states. Reflects the primary.dark variable from the theme object */
+  --color-primary-light: #f3ebf3; /* Reflects the primary.light variable from the theme object */
   --color-primary-main: #832a80; /* Reflects the primary.main variable from the theme object */
-  --color-secondary-states-focus: rgba(0, 120, 162, 0.25); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
-  --color-secondary-states-focus-visible: rgba(0, 120, 162, 0.35);
-  --color-secondary-states-hover: rgba(0, 120, 162, 0.1); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-secondary-states-outlined-border: rgba(0, 120, 162, 0.65); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-secondary-states-selected: rgba(0, 120, 162, 0.15); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-secondary-states-focus: rgba(0, 120, 162, 0.3); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
+  --color-secondary-states-focus-visible: rgba(0, 120, 162, 0.38);
+  --color-secondary-states-hover: rgba(0, 120, 162, 0.08); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-secondary-states-outlined-border: rgba(0, 120, 162, 0.3); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-secondary-states-selected: rgba(0, 120, 162, 0.12); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
   --color-secondary-contrast-text: #ffffff;
-  --color-secondary-dark: #00344f;
-  --color-secondary-light: #4fb3cd;
+  --color-secondary-dark: #00536f;
+  --color-secondary-light: #e3f0f5;
   --color-secondary-main: #0078a2;
-  --color-success-states-focus-visible: rgba(46, 125, 50, 0.35); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-success-states-hover: rgba(46, 125, 50, 0.1); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-success-states-outlined-border: rgba(46, 125, 50, 0.65); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-success-states-selected: rgba(46, 125, 50, 0.15); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-success-contrast-text: rgba(255, 255, 255, 0.87);
-  --color-success-dark: #1b5e20;
-  --color-success-light: #4caf50;
-  --color-success-main: #2e7d32;
+  --color-success-states-focus-visible: rgba(64, 157, 68, 0.3); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-success-states-hover: rgba(64, 157, 68, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-success-states-outlined-border: rgba(64, 157, 68, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-success-states-selected: rgba(64, 157, 68, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-success-contrast-text: #ffffff;
+  --color-success-dark: #2c6c2f;
+  --color-success-light: #d9f5da;
+  --color-success-main: #409d44;
   --color-text-states-focus: rgba(255, 255, 255, 0.12); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
   --color-text-states-focus-visible: rgba(255, 255, 255, 0.26); /* Used for focus visible states. The token represents the value of focusVisibleOpacity (0.3 by default) of the main token. */
   --color-text-states-hover: rgba(255, 255, 255, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-text-states-selected: rgba(255, 255, 255, 0.07); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-text-disabled: rgba(255, 255, 255, 0.38); /* Reflects the text.disabled variable from the theme object */
-  --color-text-primary: #ffffff; /* Reflects the text.primary variable from the theme object */
-  --color-text-secondary: rgba(255, 255, 255, 0.74); /* Reflects the text.secondary variable from the theme object */
-  --color-warning-states-focus-visible: rgba(245, 124, 0, 0.35);
-  --color-warning-states-hover: rgba(245, 124, 0, 0.1); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
-  --color-warning-states-outlined-border: rgba(245, 124, 0, 0.65); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
-  --color-warning-states-selected: rgba(245, 124, 0, 0.15); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-warning-contrast-text: rgba(255, 255, 255, 0.87);
-  --color-warning-dark: #e65100;
-  --color-warning-light: #ffb74d;
-  --color-warning-main: #f57c00;
+  --color-text-states-selected: rgba(255, 255, 255, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-text-disabled: rgba(101, 108, 118, 0.6); /* Reflects the text.disabled variable from the theme object */
+  --color-text-primary: #fafafa; /* Reflects the text.primary variable from the theme object */
+  --color-text-secondary: #a5a5a5; /* Reflects the text.secondary variable from the theme object */
+  --color-warning-states-focus-visible: rgba(162, 137, 46, 0.3);
+  --color-warning-states-hover: rgba(162, 137, 46, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-warning-states-outlined-border: rgba(162, 137, 46, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-warning-states-selected: rgba(162, 137, 46, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-warning-contrast-text: #ffffff;
+  --color-warning-dark: #846f26;
+  --color-warning-light: #fefaeb;
+  --color-warning-main: #a2892e;
   --content-mode: Dark;
 }

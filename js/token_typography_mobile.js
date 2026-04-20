@@ -1,98 +1,61 @@
 module.exports = {
   "content": {
-    "caption": {
-      "font-weight": {
-        "value": "SemiBold",
+    "body1": {
+      "font-family": {
+        "value": "Montserrat",
         "original": {
-          "value": "SemiBold"
+          "value": "Montserrat"
         },
-        "name": "ContentCaptionFontWeight",
+        "name": "ContentBody1FontFamily",
+        "attributes": {
+          "category": "content",
+          "type": "body1",
+          "item": "font-family"
+        },
+        "path": [
+          "content",
+          "body1",
+          "font-family"
+        ]
+      }
+    },
+    "body2": {
+      "font-family": {
+        "value": "Montserrat",
+        "original": {
+          "value": "Montserrat"
+        },
+        "name": "ContentBody2FontFamily",
+        "attributes": {
+          "category": "content",
+          "type": "body2",
+          "item": "font-family"
+        },
+        "path": [
+          "content",
+          "body2",
+          "font-family"
+        ]
+      }
+    },
+    "caption": {
+      "font-family": {
+        "value": "Inconsolata",
+        "original": {
+          "value": "Inconsolata"
+        },
+        "name": "ContentCaptionFontFamily",
         "attributes": {
           "category": "content",
           "type": "caption",
-          "item": "font-weight"
+          "item": "font-family"
         },
         "path": [
           "content",
           "caption",
-          "font-weight"
+          "font-family"
         ]
       }
-    },
-    "font-weight-bold": {
-      "value": "Bold",
-      "original": {
-        "value": "Bold"
-      },
-      "name": "ContentFontWeightBold",
-      "attributes": {
-        "category": "content",
-        "type": "font-weight-bold"
-      },
-      "path": [
-        "content",
-        "font-weight-bold"
-      ]
-    },
-    "font-weight-light": {
-      "value": "Light",
-      "original": {
-        "value": "Light"
-      },
-      "name": "ContentFontWeightLight",
-      "attributes": {
-        "category": "content",
-        "type": "font-weight-light"
-      },
-      "path": [
-        "content",
-        "font-weight-light"
-      ]
-    },
-    "font-weight-medium": {
-      "value": "Medium",
-      "original": {
-        "value": "Medium"
-      },
-      "name": "ContentFontWeightMedium",
-      "attributes": {
-        "category": "content",
-        "type": "font-weight-medium"
-      },
-      "path": [
-        "content",
-        "font-weight-medium"
-      ]
-    },
-    "font-weight-regular": {
-      "value": "Regular",
-      "original": {
-        "value": "Regular"
-      },
-      "name": "ContentFontWeightRegular",
-      "attributes": {
-        "category": "content",
-        "type": "font-weight-regular"
-      },
-      "path": [
-        "content",
-        "font-weight-regular"
-      ]
-    },
-    "font-weight-semibold": {
-      "value": "SemiBold",
-      "original": {
-        "value": "SemiBold"
-      },
-      "name": "ContentFontWeightSemibold",
-      "attributes": {
-        "category": "content",
-        "type": "font-weight-semibold"
-      },
-      "path": [
-        "content",
-        "font-weight-semibold"
-      ]
     },
     "fontFamily": {
       "value": "Montserrat",
@@ -141,23 +104,6 @@ module.exports = {
           "header 1",
           "font-family"
         ]
-      },
-      "font-weight": {
-        "value": "SemiBold",
-        "original": {
-          "value": "SemiBold"
-        },
-        "name": "ContentHeader1FontWeight",
-        "attributes": {
-          "category": "content",
-          "type": "header 1",
-          "item": "font-weight"
-        },
-        "path": [
-          "content",
-          "header 1",
-          "font-weight"
-        ]
       }
     },
     "header 2": {
@@ -176,23 +122,6 @@ module.exports = {
           "content",
           "header 2",
           "font-family"
-        ]
-      },
-      "font-weight": {
-        "value": "SemiBold",
-        "original": {
-          "value": "SemiBold"
-        },
-        "name": "ContentHeader2FontWeight",
-        "attributes": {
-          "category": "content",
-          "type": "header 2",
-          "item": "font-weight"
-        },
-        "path": [
-          "content",
-          "header 2",
-          "font-weight"
         ]
       }
     },
@@ -213,23 +142,6 @@ module.exports = {
           "header 3",
           "font-family"
         ]
-      },
-      "font-weight": {
-        "value": "SemiBold",
-        "original": {
-          "value": "SemiBold"
-        },
-        "name": "ContentHeader3FontWeight",
-        "attributes": {
-          "category": "content",
-          "type": "header 3",
-          "item": "font-weight"
-        },
-        "path": [
-          "content",
-          "header 3",
-          "font-weight"
-        ]
       }
     },
     "header 4": {
@@ -248,23 +160,6 @@ module.exports = {
           "content",
           "header 4",
           "font-family"
-        ]
-      },
-      "font-weight": {
-        "value": "SemiBold",
-        "original": {
-          "value": "SemiBold"
-        },
-        "name": "ContentHeader4FontWeight",
-        "attributes": {
-          "category": "content",
-          "type": "header 4",
-          "item": "font-weight"
-        },
-        "path": [
-          "content",
-          "header 4",
-          "font-weight"
         ]
       }
     },
@@ -285,23 +180,6 @@ module.exports = {
           "header 5",
           "font-family"
         ]
-      },
-      "font-weight": {
-        "value": "SemiBold",
-        "original": {
-          "value": "SemiBold"
-        },
-        "name": "ContentHeader5FontWeight",
-        "attributes": {
-          "category": "content",
-          "type": "header 5",
-          "item": "font-weight"
-        },
-        "path": [
-          "content",
-          "header 5",
-          "font-weight"
-        ]
       }
     },
     "header 6": {
@@ -321,22 +199,24 @@ module.exports = {
           "header 6",
           "font-family"
         ]
-      },
-      "font-weight": {
-        "value": "SemiBold",
+      }
+    },
+    "helper": {
+      "font-family": {
+        "value": "Montserrat",
         "original": {
-          "value": "SemiBold"
+          "value": "Montserrat"
         },
-        "name": "ContentHeader6FontWeight",
+        "name": "ContentHelperFontFamily",
         "attributes": {
           "category": "content",
-          "type": "header 6",
-          "item": "font-weight"
+          "type": "helper",
+          "item": "font-family"
         },
         "path": [
           "content",
-          "header 6",
-          "font-weight"
+          "helper",
+          "font-family"
         ]
       }
     },
@@ -357,75 +237,62 @@ module.exports = {
           "monospace",
           "font-family"
         ]
-      },
-      "font-weight": {
-        "value": "Regular",
+      }
+    },
+    "overline": {
+      "font-family": {
+        "value": "Montserrat",
         "original": {
-          "value": "Regular"
+          "value": "Montserrat"
         },
-        "name": "ContentMonospaceFontWeight",
+        "name": "ContentOverlineFontFamily",
         "attributes": {
           "category": "content",
-          "type": "monospace",
-          "item": "font-weight"
+          "type": "overline",
+          "item": "font-family"
         },
         "path": [
           "content",
-          "monospace",
-          "font-weight"
+          "overline",
+          "font-family"
         ]
       }
     },
-    "paragraph": {
-      "paragraph-weight": {
-        "value": "Regular",
+    "subtitle1": {
+      "font-family": {
+        "value": "Montserrat",
         "original": {
-          "value": "Regular"
+          "value": "Montserrat"
         },
-        "name": "ContentParagraphParagraphWeight",
+        "name": "ContentSubtitle1FontFamily",
         "attributes": {
           "category": "content",
-          "type": "paragraph",
-          "item": "paragraph-weight"
+          "type": "subtitle1",
+          "item": "font-family"
         },
         "path": [
           "content",
-          "paragraph",
-          "paragraph-weight"
+          "subtitle1",
+          "font-family"
         ]
-      },
-      "paragraph-weight-bold": {
-        "value": "Bold",
+      }
+    },
+    "subtitle2": {
+      "font-family": {
+        "value": "Montserrat",
         "original": {
-          "value": "Bold"
+          "value": "Montserrat"
         },
-        "name": "ContentParagraphParagraphWeightBold",
+        "name": "ContentSubtitle2FontFamily",
         "attributes": {
           "category": "content",
-          "type": "paragraph",
-          "item": "paragraph-weight-bold"
+          "type": "subtitle2",
+          "item": "font-family"
         },
         "path": [
           "content",
-          "paragraph",
-          "paragraph-weight-bold"
-        ]
-      },
-      "paragraph-weight-medium": {
-        "value": "Medium",
-        "original": {
-          "value": "Medium"
-        },
-        "name": "ContentParagraphParagraphWeightMedium",
-        "attributes": {
-          "category": "content",
-          "type": "paragraph",
-          "item": "paragraph-weight-medium"
-        },
-        "path": [
-          "content",
-          "paragraph",
-          "paragraph-weight-medium"
+          "subtitle2",
+          "font-family"
         ]
       }
     }
