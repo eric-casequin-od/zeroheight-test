@@ -110,6 +110,72 @@
   --color-adapted-border-color-transparent: rgba(0, 0, 0, 0);
   --color-adapted-border-color-upsell-emphasis: #8250df;
   --color-adapted-border-color-upsell-muted: rgba(194, 151, 255, 0.4);
+  --color-adapted-button-danger-bg-color-active: #d03533;
+  --color-adapted-button-danger-bg-color-disabled: #eff2f5;
+  --color-adapted-button-danger-bg-color-hover: #b62324;
+  --color-adapted-button-danger-bg-color-rest: #f6f8fa;
+  --color-adapted-button-danger-border-color-active: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-danger-border-color-hover: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-danger-border-color-rest: #d1d9e0;
+  --color-adapted-button-danger-fg-color-active: #222222;
+  --color-adapted-button-danger-fg-color-disabled: rgba(248, 81, 73, 0.5);
+  --color-adapted-button-danger-fg-color-hover: #222222;
+  --color-adapted-button-danger-fg-color-rest: #fa5e55;
+  --color-adapted-button-danger-icon-color-hover: #ffffff;
+  --color-adapted-button-danger-icon-color-rest: #fa5e55;
+  --color-adapted-button-danger-shadow-selected-color: rgba(0, 0, 0, 0);
+  --color-adapted-button-default-bg-color-active: #e6eaef;
+  --color-adapted-button-default-bg-color-disabled: #eff2f5;
+  --color-adapted-button-default-bg-color-hover: #eff2f5;
+  --color-adapted-button-default-bg-color-rest: #f6f8fa;
+  --color-adapted-button-default-bg-color-selected: #e6eaef;
+  --color-adapted-button-default-border-color-active: #d1d9e0;
+  --color-adapted-button-default-border-color-disabled: rgba(129, 139, 152, 0.1);
+  --color-adapted-button-default-border-color-hover: #d1d9e0;
+  --color-adapted-button-default-border-color-rest: #d1d9e0;
+  --color-adapted-button-default-fg-color-rest: #25292e;
+  --color-adapted-button-default-shadow-resting-color: rgba(0, 0, 0, 0);
+  --color-adapted-button-inactive-bg-color: #262c36;
+  --color-adapted-button-inactive-fg-color: #9198a1;
+  --color-adapted-button-invisible-bg-color-active: rgba(129, 139, 152, 0.15);
+  --color-adapted-button-invisible-bg-color-disabled: rgba(0, 0, 0, 0);
+  --color-adapted-button-invisible-bg-color-hover: rgba(129, 139, 152, 0.1);
+  --color-adapted-button-invisible-bg-color-rest: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-border-color-disabled: rgba(0, 0, 0, 0);
+  --color-adapted-button-invisible-border-color-hover: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-border-color-rest: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-fg-color-active: #25292e;
+  --color-adapted-button-invisible-fg-color-disabled: #818b98;
+  --color-adapted-button-invisible-fg-color-hover: #25292e;
+  --color-adapted-button-invisible-fg-color-rest: #25292e;
+  --color-adapted-button-invisible-icon-color-disabled: #818b98;
+  --color-adapted-button-invisible-icon-color-hover: #59636e;
+  --color-adapted-button-invisible-icon-color-rest: #59636e;
+  --color-adapted-button-outline-bg-color-active: #0d419d;
+  --color-adapted-button-outline-bg-color-disabled: #eff2f5;
+  --color-adapted-button-outline-bg-color-hover: #eff2f5;
+  --color-adapted-button-outline-bg-color-rest: #f0f6fc;
+  --color-adapted-button-outline-border-color-active: #ffffff;
+  --color-adapted-button-outline-border-color-hover: #d1d9e0;
+  --color-adapted-button-outline-border-color-selected: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-outline-fg-color-active: #ffffff;
+  --color-adapted-button-outline-fg-color-disabled: rgba(68, 147, 248, 0.5);
+  --color-adapted-button-outline-fg-color-hover: #58a6ff;
+  --color-adapted-button-outline-fg-color-rest: #388bfd;
+  --color-adapted-button-outline-shadow-selected-color: rgba(0, 0, 0, 0);
+  --color-adapted-button-primary-bg-color-active: #2e9a40;
+  --color-adapted-button-primary-bg-color-disabled: #105823;
+  --color-adapted-button-primary-bg-color-hover: #29903b;
+  --color-adapted-button-primary-bg-color-rest: #079c32;
+  --color-adapted-button-primary-border-color-active: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-primary-border-color-disabled: #105823;
+  --color-adapted-button-primary-border-color-hover: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-primary-border-color-rest: rgba(255, 255, 255, 0.1);
+  --color-adapted-button-primary-fg-color-disabled: rgba(255, 255, 255, 0.4);
+  --color-adapted-button-primary-fg-color-rest: #ffffff;
+  --color-adapted-button-primary-icon-color-rest: #ffffff;
+  --color-adapted-button-primary-shadow-selected-color: rgba(0, 0, 0, 0);
+  --color-adapted-button-star-icon-color: #e3b341;
   --color-adapted-control-bg-color-active: #383838;
   --color-adapted-control-bg-color-disabled: #eeeeee;
   --color-adapted-control-bg-color-hover: #4c4c4c;
@@ -135,7 +201,7 @@
   --color-adapted-control-danger-bg-color-active: rgba(255, 100, 103, 0.4);
   --color-adapted-control-danger-bg-color-hover: #ffe2e2;
   --color-adapted-control-danger-fg-color-hover: #ff6467;
-  --color-adapted-control-danger-fg-color-rest: #f85149;
+  --color-adapted-control-danger-fg-color-rest: #fb2c36;
   --color-adapted-control-fg-color-disabled: rgba(101, 108, 118, 0.6);
   --color-adapted-control-fg-color-placeholder: rgba(101, 108, 118, 0.6);
   --color-adapted-control-fg-color-rest: #fafafa;
@@ -149,10 +215,10 @@
   --color-adapted-control-transparent-border-color-hover: rgba(0, 0, 0, 0);
   --color-adapted-control-transparent-border-color-rest: rgba(0, 0, 0, 0);
   --color-adapted-fg-color-accent: #03a9f4;
-  --color-adapted-fg-color-attention: #d29922;
-  --color-adapted-fg-color-black: #010409;
+  --color-adapted-fg-color-attention: #dcba3f;
+  --color-adapted-fg-color-black: #222222;
   --color-adapted-fg-color-closed: #d1242f;
-  --color-adapted-fg-color-danger: #f85149;
+  --color-adapted-fg-color-danger: #fb2c36;
   --color-adapted-fg-color-default: #fafafa;
   --color-adapted-fg-color-disabled: rgba(101, 108, 118, 0.6);
   --color-adapted-fg-color-done: #615fff;
@@ -162,8 +228,8 @@
   --color-adapted-fg-color-on-emphasis: #ffffff;
   --color-adapted-fg-color-on-inverse: #010409;
   --color-adapted-fg-color-open: #1a7f37;
-  --color-adapted-fg-color-severe: #db6d28;
-  --color-adapted-fg-color-success: #3fb950;
+  --color-adapted-fg-color-severe: #d96e00;
+  --color-adapted-fg-color-success: #409d44;
   --color-adapted-fg-color-white: #ffffff;
   --color-adapted-focus-outline-color: #03a9f4;
   --color-background-default: #383838; /* Reflects the background.default variable from the theme object */
@@ -202,10 +268,10 @@
   --color-primary-states-hover: rgba(131, 42, 128, 0.08); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
   --color-primary-states-outlined-border: rgba(131, 42, 128, 0.3); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
   --color-primary-states-selected: rgba(131, 42, 128, 0.12); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
-  --color-primary-contrast-text: #ffffff; /* Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color */
-  --color-primary-dark: #5d1e5a; /* Used for hover states. Reflects the primary.dark variable from the theme object */
+  --color-primary-contrast-text: #222222; /* Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color */
+  --color-primary-dark: #c297c1; /* Used for hover states. Reflects the primary.dark variable from the theme object */
   --color-primary-light: #f3ebf3; /* Reflects the primary.light variable from the theme object */
-  --color-primary-main: #832a80; /* Reflects the primary.main variable from the theme object */
+  --color-primary-main: #e3cfe2; /* Reflects the primary.main variable from the theme object */
   --color-secondary-states-focus: rgba(0, 120, 162, 0.3); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
   --color-secondary-states-focus-visible: rgba(0, 120, 162, 0.38);
   --color-secondary-states-hover: rgba(0, 120, 162, 0.08); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
