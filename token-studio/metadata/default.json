@@ -1,0 +1,32 @@
+{
+  "material-ui": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "text",
+    "$value": "7.2.0"
+  },
+  "mui-x": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "text",
+    "$value": "8.10.0"
+  },
+  "centro-ui": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "TEXT_CONTENT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "text",
+    "$value": "Version: 1.0.0"
+  }
+}

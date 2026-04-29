@@ -1,0 +1,19 @@
+{
+  "tokenSetOrder": [
+    "",
+    "palette/light",
+    "palette/dark",
+    "ds/base/color/default",
+    "ds/base/brand/default",
+    "typography/desktop",
+    "typography/mobile",
+    "metadata/default",
+    "ds/base/typography/default",
+    "breakpoints/default",
+    "spacing/default",
+    "shape/default",
+    "ds/base/size/default",
+    "ds/functional/size/default",
+    "ds/pattern/size/default"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "borderRadius": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "CORNER_RADIUS"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{borderRadius.small}"
+  },
+  "none": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "CORNER_RADIUS"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "xl": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{breakpoint.xlarge}"
+  },
+  "lg": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{breakpoint.large}"
+  },
+  "md": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{breakpoint.medium}"
+  },
+  "sm": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{breakpoint.small}"
+  },
+  "xs": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": "{breakpoint.xsmall}"
+  }
+}
