@@ -1,0 +1,28 @@
+{
+  "content": {
+    "fontStack": {
+      "monospace": "Inconsolata",
+      "sansSerif": "Montserrat",
+      "sansSerifDisplay": "Montserrat",
+      "system": "Montserrat"
+    },
+    "metadata": {
+      "Type Scale": "1.250 - Major Thirds",
+      "_Line Heights": {
+        "body": "fontsize * 1.5",
+        "headers": "fontsize * 1.15"
+      }
+    },
+    "text": {
+      "display": {
+        "fontFamily": "Montserrat"
+      },
+      "monospace": {
+        "fontFamily": "Inconsolata"
+      },
+      "overline": {
+        "fontFamily": "Montserrat"
+      }
+    }
+  }
+}
