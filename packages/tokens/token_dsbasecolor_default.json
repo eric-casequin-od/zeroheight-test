@@ -406,6 +406,10 @@
       "$type": "color",
       "$value": "#383838"
     },
+    "13": {
+      "$type": "color",
+      "$value": "#222222"
+    },
     "2": {
       "$type": "color",
       "$value": "#EEEEEE"
@@ -437,10 +441,6 @@
     "9": {
       "$type": "color",
       "$value": "#717171"
-    },
-    "950": {
-      "$type": "color",
-      "$value": "#222222"
     }
   },
   "orange": {
