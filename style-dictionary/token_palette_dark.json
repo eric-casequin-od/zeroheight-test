@@ -1,0 +1,1568 @@
+{
+  "Dark Mode": {
+    "type": "boolean",
+    "value": true
+  },
+  "Light Mode": {
+    "type": "boolean",
+    "value": false
+  },
+  "Mode": {
+    "type": "string",
+    "value": "Dark"
+  },
+  "_components": {
+    "alert": {
+      "error": {
+        "background": {
+          "type": "color",
+          "value": "rgba(193, 0, 7, 0.3)"
+        },
+        "color": {
+          "type": "color",
+          "value": "{danger.contrast}"
+        }
+      },
+      "info": {
+        "background": {
+          "type": "color",
+          "value": "rgba(2, 119, 189, 0.3)"
+        },
+        "color": {
+          "type": "color",
+          "value": "{information.contrast}"
+        }
+      },
+      "success": {
+        "background": {
+          "type": "color",
+          "value": "rgba(44, 108, 47, 0.3)"
+        },
+        "color": {
+          "type": "color",
+          "value": "{success.contrast}"
+        }
+      },
+      "warning": {
+        "background": {
+          "type": "color",
+          "value": "rgba(132, 111, 38, 0.3)"
+        },
+        "color": {
+          "type": "color",
+          "value": "{attention.contrast}"
+        }
+      }
+    },
+    "appBar": {
+      "defaultFill": {
+        "type": "color",
+        "value": "{_components.paper.elevation-4}"
+      }
+    },
+    "avatar": {
+      "fill": {
+        "type": "color",
+        "value": "{neutral.6}"
+      }
+    },
+    "backdrop": {
+      "fill": {
+        "type": "color",
+        "value": "{transparentBlack.54}"
+      }
+    },
+    "breadcrumbs": {
+      "collapseFill": {
+        "type": "color",
+        "value": "{neutral.9}"
+      }
+    },
+    "chip": {
+      "defaultCloseFill": {
+        "type": "color",
+        "value": "{neutral.0}"
+      },
+      "defaultEnabledBorder": {
+        "type": "color",
+        "value": "{neutral.10}"
+      },
+      "defaultFocusFill": {
+        "type": "color",
+        "value": "{transparentWhite.26}"
+      },
+      "defaultHoverFill": {
+        "type": "color",
+        "value": "{transparentWhite.12}"
+      }
+    },
+    "input": {
+      "outlined": {
+        "enabledBorder": {
+          "type": "color",
+          "value": "{adapted.control.borderColor.rest}"
+        },
+        "hoverBorder": {
+          "type": "color",
+          "value": "{adapted.borderColor.emphasis}"
+        }
+      }
+    },
+    "paper": {
+      "elevation-0": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#121212"
+      },
+      "elevation-1": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#1E1E1E"
+      },
+      "elevation-10": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#313131"
+      },
+      "elevation-11": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#313131"
+      },
+      "elevation-12": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#333333"
+      },
+      "elevation-13": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#333333"
+      },
+      "elevation-14": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#333333"
+      },
+      "elevation-15": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#333333"
+      },
+      "elevation-16": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#363636"
+      },
+      "elevation-17": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#363636"
+      },
+      "elevation-18": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#363636"
+      },
+      "elevation-19": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#363636"
+      },
+      "elevation-2": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#232323"
+      },
+      "elevation-20": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#383838"
+      },
+      "elevation-21": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#383838"
+      },
+      "elevation-22": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#383838"
+      },
+      "elevation-23": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#383838"
+      },
+      "elevation-24": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#383838"
+      },
+      "elevation-3": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#252525"
+      },
+      "elevation-4": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#272727"
+      },
+      "elevation-5": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#2A2A2A"
+      },
+      "elevation-6": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#2C2C2C"
+      },
+      "elevation-7": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#2C2C2C"
+      },
+      "elevation-8": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#2E2E2E"
+      },
+      "elevation-9": {
+        "comment": "Reflects the background.paper variable from the theme object",
+        "type": "color",
+        "value": "#2E2E2E"
+      },
+      "outlineBorder": {
+        "type": "color",
+        "value": "{divider}"
+      }
+    },
+    "rating": {
+      "activeFill": {
+        "type": "color",
+        "value": "{amber.600}"
+      },
+      "enabledBorder": {
+        "type": "color",
+        "value": "{transparentWhite.26}"
+      }
+    },
+    "snackbar": {
+      "fill": {
+        "type": "color",
+        "value": "{neutral.11}"
+      }
+    },
+    "stepper": {
+      "connector": {
+        "type": "color",
+        "value": "{neutral.9}"
+      }
+    },
+    "switch": {
+      "knobFillEnabled": {
+        "type": "color",
+        "value": "{neutral.6}"
+      },
+      "knowFillDisabled": {
+        "type": "color",
+        "value": "{neutral.9}"
+      },
+      "slideFill": {
+        "type": "color",
+        "value": "rgba(255, 255, 255, 0.38)"
+      }
+    },
+    "table": {
+      "border": {
+        "type": "color",
+        "value": "#515151"
+      }
+    },
+    "tooltip": {
+      "fill": {
+        "type": "color",
+        "value": "{transparentBlack.87}"
+      }
+    }
+  },
+  "_native": {
+    "scrollbar-bg": {
+      "type": "color",
+      "value": "{neutral.10}"
+    }
+  },
+  "action": {
+    "active": {
+      "type": "color",
+      "value": "{adapted.fgColor.muted}"
+    },
+    "disabled": {
+      "comment": "Reflects the action.disabled variable from the theme object",
+      "type": "color",
+      "value": "{transparentWhite.26}"
+    },
+    "disabledBackground": {
+      "comment": "Reflects the action.disabledBackground variable from the theme object",
+      "type": "color",
+      "value": "{transparentWhite.12}"
+    },
+    "focus": {
+      "comment": "Reflects the action.focus variable from the theme object",
+      "type": "color",
+      "value": "{transparentWhite.12}"
+    },
+    "hover": {
+      "comment": "Reflects the action.hover variable from the theme object",
+      "type": "color",
+      "value": "{transparentWhite.4}"
+    },
+    "selected": {
+      "comment": "Reflects the action.selected variable from the theme object",
+      "type": "color",
+      "value": "{transparentWhite.8}"
+    }
+  },
+  "adapted": {
+    "bgColor": {
+      "accent-emphasis": {
+        "type": "color",
+        "value": "{information.emphasis}"
+      },
+      "accent-muted": {
+        "type": "color",
+        "value": "{information.muted}"
+      },
+      "attention-emphasis": {
+        "type": "color",
+        "value": "{attention.emphasis}"
+      },
+      "attention-muted": {
+        "type": "color",
+        "value": "{attention.muted}"
+      },
+      "black": {
+        "type": "color",
+        "value": "{neutral.12}"
+      },
+      "closed-emphasis": {
+        "type": "color",
+        "value": "{danger.emphasis}"
+      },
+      "closed-muted": {
+        "type": "color",
+        "value": "{danger.muted}"
+      },
+      "danger-emphasis": {
+        "type": "color",
+        "value": "{danger.emphasis}"
+      },
+      "danger-muted": {
+        "type": "color",
+        "value": "{danger.muted}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{neutral.12}"
+      },
+      "disabled": {
+        "type": "color",
+        "value": "{neutral.2}"
+      },
+      "done-emphasis": {
+        "type": "color",
+        "value": "{success.emphasis}"
+      },
+      "done-muted": {
+        "type": "color",
+        "value": "{success.muted}"
+      },
+      "emphasis": {
+        "type": "color",
+        "value": "{neutral.11}"
+      },
+      "inset": {
+        "type": "color",
+        "value": "{adapted.bgColor.muted}"
+      },
+      "inverse": {
+        "type": "color",
+        "value": "{neutral.11}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{neutral.2}"
+      },
+      "neutral-emphasis": {
+        "type": "color",
+        "value": "{neutral.10}"
+      },
+      "neutral-muted": {
+        "type": "color",
+        "value": "{transparentBlack.12}"
+      },
+      "open-emphasis": {
+        "type": "color",
+        "value": "{success.emphasis}"
+      },
+      "open-muted": {
+        "type": "color",
+        "value": "{success.muted}"
+      },
+      "severe-emphasis": {
+        "type": "color",
+        "value": "{severe.emphasis}"
+      },
+      "severe-muted": {
+        "type": "color",
+        "value": "{severe.muted}"
+      },
+      "success-emphasis": {
+        "type": "color",
+        "value": "{green.600}"
+      },
+      "success-muted": {
+        "type": "color",
+        "value": "{green.100}"
+      },
+      "transparent": {
+        "type": "color",
+        "value": "{transparentWhite.0}"
+      },
+      "white": {
+        "type": "color",
+        "value": "{neutral.0}"
+      }
+    },
+    "borderColor": {
+      "accent-emphasis": {
+        "type": "color",
+        "value": "{adapted.bgColor.accent-emphasis}"
+      },
+      "accent-muted": {
+        "type": "color",
+        "value": "{information.muted}"
+      },
+      "attention-emphasis": {
+        "type": "color",
+        "value": "{attention.emphasis}"
+      },
+      "attention-muted": {
+        "type": "color",
+        "value": "rgba(187, 128, 9, 0.4)"
+      },
+      "closed-emphasis": {
+        "type": "color",
+        "value": "{danger.emphasis}"
+      },
+      "closed-muted": {
+        "type": "color",
+        "value": "{adapted.borderColor.danger-muted}"
+      },
+      "danger-emphasis": {
+        "type": "color",
+        "value": "{danger.emphasis}"
+      },
+      "danger-muted": {
+        "type": "color",
+        "value": "rgba(248, 81, 73, 0.4)"
+      },
+      "default": {
+        "type": "color",
+        "value": "{neutral.9}"
+      },
+      "disabled": {
+        "type": "color",
+        "value": "rgba(101, 108, 118, 0.1)"
+      },
+      "done-emphasis": {
+        "type": "color",
+        "value": "{indigo.500}"
+      },
+      "done-muted": {
+        "type": "color",
+        "value": "rgba(171, 125, 248, 0.4)"
+      },
+      "emphasis": {
+        "type": "color",
+        "value": "{neutral.7}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "rgba(95, 95, 95, 0.7)"
+      },
+      "open-emphasis": {
+        "type": "color",
+        "value": "{adapted.borderColor.success-emphasis}"
+      },
+      "open-muted": {
+        "type": "color",
+        "value": "{adapted.borderColor.success-muted}"
+      },
+      "severe-emphasis": {
+        "type": "color",
+        "value": "{severe.emphasis}"
+      },
+      "severe-muted": {
+        "type": "color",
+        "value": "rgba(219, 109, 40, 0.4)"
+      },
+      "success-emphasis": {
+        "type": "color",
+        "value": "{success.emphasis}"
+      },
+      "success-muted": {
+        "type": "color",
+        "value": "rgba(46, 160, 67, 0.4)"
+      },
+      "translucent": {
+        "type": "color",
+        "value": "rgba(255, 255, 255, 0.15)"
+      },
+      "transparent": {
+        "type": "color",
+        "value": "{transparentBlack.0}"
+      },
+      "upsell-emphasis": {
+        "type": "color",
+        "value": "#8250DF"
+      },
+      "upsell-muted": {
+        "type": "color",
+        "value": "rgba(194, 151, 255, 0.4)"
+      }
+    },
+    "button": {
+      "danger": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "#D03533"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#EFF2F5"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#B62324"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#F6F8FA"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "type": "color",
+            "value": "rgba(31, 35, 40, 0.15)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "rgba(31, 35, 40, 0.15)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#D1D9E0"
+          }
+        },
+        "fgColor": {
+          "active": {
+            "type": "color",
+            "value": "{neutral.13}"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "rgba(248, 81, 73, 0.5)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{neutral.13}"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#FA5E55"
+          }
+        },
+        "iconColor": {
+          "hover": {
+            "type": "color",
+            "value": "#FFFFFF"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#FA5E55"
+          }
+        },
+        "shadow": {
+          "selected": {
+            "blur": {
+              "type": "number",
+              "value": 0
+            },
+            "color": {
+              "type": "color",
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "offsetX": {
+              "type": "number",
+              "value": 0
+            },
+            "offsetY": {
+              "type": "number",
+              "value": 0
+            },
+            "spread": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        }
+      },
+      "default": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "#E6EAEF"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#EFF2F5"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#EFF2F5"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#F6F8FA"
+          },
+          "selected": {
+            "type": "color",
+            "value": "#E6EAEF"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "type": "color",
+            "value": "#D1D9E0"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "rgba(129, 139, 152, 0.1)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#D1D9E0"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#D1D9E0"
+          }
+        },
+        "fgColor": {
+          "rest": {
+            "type": "color",
+            "value": "#25292E"
+          }
+        },
+        "shadow": {
+          "resting": {
+            "blur": {
+              "type": "number",
+              "value": 0
+            },
+            "color": {
+              "type": "color",
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "offsetX": {
+              "type": "number",
+              "value": 0
+            },
+            "offsetY": {
+              "type": "number",
+              "value": 0
+            },
+            "spread": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        }
+      },
+      "inactive": {
+        "bgColor": {
+          "type": "color",
+          "value": "#262C36"
+        },
+        "fgColor": {
+          "type": "color",
+          "value": "#9198A1"
+        }
+      },
+      "invisible": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "rgba(129, 139, 152, 0.15)"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "rgba(0, 0, 0, 0)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "rgba(129, 139, 152, 0.1)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "rgba(255, 255, 255, 0)"
+          }
+        },
+        "borderColor": {
+          "disabled": {
+            "type": "color",
+            "value": "rgba(0, 0, 0, 0)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "rgba(255, 255, 255, 0)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "rgba(255, 255, 255, 0)"
+          }
+        },
+        "fgColor": {
+          "active": {
+            "type": "color",
+            "value": "#25292E"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#818B98"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#25292E"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#25292E"
+          }
+        },
+        "iconColor": {
+          "disabled": {
+            "type": "color",
+            "value": "#818B98"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#59636E"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#59636E"
+          }
+        }
+      },
+      "outline": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "#0D419D"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#EFF2F5"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#EFF2F5"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#F0F6FC"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "type": "color",
+            "value": "#FFFFFF"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#D1D9E0"
+          },
+          "selected": {
+            "type": "color",
+            "value": "rgba(31, 35, 40, 0.15)"
+          }
+        },
+        "fgColor": {
+          "active": {
+            "type": "color",
+            "value": "#FFFFFF"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "rgba(68, 147, 248, 0.5)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#58A6FF"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#388BFD"
+          }
+        },
+        "shadow": {
+          "selected": {
+            "blur": {
+              "type": "number",
+              "value": 0
+            },
+            "color": {
+              "type": "color",
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "offsetX": {
+              "type": "number",
+              "value": 0
+            },
+            "offsetY": {
+              "type": "number",
+              "value": 0
+            },
+            "spread": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        }
+      },
+      "primary": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "#2E9A40"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#105823"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#29903B"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#079C32"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "type": "color",
+            "value": "rgba(31, 35, 40, 0.15)"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#105823"
+          },
+          "hover": {
+            "type": "color",
+            "value": "rgba(31, 35, 40, 0.15)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "rgba(255, 255, 255, 0.1)"
+          }
+        },
+        "fgColor": {
+          "disabled": {
+            "type": "color",
+            "value": "rgba(255, 255, 255, 0.4)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#FFFFFF"
+          }
+        },
+        "iconColor": {
+          "rest": {
+            "type": "color",
+            "value": "#FFFFFF"
+          }
+        },
+        "shadow": {
+          "selected": {
+            "blur": {
+              "type": "number",
+              "value": 0
+            },
+            "color": {
+              "type": "color",
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "offsetX": {
+              "type": "number",
+              "value": 0
+            },
+            "offsetY": {
+              "type": "number",
+              "value": 0
+            },
+            "spread": {
+              "type": "number",
+              "value": 0
+            }
+          }
+        }
+      },
+      "star": {
+        "iconColor": {
+          "type": "color",
+          "value": "#E3B341"
+        }
+      }
+    },
+    "control": {
+      "bgColor": {
+        "active": {
+          "type": "color",
+          "value": "{neutral.12}"
+        },
+        "disabled": {
+          "type": "color",
+          "value": "{adapted.bgColor.disabled}"
+        },
+        "hover": {
+          "type": "color",
+          "value": "{neutral.11}"
+        },
+        "rest": {
+          "type": "color",
+          "value": "{neutral.10}"
+        },
+        "selected": {
+          "type": "color",
+          "value": "{adapted.control.bgColor.rest}"
+        }
+      },
+      "borderColor": {
+        "danger": {
+          "type": "color",
+          "value": "#CF222E"
+        },
+        "disabled": {
+          "type": "color",
+          "value": "{adapted.borderColor.disabled}"
+        },
+        "emphasis": {
+          "type": "color",
+          "value": "{adapted.borderColor.emphasis}"
+        },
+        "rest": {
+          "type": "color",
+          "value": "{adapted.borderColor.default}"
+        },
+        "selected": {
+          "type": "color",
+          "value": "{adapted.control.bgColor.selected}"
+        },
+        "success": {
+          "type": "color",
+          "value": "#1A7F37"
+        },
+        "warning": {
+          "type": "color",
+          "value": "#9A6700"
+        }
+      },
+      "checked": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "#3685F3"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#818B98"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#2A7AEF"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#0969DA"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "type": "color",
+            "value": "#0757BA"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "#818B98"
+          },
+          "hover": {
+            "type": "color",
+            "value": "#0860CA"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#0969DA"
+          }
+        },
+        "fgColor": {
+          "disabled": {
+            "type": "color",
+            "value": "#010409"
+          },
+          "rest": {
+            "type": "color",
+            "value": "#FFFFFF"
+          }
+        }
+      },
+      "danger": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "rgba(255, 100, 103, 0.4)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "{adapted.bgColor.danger-muted}"
+          }
+        },
+        "fgColor": {
+          "hover": {
+            "type": "color",
+            "value": "{red.400}"
+          },
+          "rest": {
+            "type": "color",
+            "value": "{adapted.fgColor.danger}"
+          }
+        }
+      },
+      "fgColor": {
+        "disabled": {
+          "type": "color",
+          "value": "{adapted.fgColor.disabled}"
+        },
+        "placeholder": {
+          "type": "color",
+          "value": "{adapted.fgColor.disabled}"
+        },
+        "rest": {
+          "type": "color",
+          "value": "{adapted.fgColor.default}"
+        }
+      },
+      "iconColor": {
+        "rest": {
+          "type": "color",
+          "value": "{adapted.fgColor.muted}"
+        }
+      },
+      "transparent": {
+        "bgColor": {
+          "active": {
+            "type": "color",
+            "value": "rgba(101, 108, 118, 0.25)"
+          },
+          "disabled": {
+            "type": "color",
+            "value": "{adapted.bgColor.disabled}"
+          },
+          "hover": {
+            "type": "color",
+            "value": "rgba(101, 108, 118, 0.2)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "rgba(0, 0, 0, 0)"
+          },
+          "selected": {
+            "type": "color",
+            "value": "rgba(101, 108, 118, 0.1)"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "type": "color",
+            "value": "rgba(0, 0, 0, 0)"
+          },
+          "hover": {
+            "type": "color",
+            "value": "rgba(0, 0, 0, 0)"
+          },
+          "rest": {
+            "type": "color",
+            "value": "rgba(0, 0, 0, 0)"
+          }
+        }
+      }
+    },
+    "fgColor": {
+      "accent": {
+        "type": "color",
+        "value": "{information.default}"
+      },
+      "attention": {
+        "type": "color",
+        "value": "{yellow.300}"
+      },
+      "black": {
+        "type": "color",
+        "value": "{neutral.13}"
+      },
+      "closed": {
+        "type": "color",
+        "value": "#D1242F"
+      },
+      "danger": {
+        "type": "color",
+        "value": "{danger.default}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{neutral.1}"
+      },
+      "disabled": {
+        "type": "color",
+        "value": "rgba(101, 108, 118, 0.6)"
+      },
+      "done": {
+        "type": "color",
+        "value": "{indigo.500}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{adapted.fgColor.accent}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{neutral.7}"
+      },
+      "neutral": {
+        "type": "color",
+        "value": "{neutral.8}"
+      },
+      "onEmphasis": {
+        "type": "color",
+        "value": "{neutral.0}"
+      },
+      "onInverse": {
+        "type": "color",
+        "value": "#010409"
+      },
+      "open": {
+        "type": "color",
+        "value": "#1A7F37"
+      },
+      "severe": {
+        "type": "color",
+        "value": "{orange.500}"
+      },
+      "success": {
+        "type": "color",
+        "value": "{green.500}"
+      },
+      "white": {
+        "type": "color",
+        "value": "{neutral.0}"
+      }
+    },
+    "focus": {
+      "outlineColor": {
+        "type": "color",
+        "value": "{sky.500}"
+      }
+    },
+    "tabs": {
+      "----": {
+        "type": "number",
+        "value": 0
+      }
+    }
+  },
+  "background": {
+    "default": {
+      "comment": "Reflects the background.default variable from the theme object",
+      "type": "color",
+      "value": "{adapted.bgColor.default}"
+    },
+    "paper": {
+      "type": "color",
+      "value": "{_components.paper.elevation-0}"
+    }
+  },
+  "common": {
+    "black": {
+      "_states": {
+        "focus": {
+          "type": "color",
+          "value": "{transparentBlack.12}"
+        },
+        "focusVisible": {
+          "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentBlack.30}"
+        },
+        "hover": {
+          "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentBlack.4}"
+        },
+        "main": {
+          "type": "color",
+          "value": "{black}"
+        },
+        "outlinedBorder": {
+          "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentBlack.54}"
+        },
+        "selected": {
+          "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentBlack.8}"
+        }
+      }
+    },
+    "white": {
+      "_states": {
+        "focus": {
+          "type": "color",
+          "value": "{transparentWhite.12}"
+        },
+        "focusVisible": {
+          "type": "color",
+          "value": "{transparentWhite.30}"
+        },
+        "hover": {
+          "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentWhite.4}"
+        },
+        "main": {
+          "type": "color",
+          "value": "{white}"
+        },
+        "outlinedBorder": {
+          "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentWhite.54}"
+        },
+        "selected": {
+          "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+          "type": "color",
+          "value": "{transparentWhite.8}"
+        }
+      }
+    }
+  },
+  "divider": {
+    "comment": "Reflects the divider variable from the theme object",
+    "type": "color",
+    "value": "{transparentWhite.12}"
+  },
+  "error": {
+    "_states": {
+      "focusVisible": {
+        "type": "color",
+        "value": "{danger.alpha.30}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{danger.alpha.4}"
+      },
+      "outlinedBorder": {
+        "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+        "type": "color",
+        "value": "{danger.alpha.54}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{danger.alpha.8}"
+      }
+    },
+    "contrastText": {
+      "type": "color",
+      "value": "{danger.contrast}"
+    },
+    "dark": {
+      "type": "color",
+      "value": "{danger.emphasis}"
+    },
+    "light": {
+      "type": "color",
+      "value": "{danger.muted}"
+    },
+    "main": {
+      "type": "color",
+      "value": "{danger.default}"
+    }
+  },
+  "info": {
+    "_states": {
+      "focusVisible": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{information.alpha.30}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{information.alpha.4}"
+      },
+      "outlinedBorder": {
+        "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+        "type": "color",
+        "value": "{information.alpha.54}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{information.alpha.8}"
+      }
+    },
+    "contrastText": {
+      "type": "color",
+      "value": "{information.contrast}"
+    },
+    "dark": {
+      "type": "color",
+      "value": "{information.emphasis}"
+    },
+    "light": {
+      "type": "color",
+      "value": "{information.muted}"
+    },
+    "main": {
+      "type": "color",
+      "value": "{information.default}"
+    }
+  },
+  "primary": {
+    "_states": {
+      "focus": {
+        "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
+        "type": "color",
+        "value": "{primary.alpha.30}"
+      },
+      "focusVisible": {
+        "type": "color",
+        "value": "{primary.alpha.38}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{primary.alpha.8}"
+      },
+      "outlinedBorder": {
+        "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+        "type": "color",
+        "value": "{primary.alpha.30}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{primary.alpha.12}"
+      }
+    },
+    "contrastText": {
+      "comment": "Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color",
+      "type": "color",
+      "value": "{neutral.13}"
+    },
+    "dark": {
+      "comment": "Used for hover states. Reflects the primary.dark variable from the theme object",
+      "type": "color",
+      "value": "{purple.400}"
+    },
+    "light": {
+      "comment": "Reflects the primary.light variable from the theme object",
+      "type": "color",
+      "value": "{purple.100}"
+    },
+    "main": {
+      "comment": "Reflects the primary.main variable from the theme object",
+      "type": "color",
+      "value": "{purple.200}"
+    }
+  },
+  "secondary": {
+    "_states": {
+      "focus": {
+        "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
+        "type": "color",
+        "value": "{secondary.alpha.30}"
+      },
+      "focusVisible": {
+        "type": "color",
+        "value": "{secondary.alpha.38}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{secondary.alpha.8}"
+      },
+      "outlinedBorder": {
+        "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+        "type": "color",
+        "value": "{secondary.alpha.30}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{secondary.alpha.12}"
+      }
+    },
+    "contrastText": {
+      "type": "color",
+      "value": "{secondary.contrast}"
+    },
+    "dark": {
+      "type": "color",
+      "value": "{secondary.emphasis}"
+    },
+    "light": {
+      "type": "color",
+      "value": "{secondary.muted}"
+    },
+    "main": {
+      "type": "color",
+      "value": "{secondary.default}"
+    }
+  },
+  "success": {
+    "_states": {
+      "focusVisible": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{success.alpha.30}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{success.alpha.4}"
+      },
+      "outlinedBorder": {
+        "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+        "type": "color",
+        "value": "{success.alpha.54}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{success.alpha.8}"
+      }
+    },
+    "contrastText": {
+      "type": "color",
+      "value": "{success.contrast}"
+    },
+    "dark": {
+      "type": "color",
+      "value": "{success.emphasis}"
+    },
+    "light": {
+      "type": "color",
+      "value": "{success.muted}"
+    },
+    "main": {
+      "type": "color",
+      "value": "{success.default}"
+    }
+  },
+  "text": {
+    "_states": {
+      "focus": {
+        "comment": "Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token.",
+        "type": "color",
+        "value": "{transparentWhite.12}"
+      },
+      "focusVisible": {
+        "comment": "Used for focus visible states. The token represents the value of focusVisibleOpacity (0.3 by default) of the main token.",
+        "type": "color",
+        "value": "{transparentWhite.26}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{transparentWhite.4}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{transparentWhite.8}"
+      }
+    },
+    "disabled": {
+      "comment": "Reflects the text.disabled variable from the theme object",
+      "type": "color",
+      "value": "{adapted.fgColor.disabled}"
+    },
+    "primary": {
+      "comment": "Reflects the text.primary variable from the theme object",
+      "type": "color",
+      "value": "{adapted.fgColor.default}"
+    },
+    "secondary": {
+      "comment": "Reflects the text.secondary variable from the theme object",
+      "type": "color",
+      "value": "{adapted.fgColor.muted}"
+    }
+  },
+  "warning": {
+    "_states": {
+      "focusVisible": {
+        "type": "color",
+        "value": "{attention.alpha.30}"
+      },
+      "hover": {
+        "comment": "Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token.",
+        "type": "color",
+        "value": "{attention.alpha.4}"
+      },
+      "outlinedBorder": {
+        "comment": "Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token.",
+        "type": "color",
+        "value": "{attention.alpha.54}"
+      },
+      "selected": {
+        "comment": "Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token.",
+        "type": "color",
+        "value": "{attention.alpha.8}"
+      }
+    },
+    "contrastText": {
+      "type": "color",
+      "value": "{attention.contrast}"
+    },
+    "dark": {
+      "type": "color",
+      "value": "{attention.emphasis}"
+    },
+    "light": {
+      "type": "color",
+      "value": "{attention.muted}"
+    },
+    "main": {
+      "type": "color",
+      "value": "{attention.default}"
+    }
+  }
+}
