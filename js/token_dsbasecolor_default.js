@@ -1802,21 +1802,21 @@ module.exports = {
           "12"
         ]
       },
-      "950": {
+      "13": {
         "value": "#222222",
         "original": {
           "value": "#222222"
         },
-        "name": "ColorNeutral950",
+        "name": "ColorNeutral13",
         "attributes": {
           "category": "color",
           "type": "neutral",
-          "item": "950"
+          "item": "13"
         },
         "path": [
           "color",
           "neutral",
-          "950"
+          "13"
         ]
       }
     },
