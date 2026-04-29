@@ -1,12 +1,12 @@
 :root {
   --color-components-alert-error-background: #ffe2e2;
-  --color-components-alert-error-color: #d1242f;
+  --color-components-alert-error-color: #fb2c36;
   --color-components-alert-info-background: #e1f5fe;
   --color-components-alert-info-color: #03a9f4;
   --color-components-alert-success-background: #d9f5da;
-  --color-components-alert-success-color: #1a7f37;
+  --color-components-alert-success-color: #409d44;
   --color-components-alert-warning-background: #fefaeb;
-  --color-components-alert-warning-color: #9a6700;
+  --color-components-alert-warning-color: #a2892e;
   --color-components-app-bar-default-fill: #eeeeee;
   --color-components-avatar-fill: #a5a5a5;
   --color-components-backdrop-fill: rgba(0, 0, 0, 0.54);
@@ -51,7 +51,7 @@
   --color-components-switch-know-fill-disabled: #eeeeee;
   --color-components-switch-slide-fill: #000000;
   --color-components-table-border: rgba(0, 0, 0, 0.12);
-  --color-components-tooltip-fill: rgba(0, 0, 0, 0.87);
+  --color-components-tooltip-fill: rgba(0, 0, 0, 0.7);
   --color-native-scrollbar-bg: #d5d5d5;
   --color-action-active: #8b8b8b;
   --color-action-disabled: rgba(0, 0, 0, 0.26); /* Reflects the action.disabled variable from the theme object */
@@ -110,6 +110,72 @@
   --color-adapted-border-color-transparent: rgba(255, 255, 255, 0);
   --color-adapted-border-color-upsell-emphasis: #8250df;
   --color-adapted-border-color-upsell-muted: rgba(194, 151, 255, 0.4);
+  --color-adapted-button-danger-bg-color-active: #8b0820;
+  --color-adapted-button-danger-bg-color-disabled: #eff2f5;
+  --color-adapted-button-danger-bg-color-hover: #a40e26;
+  --color-adapted-button-danger-bg-color-rest: #f6f8fa;
+  --color-adapted-button-danger-border-color-active: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-danger-border-color-hover: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-danger-border-color-rest: #d1d9e0;
+  --color-adapted-button-danger-fg-color-active: #ffffff;
+  --color-adapted-button-danger-fg-color-disabled: rgba(251, 44, 54, 0.54);
+  --color-adapted-button-danger-fg-color-hover: rgba(0, 0, 0, 0);
+  --color-adapted-button-danger-fg-color-rest: #fb2c36;
+  --color-adapted-button-danger-icon-color-hover: #ffffff;
+  --color-adapted-button-danger-icon-color-rest: #d1242f;
+  --color-adapted-button-danger-shadow-selected-color: rgba(76, 0, 20, 0.2);
+  --color-adapted-button-default-bg-color-active: #e6eaef;
+  --color-adapted-button-default-bg-color-disabled: #ffffff;
+  --color-adapted-button-default-bg-color-hover: #eff2f5;
+  --color-adapted-button-default-bg-color-rest: #f6f8fa;
+  --color-adapted-button-default-bg-color-selected: #e6eaef;
+  --color-adapted-button-default-border-color-active: #d1d9e0;
+  --color-adapted-button-default-border-color-disabled: rgba(129, 139, 152, 0.1);
+  --color-adapted-button-default-border-color-hover: #d1d9e0;
+  --color-adapted-button-default-border-color-rest: #d1d9e0;
+  --color-adapted-button-default-fg-color-rest: #25292e;
+  --color-adapted-button-default-shadow-resting-color: rgba(31, 35, 40, 0.04);
+  --color-adapted-button-inactive-bg-color: #e6eaef;
+  --color-adapted-button-inactive-fg-color: #59636e;
+  --color-adapted-button-invisible-bg-color-active: rgba(129, 139, 152, 0.15);
+  --color-adapted-button-invisible-bg-color-disabled: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-bg-color-hover: rgba(129, 139, 152, 0.1);
+  --color-adapted-button-invisible-bg-color-rest: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-border-color-disabled: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-border-color-hover: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-border-color-rest: rgba(255, 255, 255, 0);
+  --color-adapted-button-invisible-fg-color-active: #25292e;
+  --color-adapted-button-invisible-fg-color-disabled: #818b98;
+  --color-adapted-button-invisible-fg-color-hover: #25292e;
+  --color-adapted-button-invisible-fg-color-rest: #25292e;
+  --color-adapted-button-invisible-icon-color-disabled: #818b98;
+  --color-adapted-button-invisible-icon-color-hover: #59636e;
+  --color-adapted-button-invisible-icon-color-rest: #59636e;
+  --color-adapted-button-outline-bg-color-active: #0757ba;
+  --color-adapted-button-outline-bg-color-disabled: #eff2f5;
+  --color-adapted-button-outline-bg-color-hover: #0969da;
+  --color-adapted-button-outline-bg-color-rest: #f6f8fa;
+  --color-adapted-button-outline-border-color-active: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-outline-border-color-hover: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-outline-border-color-selected: #ffffff;
+  --color-adapted-button-outline-fg-color-active: #ffffff;
+  --color-adapted-button-outline-fg-color-disabled: rgba(9, 105, 218, 0.5);
+  --color-adapted-button-outline-fg-color-hover: #ffffff;
+  --color-adapted-button-outline-fg-color-rest: #0969da;
+  --color-adapted-button-outline-shadow-selected-color: rgba(0, 33, 85, 0.2);
+  --color-adapted-button-primary-bg-color-active: #197935;
+  --color-adapted-button-primary-bg-color-disabled: #95d8a6;
+  --color-adapted-button-primary-bg-color-hover: #1c8139;
+  --color-adapted-button-primary-bg-color-rest: #079c32;
+  --color-adapted-button-primary-border-color-active: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-primary-border-color-disabled: #95d8a6;
+  --color-adapted-button-primary-border-color-hover: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-primary-border-color-rest: rgba(31, 35, 40, 0.15);
+  --color-adapted-button-primary-fg-color-disabled: rgba(255, 255, 255, 0.8);
+  --color-adapted-button-primary-fg-color-rest: #ffffff;
+  --color-adapted-button-primary-icon-color-rest: rgba(255, 255, 255, 0.8);
+  --color-adapted-button-primary-shadow-selected-color: rgba(0, 45, 17, 0.3);
+  --color-adapted-button-star-icon-color: #eac54f;
   --color-adapted-control-bg-color-active: #e6eaef;
   --color-adapted-control-bg-color-disabled: #eeeeee;
   --color-adapted-control-bg-color-hover: #eeeeee;
@@ -134,11 +200,11 @@
   --color-adapted-control-checked-fg-color-rest: #ffffff;
   --color-adapted-control-danger-bg-color-active: rgba(255, 226, 226, 0.4);
   --color-adapted-control-danger-bg-color-hover: #ffe2e2;
-  --color-adapted-control-danger-fg-color-hover: #d1242f;
-  --color-adapted-control-danger-fg-color-rest: #d1242f;
+  --color-adapted-control-danger-fg-color-hover: #fb2c36;
+  --color-adapted-control-danger-fg-color-rest: #fb2c36;
   --color-adapted-control-fg-color-disabled: #8b8b8b;
   --color-adapted-control-fg-color-placeholder: #8b8b8b;
-  --color-adapted-control-fg-color-rest: #383838;
+  --color-adapted-control-fg-color-rest: #222222;
   --color-adapted-control-icon-color-rest: #8b8b8b;
   --color-adapted-control-transparent-bg-color-active: rgba(129, 139, 152, 0.15);
   --color-adapted-control-transparent-bg-color-disabled: #eeeeee;
@@ -149,11 +215,11 @@
   --color-adapted-control-transparent-border-color-hover: rgba(255, 255, 255, 0);
   --color-adapted-control-transparent-border-color-rest: rgba(255, 255, 255, 0);
   --color-adapted-fg-color-accent: #03a9f4;
-  --color-adapted-fg-color-attention: #9a6700;
+  --color-adapted-fg-color-attention: #a2892e;
   --color-adapted-fg-color-black: #1f2328;
   --color-adapted-fg-color-closed: #d1242f;
-  --color-adapted-fg-color-danger: #d1242f;
-  --color-adapted-fg-color-default: #383838;
+  --color-adapted-fg-color-danger: #fb2c36;
+  --color-adapted-fg-color-default: #222222;
   --color-adapted-fg-color-disabled: #8b8b8b;
   --color-adapted-fg-color-done: #615fff;
   --color-adapted-fg-color-link: #03a9f4;
@@ -162,8 +228,8 @@
   --color-adapted-fg-color-on-emphasis: #ffffff;
   --color-adapted-fg-color-on-inverse: #ffffff;
   --color-adapted-fg-color-open: #1a7f37;
-  --color-adapted-fg-color-severe: #bc4c00;
-  --color-adapted-fg-color-success: #1a7f37;
+  --color-adapted-fg-color-severe: #b05900;
+  --color-adapted-fg-color-success: #409d44;
   --color-adapted-fg-color-white: #ffffff;
   --color-adapted-focus-outline-color: #03a9f4;
   --color-background-default: #fafafa; /* Reflects the background.default variable from the theme object */
@@ -228,7 +294,7 @@
   --color-text-states-hover: rgba(0, 0, 0, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
   --color-text-states-selected: rgba(0, 0, 0, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
   --color-text-disabled: #8b8b8b; /* Reflects the text.disabled variable from the theme object */
-  --color-text-primary: #383838; /* Reflects the text.primary variable from the theme object */
+  --color-text-primary: #222222; /* Reflects the text.primary variable from the theme object */
   --color-text-secondary: #8b8b8b; /* Reflects the text.secondary variable from the theme object */
   --color-warning-states-focus-visible: rgba(162, 137, 46, 0.3);
   --color-warning-states-hover: rgba(162, 137, 46, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */

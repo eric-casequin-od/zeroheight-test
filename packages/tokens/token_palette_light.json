@@ -284,7 +284,7 @@
     "tooltip": {
       "fill": {
         "$type": "color",
-        "$value": "{transparentBlack.87}"
+        "$value": "{transparentBlack.70}"
       }
     }
   },
@@ -534,6 +534,402 @@
         "$value": "#c297ff66"
       }
     },
+    "button": {
+      "danger": {
+        "bgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#8B0820"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#EFF2F5"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#A40E26"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#F6F8FA"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#1f232826"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#1f232826"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#D1D9E0"
+          }
+        },
+        "fgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "{neutral.0}"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "{danger.alpha.54}"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "{transparentBlack.0}"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "{adapted.fgColor.danger}"
+          }
+        },
+        "iconColor": {
+          "hover": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#D1242F"
+          }
+        },
+        "shadow": {
+          "selected": {
+            "blur": {
+              "$type": "number",
+              "$value": 0
+            },
+            "color": {
+              "$type": "color",
+              "$value": "#4c001433"
+            },
+            "offsetX": {
+              "$type": "number",
+              "$value": 0
+            },
+            "offsetY": {
+              "$type": "number",
+              "$value": 1
+            },
+            "spread": {
+              "$type": "number",
+              "$value": 0
+            }
+          }
+        }
+      },
+      "default": {
+        "bgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#E6EAEF"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#EFF2F5"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#F6F8FA"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#E6EAEF"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#D1D9E0"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#818b981a"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#D1D9E0"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#D1D9E0"
+          }
+        },
+        "fgColor": {
+          "rest": {
+            "$type": "color",
+            "$value": "#25292E"
+          }
+        },
+        "shadow": {
+          "resting": {
+            "blur": {
+              "$type": "number",
+              "$value": 0
+            },
+            "color": {
+              "$type": "color",
+              "$value": "#1f23280a"
+            },
+            "offsetX": {
+              "$type": "number",
+              "$value": 0
+            },
+            "offsetY": {
+              "$type": "number",
+              "$value": 1
+            },
+            "spread": {
+              "$type": "number",
+              "$value": 0
+            }
+          }
+        }
+      },
+      "inactive": {
+        "bgColor": {
+          "$type": "color",
+          "$value": "#E6EAEF"
+        },
+        "fgColor": {
+          "$type": "color",
+          "$value": "#59636E"
+        }
+      },
+      "invisible": {
+        "bgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#818b9826"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#818b981a"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          }
+        },
+        "borderColor": {
+          "disabled": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#ffffff00"
+          }
+        },
+        "fgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#25292E"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#818B98"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#25292E"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#25292E"
+          }
+        },
+        "iconColor": {
+          "disabled": {
+            "$type": "color",
+            "$value": "#818B98"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#59636E"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#59636E"
+          }
+        }
+      },
+      "outline": {
+        "bgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#0757BA"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#EFF2F5"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#0969DA"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#F6F8FA"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#1f232826"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#1f232826"
+          },
+          "selected": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          }
+        },
+        "fgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#0969da80"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#0969DA"
+          }
+        },
+        "shadow": {
+          "selected": {
+            "blur": {
+              "$type": "number",
+              "$value": 0
+            },
+            "color": {
+              "$type": "color",
+              "$value": "#00215533"
+            },
+            "offsetX": {
+              "$type": "number",
+              "$value": 0
+            },
+            "offsetY": {
+              "$type": "number",
+              "$value": 1
+            },
+            "spread": {
+              "$type": "number",
+              "$value": 0
+            }
+          }
+        }
+      },
+      "primary": {
+        "bgColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#197935"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#95D8A6"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#1C8139"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#079C32"
+          }
+        },
+        "borderColor": {
+          "active": {
+            "$type": "color",
+            "$value": "#1f232826"
+          },
+          "disabled": {
+            "$type": "color",
+            "$value": "#95D8A6"
+          },
+          "hover": {
+            "$type": "color",
+            "$value": "#1f232826"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#1f232826"
+          }
+        },
+        "fgColor": {
+          "disabled": {
+            "$type": "color",
+            "$value": "#ffffffcc"
+          },
+          "rest": {
+            "$type": "color",
+            "$value": "#FFFFFF"
+          }
+        },
+        "iconColor": {
+          "rest": {
+            "$type": "color",
+            "$value": "#ffffffcc"
+          }
+        },
+        "shadow": {
+          "selected": {
+            "blur": {
+              "$type": "number",
+              "$value": 0
+            },
+            "color": {
+              "$type": "color",
+              "$value": "#002d114d"
+            },
+            "offsetX": {
+              "$type": "number",
+              "$value": 0
+            },
+            "offsetY": {
+              "$type": "number",
+              "$value": 1
+            },
+            "spread": {
+              "$type": "number",
+              "$value": 0
+            }
+          }
+        }
+      },
+      "star": {
+        "iconColor": {
+          "$type": "color",
+          "$value": "#EAC54F"
+        }
+      }
+    },
     "control": {
       "bgColor": {
         "active": {
@@ -723,7 +1119,7 @@
       },
       "attention": {
         "$type": "color",
-        "$value": "#9A6700"
+        "$value": "{yellow.500}"
       },
       "black": {
         "$type": "color",
@@ -735,11 +1131,11 @@
       },
       "danger": {
         "$type": "color",
-        "$value": "#D1242F"
+        "$value": "{danger.default}"
       },
       "default": {
         "$type": "color",
-        "$value": "{neutral.12}"
+        "$value": "{neutral.13}"
       },
       "disabled": {
         "$type": "color",
@@ -775,21 +1171,27 @@
       },
       "severe": {
         "$type": "color",
-        "$value": "#BC4C00"
+        "$value": "{orange.600}"
       },
       "success": {
         "$type": "color",
-        "$value": "#1A7F37"
+        "$value": "{green.500}"
       },
       "white": {
         "$type": "color",
-        "$value": "#FFFFFF"
+        "$value": "{neutral.0}"
       }
     },
     "focus": {
       "outlineColor": {
         "$type": "color",
         "$value": "{sky.500}"
+      }
+    },
+    "tabs": {
+      "----": {
+        "$type": "number",
+        "$value": 0
       }
     }
   },

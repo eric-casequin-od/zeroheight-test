@@ -64,17 +64,17 @@
         "large": {
           "comment": "Base text",
           "type": "number",
-          "value": 21.88
+          "value": 24
         },
         "medium": {
           "comment": "Base text",
           "type": "number",
-          "value": 17.5
+          "value": 20
         },
         "small": {
           "comment": "Base text",
           "type": "number",
-          "value": 14
+          "value": 20
         }
       },
       "size": {
@@ -214,22 +214,22 @@
       "2xl": {
         "comment": "Base text",
         "type": "number",
-        "value": 27.34
+        "value": 27
       },
       "3xl": {
         "comment": "Base text",
         "type": "number",
-        "value": 34.18
+        "value": 34
       },
       "4xl": {
         "comment": "Base text",
         "type": "number",
-        "value": 42.72
+        "value": 43
       },
       "l": {
         "comment": "Base text",
         "type": "number",
-        "value": 17.5
+        "value": 18
       },
       "m": {
         "comment": "Base text",
@@ -239,17 +239,17 @@
       "s": {
         "comment": "Base text",
         "type": "number",
-        "value": 11.2
+        "value": 11
       },
       "xl": {
         "comment": "Base text",
         "type": "number",
-        "value": 21.88
+        "value": 22
       },
       "xs": {
         "comment": "Base text",
         "type": "number",
-        "value": 8.96
+        "value": 9
       }
     },
     "subtitle": {

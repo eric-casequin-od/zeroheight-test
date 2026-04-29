@@ -63,17 +63,17 @@
       "lineHeight": {
         "large": {
           "$type": "number",
-          "$value": 21.88,
+          "$value": 24,
           "$description": "Base text"
         },
         "medium": {
           "$type": "number",
-          "$value": 17.5,
+          "$value": 20,
           "$description": "Base text"
         },
         "small": {
           "$type": "number",
-          "$value": 14,
+          "$value": 20,
           "$description": "Base text"
         }
       },
@@ -213,22 +213,22 @@
     "size": {
       "2xl": {
         "$type": "number",
-        "$value": 27.34,
+        "$value": 27,
         "$description": "Base text"
       },
       "3xl": {
         "$type": "number",
-        "$value": 34.18,
+        "$value": 34,
         "$description": "Base text"
       },
       "4xl": {
         "$type": "number",
-        "$value": 42.72,
+        "$value": 43,
         "$description": "Base text"
       },
       "l": {
         "$type": "number",
-        "$value": 17.5,
+        "$value": 18,
         "$description": "Base text"
       },
       "m": {
@@ -238,17 +238,17 @@
       },
       "s": {
         "$type": "number",
-        "$value": 11.2,
+        "$value": 11,
         "$description": "Base text"
       },
       "xl": {
         "$type": "number",
-        "$value": 21.88,
+        "$value": 22,
         "$description": "Base text"
       },
       "xs": {
         "$type": "number",
-        "$value": 8.96,
+        "$value": 9,
         "$description": "Base text"
       }
     },
