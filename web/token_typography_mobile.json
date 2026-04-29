@@ -1,0 +1,48 @@
+{
+  "content": {
+    "body1": {
+      "font-family": "Montserrat"
+    },
+    "body2": {
+      "font-family": "Montserrat"
+    },
+    "caption": {
+      "font-family": "Inconsolata"
+    },
+    "fontFamily": "Montserrat",
+    "fontFamilyMonospace": "Inconsolata",
+    "header 1": {
+      "font-family": "Montserrat"
+    },
+    "header 2": {
+      "font-family": "Montserrat"
+    },
+    "header 3": {
+      "font-family": "Montserrat"
+    },
+    "header 4": {
+      "font-family": "Montserrat"
+    },
+    "header 5": {
+      "font-family": "Montserrat"
+    },
+    "header 6": {
+      "font-family": "Montserrat"
+    },
+    "helper": {
+      "font-family": "Montserrat"
+    },
+    "monospace": {
+      "font-family": "Inconsolata"
+    },
+    "overline": {
+      "font-family": "Montserrat"
+    },
+    "subtitle1": {
+      "font-family": "Montserrat"
+    },
+    "subtitle2": {
+      "font-family": "Montserrat"
+    }
+  }
+}
