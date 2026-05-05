@@ -1,0 +1,134 @@
+:root {
+  --color-components-alert-error-background: #ffe2e2;
+  --color-components-alert-error-color: #fb2c36;
+  --color-components-alert-info-background: #e1f5fe;
+  --color-components-alert-info-color: #03a9f4;
+  --color-components-alert-success-background: #d9f5da;
+  --color-components-alert-success-color: #409d44;
+  --color-components-alert-warning-background: #fefaeb;
+  --color-components-alert-warning-color: #a2892e;
+  --color-components-app-bar-default-fill: #eeeeee;
+  --color-components-avatar-fill: #a5a5a5;
+  --color-components-backdrop-fill: rgba(0, 0, 0, 0.55);
+  --color-components-breadcrumbs-collapse-fill: #eeeeee;
+  --color-components-chip-default-close-fill: #8b8b8b;
+  --color-components-chip-default-enabled-border: #a5a5a5;
+  --color-components-chip-default-focus-fill: rgba(0, 0, 0, 0.26);
+  --color-components-chip-default-hover-fill: rgba(0, 0, 0, 0.12);
+  --color-components-input-outlined-enabled-border: rgba(0, 0, 0, 0.12);
+  --color-components-input-outlined-hover-border: #8b8b8b;
+  --color-components-paper-elevation-0: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-1: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-10: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-11: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-12: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-13: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-14: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-15: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-16: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-17: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-18: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-19: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-2: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-20: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-21: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-22: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-23: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-24: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-3: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-4: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-5: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-6: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-7: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-8: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-elevation-9: #fafafa; /* Reflects the background.paper variable from the theme object */
+  --color-components-paper-outline-border: rgba(0, 0, 0, 0.12);
+  --color-components-rating-active-fill: #ffb300;
+  --color-components-rating-enabled-border: rgba(0, 0, 0, 0.26);
+  --color-components-snackbar-fill: #4c4c4c;
+  --color-components-stepper-connector: rgba(0, 0, 0, 0.12);
+  --color-components-switch-knob-fill-enabled: #fafafa;
+  --color-components-switch-know-fill-disabled: #eeeeee;
+  --color-components-switch-slide-fill: #000000;
+  --color-components-table-border: rgba(0, 0, 0, 0.12);
+  --color-components-tooltip-fill: #4c4c4c;
+  --color-native-scrollbar-bg: rgba(0, 0, 0, 0.16);
+  --color-action-active: #8b8b8b;
+  --color-action-disabled: rgba(0, 0, 0, 0.26); /* Reflects the action.disabled variable from the theme object */
+  --color-action-disabled-background: rgba(0, 0, 0, 0.12); /* Reflects the action.disabledBackground variable from the theme object */
+  --color-action-focus: rgba(0, 0, 0, 0.12); /* Reflects the action.focus variable from the theme object */
+  --color-action-hover: rgba(0, 0, 0, 0.04); /* Reflects the action.hover variable from the theme object */
+  --color-action-selected: rgba(0, 0, 0, 0.08); /* Reflects the action.selected variable from the theme object */
+  --color-background-default: #fafafa; /* Reflects the background.default variable from the theme object */
+  --color-background-paper: #fafafa;
+  --color-common-black-states-focus: rgba(0, 0, 0, 0.12);
+  --color-common-black-states-focus-visible: rgba(0, 0, 0, 0.3); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-common-black-states-hover: rgba(0, 0, 0, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-common-black-states-main: #000000;
+  --color-common-black-states-outlined-border: rgba(0, 0, 0, 0.55); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-common-black-states-selected: rgba(0, 0, 0, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-common-white-states-focus: rgba(255, 255, 255, 0.12);
+  --color-common-white-states-focus-visible: rgba(255, 255, 255, 0.3);
+  --color-common-white-states-hover: rgba(255, 255, 255, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-common-white-states-main: #ffffff;
+  --color-common-white-states-outlined-border: rgba(255, 255, 255, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-common-white-states-selected: rgba(255, 255, 255, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-divider: rgba(0, 0, 0, 0.12); /* Reflects the divider variable from the theme object */
+  --color-error-states-focus-visible: rgba(251, 44, 54, 0.3);
+  --color-error-states-hover: rgba(251, 44, 54, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-error-states-outlined-border: rgba(251, 44, 54, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-error-states-selected: rgba(251, 44, 54, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-error-contrast-text: #ffffff;
+  --color-error-dark: #c10007;
+  --color-error-light: #ffe2e2;
+  --color-error-main: #fb2c36;
+  --color-info-states-focus-visible: rgba(3, 169, 244, 0.3); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-info-states-hover: rgba(3, 169, 244, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-info-states-outlined-border: rgba(3, 169, 244, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-info-states-selected: rgba(3, 169, 244, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-info-contrast-text: #ffffff;
+  --color-info-dark: #0277bd;
+  --color-info-light: #e1f5fe;
+  --color-info-main: #03a9f4;
+  --color-primary-states-focus: rgba(131, 42, 128, 0.3); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
+  --color-primary-states-focus-visible: rgba(131, 42, 128, 0.38);
+  --color-primary-states-hover: rgba(131, 42, 128, 0.08); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-primary-states-outlined-border: rgba(131, 42, 128, 0.3); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-primary-states-selected: rgba(131, 42, 128, 0.12); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-primary-contrast-text: #ffffff; /* Reflects the primary.contrast variable from the theme object. Color that keeps a contrast ratio above AA when XX.main is used as a bg. color */
+  --color-primary-dark: #5d1e5a; /* Used for hover states. Reflects the primary.dark variable from the theme object */
+  --color-primary-light: #f3ebf3; /* Reflects the primary.light variable from the theme object */
+  --color-primary-main: #832a80; /* Reflects the primary.main variable from the theme object */
+  --color-secondary-states-focus: rgba(0, 120, 162, 0.3); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
+  --color-secondary-states-focus-visible: rgba(0, 120, 162, 0.38);
+  --color-secondary-states-hover: rgba(0, 120, 162, 0.08); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-secondary-states-outlined-border: rgba(0, 120, 162, 0.3); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-secondary-states-selected: rgba(0, 120, 162, 0.12); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-secondary-contrast-text: #ffffff;
+  --color-secondary-dark: #00536f;
+  --color-secondary-light: #e3f0f5;
+  --color-secondary-main: #0078a2;
+  --color-success-states-focus-visible: rgba(64, 157, 68, 0.3); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-success-states-hover: rgba(64, 157, 68, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-success-states-outlined-border: rgba(64, 157, 68, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-success-states-selected: rgba(64, 157, 68, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-success-contrast-text: #ffffff;
+  --color-success-dark: #2c6c2f;
+  --color-success-light: #d9f5da;
+  --color-success-main: #409d44;
+  --color-text-states-focus: rgba(0, 0, 0, 0.12); /* Used for focus states. The token represents the value of action.focusOpacity (0.12 by default) of the main token. */
+  --color-text-states-focus-visible: rgba(0, 0, 0, 0.26); /* Used for focus visible states. The token represents the value of focusVisibleOpacity (0.3 by default) of the main token. */
+  --color-text-states-hover: rgba(0, 0, 0, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-text-states-selected: rgba(0, 0, 0, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-text-disabled: #8b8b8b; /* Reflects the text.disabled variable from the theme object */
+  --color-text-primary: #222222; /* Reflects the text.primary variable from the theme object */
+  --color-text-secondary: #8b8b8b; /* Reflects the text.secondary variable from the theme object */
+  --color-warning-states-focus-visible: rgba(162, 137, 46, 0.3);
+  --color-warning-states-hover: rgba(162, 137, 46, 0.04); /* Used for hover states. The token represents the value of action.hoverOpacity (0.04 by default) of the main token. */
+  --color-warning-states-outlined-border: rgba(162, 137, 46, 0.54); /* Used for enabled states (e.g Button outlined variant). The token represents the value of outlinedBorderOpacity (0.5 by default) of the main token. */
+  --color-warning-states-selected: rgba(162, 137, 46, 0.08); /* Used for selected states. The token represents the value of action.selectedOpacity (0.08 by default) of the main token. */
+  --color-warning-contrast-text: #ffffff;
+  --color-warning-dark: #846f26;
+  --color-warning-light: #fefaeb;
+  --color-warning-main: #a2892e;
+}
