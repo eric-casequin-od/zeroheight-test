@@ -1,0 +1,22 @@
+{
+  "lg": {
+    "type": "number",
+    "value": 1012
+  },
+  "md": {
+    "type": "number",
+    "value": 768
+  },
+  "sm": {
+    "type": "number",
+    "value": 544
+  },
+  "xl": {
+    "type": "number",
+    "value": 1280
+  },
+  "xs": {
+    "type": "number",
+    "value": 320
+  }
+}
