@@ -3,7 +3,7 @@
     "borderRadius": {
       "default": {
         "$type": "number",
-        "$value": 4
+        "$value": "{size.borderRadius.small}"
       },
       "full": {
         "$type": "number",
@@ -26,7 +26,7 @@
     "borderWidth": {
       "default": {
         "$type": "number",
-        "$value": 1
+        "$value": "{size.borderWidth.thin}"
       },
       "thick": {
         "$type": "number",
@@ -76,11 +76,11 @@
     "space": {
       "large": {
         "$type": "number",
-        "$value": 12
+        "$value": "{size.12}"
       },
       "medium": {
         "$type": "number",
-        "$value": 8
+        "$value": "{size.8}"
       },
       "small": {
         "$type": "number",
@@ -88,11 +88,11 @@
       },
       "xlarge": {
         "$type": "number",
-        "$value": 16
+        "$value": "{size.16}"
       },
       "xsmall": {
         "$type": "number",
-        "$value": 4
+        "$value": "{size.4}"
       },
       "xxsmall": {
         "$type": "number",
