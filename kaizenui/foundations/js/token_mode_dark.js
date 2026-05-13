@@ -104,9 +104,9 @@ module.exports = {
         ]
       },
       "closed-emphasis": {
-        "value": "#c10007",
+        "value": "#717171",
         "original": {
-          "value": "#C10007"
+          "value": "#717171"
         },
         "name": "ColorBgColorClosedEmphasis",
         "attributes": {
@@ -121,9 +121,9 @@ module.exports = {
         ]
       },
       "closed-muted": {
-        "value": "#ffe2e2",
+        "value": "#c9c9c9",
         "original": {
-          "value": "#FFE2E2"
+          "value": "#C9C9C9"
         },
         "name": "ColorBgColorClosedMuted",
         "attributes": {
@@ -206,9 +206,9 @@ module.exports = {
         ]
       },
       "done-emphasis": {
-        "value": "#2c6c2f",
+        "value": "#717171",
         "original": {
-          "value": "#2C6C2F"
+          "value": "#717171"
         },
         "name": "ColorBgColorDoneEmphasis",
         "attributes": {
@@ -223,9 +223,9 @@ module.exports = {
         ]
       },
       "done-muted": {
-        "value": "#d9f5da",
+        "value": "#c9c9c9",
         "original": {
-          "value": "#D9F5DA"
+          "value": "#C9C9C9"
         },
         "name": "ColorBgColorDoneMuted",
         "attributes": {
@@ -240,10 +240,29 @@ module.exports = {
         ]
       },
       "elevation": {
-        "elevation-1": {
+        "elevation-0": {
           "value": "#222222",
           "original": {
             "value": "#222222"
+          },
+          "name": "ColorBgColorElevationElevation0",
+          "attributes": {
+            "category": "color",
+            "type": "bgColor",
+            "item": "elevation",
+            "subitem": "elevation-0"
+          },
+          "path": [
+            "color",
+            "bgColor",
+            "elevation",
+            "elevation-0"
+          ]
+        },
+        "elevation-1": {
+          "value": "#1e1e1e",
+          "original": {
+            "value": "#1E1E1E"
           },
           "name": "ColorBgColorElevationElevation1",
           "attributes": {
@@ -260,9 +279,9 @@ module.exports = {
           ]
         },
         "elevation-2": {
-          "value": "#383838",
+          "value": "#232323",
           "original": {
-            "value": "#383838"
+            "value": "#232323"
           },
           "name": "ColorBgColorElevationElevation2",
           "attributes": {
@@ -279,9 +298,9 @@ module.exports = {
           ]
         },
         "elevation-3": {
-          "value": "#383838",
+          "value": "#252525",
           "original": {
-            "value": "#383838"
+            "value": "#252525"
           },
           "name": "ColorBgColorElevationElevation3",
           "attributes": {
@@ -298,9 +317,9 @@ module.exports = {
           ]
         },
         "elevation-4": {
-          "value": "#383838",
+          "value": "#272727",
           "original": {
-            "value": "#383838"
+            "value": "#272727"
           },
           "name": "ColorBgColorElevationElevation4",
           "attributes": {
@@ -317,9 +336,9 @@ module.exports = {
           ]
         },
         "elevation-5": {
-          "value": "#4c4c4c",
+          "value": "#2a2a2a",
           "original": {
-            "value": "#4C4C4C"
+            "value": "#2A2A2A"
           },
           "name": "ColorBgColorElevationElevation5",
           "attributes": {
@@ -336,9 +355,9 @@ module.exports = {
           ]
         },
         "elevation-6": {
-          "value": "#4c4c4c",
+          "value": "#2c2c2c",
           "original": {
-            "value": "#4C4C4C"
+            "value": "#2C2C2C"
           },
           "name": "ColorBgColorElevationElevation6",
           "attributes": {
@@ -458,9 +477,9 @@ module.exports = {
         ]
       },
       "open-emphasis": {
-        "value": "#2c6c2f",
+        "value": "#348037",
         "original": {
-          "value": "#2C6C2F"
+          "value": "#348037"
         },
         "name": "ColorBgColorOpenEmphasis",
         "attributes": {
@@ -970,9 +989,9 @@ module.exports = {
         ]
       },
       "upsell-emphasis": {
-        "value": "#8250df",
+        "value": "#b078ae",
         "original": {
-          "value": "#8250DF"
+          "value": "#B078AE"
         },
         "name": "ColorBorderColorUpsellEmphasis",
         "attributes": {
@@ -987,9 +1006,9 @@ module.exports = {
         ]
       },
       "upsell-muted": {
-        "value": "#c297ff",
+        "value": "#b078ae",
         "original": {
-          "value": "rgba(194, 151, 255, 0.4)"
+          "value": "rgba(176, 120, 174, 0.4)"
         },
         "name": "ColorBorderColorUpsellMuted",
         "attributes": {
@@ -3397,9 +3416,9 @@ module.exports = {
         ]
       },
       "closed": {
-        "value": "#d1242f",
+        "value": "#717171",
         "original": {
-          "value": "#D1242F"
+          "value": "#717171"
         },
         "name": "ColorFgColorClosed",
         "attributes": {
@@ -3482,9 +3501,9 @@ module.exports = {
         ]
       },
       "link": {
-        "value": "#03a9f4",
+        "value": "#9d579b",
         "original": {
-          "value": "#03A9F4"
+          "value": "#9D579B"
         },
         "name": "ColorFgColorLink",
         "attributes": {
@@ -3549,23 +3568,6 @@ module.exports = {
           "onEmphasis"
         ]
       },
-      "onEmphasis 2": {
-        "value": "#ffffff",
-        "original": {
-          "value": "#FFFFFF"
-        },
-        "name": "ColorFgColorOnEmphasis2",
-        "attributes": {
-          "category": "color",
-          "type": "fgColor",
-          "item": "onEmphasis 2"
-        },
-        "path": [
-          "color",
-          "fgColor",
-          "onEmphasis 2"
-        ]
-      },
       "onInverse": {
         "value": "#222222",
         "original": {
@@ -3584,9 +3586,9 @@ module.exports = {
         ]
       },
       "open": {
-        "value": "#1a7f37",
+        "value": "#409d44",
         "original": {
-          "value": "#1A7F37"
+          "value": "#409D44"
         },
         "name": "ColorFgColorOpen",
         "attributes": {
