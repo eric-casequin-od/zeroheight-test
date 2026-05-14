@@ -4,11 +4,11 @@
       "large": {
         "gap": {
           "type": "number",
-          "value": 8
+          "value": "{size.8}"
         },
         "lineBoxHeight": {
           "type": "number",
-          "value": 20
+          "value": "{size.20}"
         },
         "paddingBlock": {
           "type": "number",
@@ -17,96 +17,96 @@
         "paddingInline": {
           "normal": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           },
           "spacious": {
             "type": "number",
-            "value": 16
+            "value": "{size.16}"
           }
         },
         "size": {
           "type": "number",
-          "value": 40
+          "value": "{size.40}"
         }
       },
       "medium": {
         "gap": {
           "type": "number",
-          "value": 8
+          "value": "{size.8}"
         },
         "lineBoxHeight": {
           "type": "number",
-          "value": 20
+          "value": "{size.20}"
         },
         "paddingBlock": {
           "type": "number",
-          "value": 6
+          "value": "{size.6}"
         },
         "paddingInline": {
           "condensed": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "normal": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           },
           "spacious": {
             "type": "number",
-            "value": 16
+            "value": "{size.16}"
           }
         },
         "size": {
           "type": "number",
-          "value": 32
+          "value": "{size.32}"
         }
       },
       "minTarget": {
         "coarse": {
           "type": "number",
-          "value": 44
+          "value": "{size.44}"
         },
         "fine": {
           "type": "number",
-          "value": 16
+          "value": "{size.16}"
         }
       },
       "small": {
         "gap": {
           "type": "number",
-          "value": 4
+          "value": "{size.4}"
         },
         "lineBoxHeight": {
           "type": "number",
-          "value": 20
+          "value": "{size.20}"
         },
         "paddingBlock": {
           "type": "number",
-          "value": 4
+          "value": "{size.4}"
         },
         "paddingInline": {
           "condensed": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "normal": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           }
         },
         "size": {
           "type": "number",
-          "value": 28
+          "value": "{size.28}"
         }
       },
       "xlarge": {
         "gap": {
           "type": "number",
-          "value": 8
+          "value": "{size.8}"
         },
         "lineBoxHeight": {
           "type": "number",
-          "value": 20
+          "value": "{size.20}"
         },
         "paddingBlock": {
           "type": "number",
@@ -115,48 +115,48 @@
         "paddingInline": {
           "normal": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           },
           "spacious": {
             "type": "number",
-            "value": 16
+            "value": "{size.16}"
           }
         },
         "size": {
           "type": "number",
-          "value": 48
+          "value": "{size.48}"
         }
       },
       "xsmall": {
         "gap": {
           "type": "number",
-          "value": 4
+          "value": "{size.4}"
         },
         "lineBoxHeight": {
           "type": "number",
-          "value": 20
+          "value": "{size.20}"
         },
         "paddingBlock": {
           "type": "number",
-          "value": 2
+          "value": "{size.2}"
         },
         "paddingInline": {
           "condensed": {
             "type": "number",
-            "value": 4
+            "value": "{size.4}"
           },
           "normal": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "spacious": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           }
         },
         "size": {
           "type": "number",
-          "value": 24
+          "value": "{size.24}"
         }
       }
     },
@@ -165,15 +165,15 @@
         "gap": {
           "auto": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "condensed": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "spacious": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           }
         }
       },
@@ -181,11 +181,11 @@
         "gap": {
           "condensed": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "spacious": {
             "type": "number",
-            "value": 12
+            "value": "{size.12}"
           }
         }
       },
@@ -193,11 +193,11 @@
         "gap": {
           "condensed": {
             "type": "number",
-            "value": 8
+            "value": "{size.8}"
           },
           "spacious": {
             "type": "number",
-            "value": 16
+            "value": "{size.16}"
           }
         }
       }
@@ -205,7 +205,7 @@
     "overlay": {
       "borderRadius": {
         "type": "number",
-        "value": 6
+        "value": "{size.borderRadius.default}"
       },
       "height": {
         "large": {
@@ -227,26 +227,26 @@
       },
       "offset": {
         "type": "number",
-        "value": 4
+        "value": "{size.4}"
       },
       "padding": {
         "condensed": {
           "type": "number",
-          "value": 8
+          "value": "{size.8}"
         },
         "normal": {
           "type": "number",
-          "value": 16
+          "value": "{size.16}"
         }
       },
       "paddingBlock": {
         "condensed": {
           "type": "number",
-          "value": 4
+          "value": "{size.4}"
         },
         "normal": {
           "type": "number",
-          "value": 12
+          "value": "{size.12}"
         }
       },
       "width": {
@@ -276,15 +276,15 @@
       "size": {
         "large": {
           "type": "number",
-          "value": 64
+          "value": "{size.64}"
         },
         "medium": {
           "type": "number",
-          "value": 32
+          "value": "{size.32}"
         },
         "small": {
           "type": "number",
-          "value": 16
+          "value": "{size.16}"
         }
       }
     },
@@ -292,29 +292,29 @@
       "gap": {
         "condensed": {
           "type": "number",
-          "value": 8
+          "value": "{size.8}"
         },
         "normal": {
           "type": "number",
-          "value": 16
+          "value": "{size.16}"
         },
         "spacious": {
           "type": "number",
-          "value": 24
+          "value": "{size.24}"
         }
       },
       "padding": {
         "condensed": {
           "type": "number",
-          "value": 8
+          "value": "{size.8}"
         },
         "normal": {
           "type": "number",
-          "value": 16
+          "value": "{size.16}"
         },
         "spacious": {
           "type": "number",
-          "value": 24
+          "value": "{size.24}"
         }
       }
     }
