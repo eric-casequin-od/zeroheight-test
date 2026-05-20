@@ -3,7 +3,7 @@
     "borderRadius": {
       "default": {
         "$type": "number",
-        "$value": 4
+        "$value": "{size.borderRadius.small}"
       },
       "full": {
         "$type": "number",
@@ -26,7 +26,7 @@
     "borderWidth": {
       "default": {
         "$type": "number",
-        "$value": 1
+        "$value": "{size.borderWidth.thin}"
       },
       "thick": {
         "$type": "number",
@@ -50,7 +50,7 @@
     "breakpoint": {
       "large": {
         "$type": "number",
-        "$value": 1012
+        "$value": 1024
       },
       "medium": {
         "$type": "number",
@@ -58,29 +58,25 @@
       },
       "small": {
         "$type": "number",
-        "$value": 544
+        "$value": 480
       },
       "xlarge": {
         "$type": "number",
-        "$value": 1280
+        "$value": 1440
       },
       "xsmall": {
         "$type": "number",
         "$value": 320
-      },
-      "xxlarge": {
-        "$type": "number",
-        "$value": 1400
       }
     },
     "space": {
       "large": {
         "$type": "number",
-        "$value": 12
+        "$value": "{size.12}"
       },
       "medium": {
         "$type": "number",
-        "$value": 8
+        "$value": "{size.8}"
       },
       "small": {
         "$type": "number",
@@ -88,11 +84,11 @@
       },
       "xlarge": {
         "$type": "number",
-        "$value": 16
+        "$value": "{size.16}"
       },
       "xsmall": {
         "$type": "number",
-        "$value": 4
+        "$value": "{size.4}"
       },
       "xxsmall": {
         "$type": "number",
