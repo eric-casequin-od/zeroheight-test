@@ -1573,6 +1573,198 @@ module.exports = {
           ]
         }
       },
+      "magenta": {
+        "50": {
+          "value": "#ffd9ff",
+          "original": {
+            "value": "#FFD9FF"
+          },
+          "name": "ColorColorMagenta50",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "50"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "50"
+          ]
+        },
+        "100": {
+          "value": "#ffc1ff",
+          "original": {
+            "value": "#FFC1FF"
+          },
+          "name": "ColorColorMagenta100",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "100"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "100"
+          ]
+        },
+        "200": {
+          "value": "#ffa9ff",
+          "original": {
+            "value": "#FFA9FF"
+          },
+          "name": "ColorColorMagenta200",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "200"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "200"
+          ]
+        },
+        "300": {
+          "value": "#ff91ff",
+          "original": {
+            "value": "#FF91FF"
+          },
+          "name": "ColorColorMagenta300",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "300"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "300"
+          ]
+        },
+        "400": {
+          "value": "#ff79ff",
+          "original": {
+            "value": "#FF79FF"
+          },
+          "name": "ColorColorMagenta400",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "400"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#ff60ff",
+          "original": {
+            "value": "#FF60FF"
+          },
+          "name": "ColorColorMagenta500",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "500"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "500"
+          ]
+        },
+        "600": {
+          "value": "#ff48ff",
+          "original": {
+            "value": "#FF48FF"
+          },
+          "name": "ColorColorMagenta600",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "600"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "600"
+          ]
+        },
+        "700": {
+          "value": "#ff30ff",
+          "original": {
+            "value": "#FF30FF"
+          },
+          "name": "ColorColorMagenta700",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "700"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "700"
+          ]
+        },
+        "800": {
+          "value": "#ff18ff",
+          "original": {
+            "value": "#FF18FF"
+          },
+          "name": "ColorColorMagenta800",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "800"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "800"
+          ]
+        },
+        "900": {
+          "value": "#ff00ff",
+          "original": {
+            "value": "#FF00FF"
+          },
+          "name": "ColorColorMagenta900",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "magenta",
+            "subitem": "900"
+          },
+          "path": [
+            "color",
+            "color",
+            "magenta",
+            "900"
+          ]
+        }
+      },
       "navyBlue": {
         "50": {
           "value": "#e6ebed",
