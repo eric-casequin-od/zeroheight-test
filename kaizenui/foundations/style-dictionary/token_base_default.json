@@ -344,6 +344,48 @@
         "value": "#827717"
       }
     },
+    "magenta": {
+      "100": {
+        "type": "color",
+        "value": "#FFC1FF"
+      },
+      "200": {
+        "type": "color",
+        "value": "#FFA9FF"
+      },
+      "300": {
+        "type": "color",
+        "value": "#FF91FF"
+      },
+      "400": {
+        "type": "color",
+        "value": "#FF79FF"
+      },
+      "50": {
+        "type": "color",
+        "value": "#FFD9FF"
+      },
+      "500": {
+        "type": "color",
+        "value": "#FF60FF"
+      },
+      "600": {
+        "type": "color",
+        "value": "#FF48FF"
+      },
+      "700": {
+        "type": "color",
+        "value": "#FF30FF"
+      },
+      "800": {
+        "type": "color",
+        "value": "#FF18FF"
+      },
+      "900": {
+        "type": "color",
+        "value": "#FF00FF"
+      }
+    },
     "navyBlue": {
       "100": {
         "type": "color",
@@ -1036,7 +1078,7 @@
       "body": {
         "fontWeight": {
           "type": "number",
-          "value": 400
+          "value": "{typography.text.weight.regular}"
         },
         "letterSpacing": {
           "large": {
@@ -1059,45 +1101,45 @@
           "large": {
             "comment": "Base text",
             "type": "number",
-            "value": 24
+            "value": 27
           },
           "medium": {
             "comment": "Base text",
             "type": "number",
-            "value": 20
+            "value": 21
           },
           "small": {
             "comment": "Base text",
             "type": "number",
-            "value": 20
+            "value": 16.5
           }
         },
         "size": {
           "large": {
             "comment": "Base text",
             "type": "number",
-            "value": 18
+            "value": "{typography.text.size.l}"
           },
           "medium": {
             "comment": "Base text",
             "type": "number",
-            "value": 14
+            "value": "{typography.text.size.m}"
           },
           "small": {
             "comment": "Base text",
             "type": "number",
-            "value": 11
+            "value": "{typography.text.size.s}"
           }
         }
       },
       "caption": {
         "fontSize": {
           "type": "number",
-          "value": 11
+          "value": "{typography.text.size.s}"
         },
         "fontWeight": {
           "type": "number",
-          "value": 400
+          "value": "{typography.text.weight.regular}"
         },
         "letterSpacing": {
           "type": "number",
@@ -1115,11 +1157,11 @@
         },
         "fontSize": {
           "type": "number",
-          "value": 43
+          "value": "{typography.text.size.4xl}"
         },
         "fontWeight": {
           "type": "number",
-          "value": 700
+          "value": "{typography.text.weight.bold}"
         },
         "letterSpacing": {
           "type": "number",
@@ -1164,23 +1206,62 @@
       "monospace": {
         "fontFamily": {
           "type": "string",
-          "value": "Inconsolata"
-        },
-        "fontSize": {
-          "type": "number",
-          "value": 14
+          "value": "{typography.fontStack.monospace}"
         },
         "fontWeight": {
           "type": "number",
-          "value": 400
+          "value": "{typography.text.weight.regular}"
         },
         "letterSpacing": {
-          "type": "number",
-          "value": 0
+          "large": {
+            "comment": "Base text",
+            "type": "number",
+            "value": 0
+          },
+          "medium": {
+            "comment": "Base text",
+            "type": "number",
+            "value": 0
+          },
+          "small": {
+            "comment": "Base text",
+            "type": "number",
+            "value": 0
+          }
         },
         "lineHeight": {
-          "type": "number",
-          "value": 24
+          "large": {
+            "comment": "Base text",
+            "type": "number",
+            "value": 27
+          },
+          "medium": {
+            "comment": "Base text",
+            "type": "number",
+            "value": 20
+          },
+          "small": {
+            "comment": "Base text",
+            "type": "number",
+            "value": 13.75
+          }
+        },
+        "size": {
+          "large": {
+            "comment": "Base text",
+            "type": "number",
+            "value": "{typography.text.size.l}"
+          },
+          "medium": {
+            "comment": "Base text",
+            "type": "number",
+            "value": "{typography.text.size.m}"
+          },
+          "small": {
+            "comment": "Base text",
+            "type": "number",
+            "value": "{typography.text.size.s}"
+          }
         }
       },
       "overline": {
@@ -1190,11 +1271,11 @@
         },
         "fontSize": {
           "type": "number",
-          "value": 14
+          "value": "{typography.text.size.m}"
         },
         "fontWeight": {
           "type": "number",
-          "value": 400
+          "value": "{typography.text.weight.regular}"
         },
         "letterSpacing": {
           "type": "number",
@@ -1248,21 +1329,39 @@
         }
       },
       "subtitle": {
-        "fontSize": {
-          "type": "number",
-          "value": 22
-        },
         "letterSpacing": {
           "type": "number",
           "value": 0
         },
         "lineHeight": {
           "type": "number",
-          "value": 25
+          "value": "{typography.text.title.size.large}"
+        },
+        "size": {
+          "type": "number",
+          "value": "{typography.text.title.size.large}"
         },
         "weight": {
           "type": "number",
-          "value": 400
+          "value": "{typography.text.weight.regular}"
+        }
+      },
+      "subtitle2": {
+        "letterSpacing": {
+          "type": "number",
+          "value": 0
+        },
+        "lineHeight": {
+          "type": "number",
+          "value": "{typography.text.title.lineHeight.medium}"
+        },
+        "size": {
+          "type": "number",
+          "value": "{typography.text.title.size.medium}"
+        },
+        "weight": {
+          "type": "number",
+          "value": "{typography.text.weight.regular}"
         }
       },
       "title": {
@@ -1297,29 +1396,29 @@
         "size": {
           "large": {
             "type": "number",
-            "value": 27
+            "value": "{typography.text.size.2xl}"
           },
           "medium": {
             "type": "number",
-            "value": 22
+            "value": "{typography.text.size.xl}"
           },
           "small": {
             "type": "number",
-            "value": 18
+            "value": "{typography.text.size.l}"
           }
         },
         "weight": {
           "large": {
             "type": "number",
-            "value": 400
+            "value": "{typography.text.weight.regular}"
           },
           "medium": {
             "type": "number",
-            "value": 600
+            "value": "{typography.text.weight.semibold}"
           },
           "small": {
             "type": "number",
-            "value": 600
+            "value": "{typography.text.weight.semibold}"
           }
         }
       },
