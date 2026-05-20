@@ -1,0 +1,108 @@
+{
+  "Breakpoint": {
+    "Aside": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "L": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "M": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "Panel": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "Panel flyout": {
+      "$type": "boolean",
+      "$value": true
+    },
+    "S": {
+      "$type": "boolean",
+      "$value": true
+    },
+    "S+XS+XXS": {
+      "$type": "boolean",
+      "$value": true
+    },
+    "Side Nav": {
+      "$type": "boolean",
+      "$value": true
+    },
+    "XL": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "XL+L+M": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "XL+L+M+S": {
+      "$type": "boolean",
+      "$value": true
+    },
+    "XL+L+M+S+XS": {
+      "$type": "boolean",
+      "$value": true
+    },
+    "XS": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "XS+XXS": {
+      "$type": "boolean",
+      "$value": false
+    },
+    "XXS": {
+      "$type": "boolean",
+      "$value": false
+    }
+  },
+  "Breakpoint Screen": {
+    "Max Width": {
+      "$type": "number",
+      "$value": "{size.breakpoint.medium}"
+    },
+    "Min Width": {
+      "$type": "number",
+      "$value": "{size.breakpoint.small}"
+    }
+  },
+  "Grid": {
+    "Column": {
+      "$type": "number",
+      "$value": 6
+    },
+    "Fixed Narrow Grid": {
+      "Max width": {
+        "$type": "number",
+        "$value": 864
+      }
+    },
+    "Fixed Wide Grid": {
+      "Max width": {
+        "$type": "number",
+        "$value": 1296
+      }
+    },
+    "Gutter": {
+      "$type": "number",
+      "$value": 12
+    },
+    "Margin": {
+      "$type": "number",
+      "$value": 16
+    },
+    "Max width": {
+      "$type": "number",
+      "$value": 767
+    },
+    "Min width": {
+      "$type": "number",
+      "$value": 768
+    }
+  }
+}
