@@ -882,6 +882,10 @@
     }
   },
   "size": {
+    "10": {
+      "$type": "number",
+      "$value": 10
+    },
     "112": {
       "$type": "number",
       "$value": 112
@@ -894,6 +898,10 @@
       "$type": "number",
       "$value": 128
     },
+    "14": {
+      "$type": "number",
+      "$value": 14
+    },
     "16": {
       "$type": "number",
       "$value": 16
@@ -905,6 +913,10 @@
     "20": {
       "$type": "number",
       "$value": 20
+    },
+    "22": {
+      "$type": "number",
+      "$value": 22
     },
     "24": {
       "$type": "number",
@@ -938,6 +950,10 @@
       "$type": "number",
       "$value": 48
     },
+    "56": {
+      "$type": "number",
+      "$value": 56
+    },
     "6": {
       "$type": "number",
       "$value": 6
@@ -945,6 +961,10 @@
     "64": {
       "$type": "number",
       "$value": 64
+    },
+    "72": {
+      "$type": "number",
+      "$value": 72
     },
     "8": {
       "$type": "number",
@@ -954,9 +974,17 @@
       "$type": "number",
       "$value": 80
     },
+    "88": {
+      "$type": "number",
+      "$value": 88
+    },
     "96": {
       "$type": "number",
       "$value": 96
+    },
+    "negative-10": {
+      "$type": "number",
+      "$value": -10
     },
     "negative-112": {
       "$type": "number",
@@ -969,6 +997,10 @@
     "negative-128": {
       "$type": "number",
       "$value": -128
+    },
+    "negative-14": {
+      "$type": "number",
+      "$value": -14
     },
     "negative-16": {
       "$type": "number",
@@ -1014,6 +1046,10 @@
       "$type": "number",
       "$value": -48
     },
+    "negative-56": {
+      "$type": "number",
+      "$value": -56
+    },
     "negative-6": {
       "$type": "number",
       "$value": -6
@@ -1022,6 +1058,10 @@
       "$type": "number",
       "$value": -64
     },
+    "negative-72": {
+      "$type": "number",
+      "$value": -72
+    },
     "negative-8": {
       "$type": "number",
       "$value": -8
@@ -1029,6 +1069,10 @@
     "negative-80": {
       "$type": "number",
       "$value": -80
+    },
+    "negative-88": {
+      "$type": "number",
+      "$value": -88
     },
     "negative-96": {
       "$type": "number",
