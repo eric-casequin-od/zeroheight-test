@@ -997,6 +997,198 @@ module.exports = {
           ]
         }
       },
+      "lavender": {
+        "50": {
+          "value": "#f5eefa",
+          "original": {
+            "value": "#F5EEFA"
+          },
+          "name": "ColorColorLavender50",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "50"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "50"
+          ]
+        },
+        "100": {
+          "value": "#e4cff2",
+          "original": {
+            "value": "#E4CFF2"
+          },
+          "name": "ColorColorLavender100",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "100"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "100"
+          ]
+        },
+        "200": {
+          "value": "#d3afe9",
+          "original": {
+            "value": "#D3AFE9"
+          },
+          "name": "ColorColorLavender200",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "200"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "200"
+          ]
+        },
+        "300": {
+          "value": "#c290e1",
+          "original": {
+            "value": "#C290E1"
+          },
+          "name": "ColorColorLavender300",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "300"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "300"
+          ]
+        },
+        "400": {
+          "value": "#b171d8",
+          "original": {
+            "value": "#B171D8"
+          },
+          "name": "ColorColorLavender400",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "400"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "400"
+          ]
+        },
+        "500": {
+          "value": "#9a58c3",
+          "original": {
+            "value": "#9A58C3"
+          },
+          "name": "ColorColorLavender500",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "500"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "500"
+          ]
+        },
+        "600": {
+          "value": "#7e46a1",
+          "original": {
+            "value": "#7E46A1"
+          },
+          "name": "ColorColorLavender600",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "600"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "600"
+          ]
+        },
+        "700": {
+          "value": "#63357e",
+          "original": {
+            "value": "#63357E"
+          },
+          "name": "ColorColorLavender700",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "700"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "700"
+          ]
+        },
+        "800": {
+          "value": "#47235c",
+          "original": {
+            "value": "#47235C"
+          },
+          "name": "ColorColorLavender800",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "800"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "800"
+          ]
+        },
+        "900": {
+          "value": "#2b113a",
+          "original": {
+            "value": "#2B113A"
+          },
+          "name": "ColorColorLavender900",
+          "attributes": {
+            "category": "color",
+            "type": "color",
+            "item": "lavender",
+            "subitem": "900"
+          },
+          "path": [
+            "color",
+            "color",
+            "lavender",
+            "900"
+          ]
+        }
+      },
       "lightCyanBlue": {
         "50": {
           "value": "#edf7fa",
@@ -3188,701 +3380,225 @@ module.exports = {
       "transparent": {
         "black": {
           "0": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0)"
-            },
-            "name": "ColorColorTransparentBlack0",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "0"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "0"
-            ]
+            "value": "rgba(0, 0, 0, 0)"
           },
           "2": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.02)"
-            },
-            "name": "ColorColorTransparentBlack2",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "2"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "2"
-            ]
+            "value": "rgba(0, 0, 0, 0.02)"
           },
           "4": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.04)"
-            },
-            "name": "ColorColorTransparentBlack4",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "4"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "4"
-            ]
+            "value": "rgba(0, 0, 0, 0.04)"
           },
           "8": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.08)"
-            },
-            "name": "ColorColorTransparentBlack8",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "8"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "8"
-            ]
+            "value": "rgba(0, 0, 0, 0.08)"
           },
           "10": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.1)"
-            },
-            "name": "ColorColorTransparentBlack10",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "10"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "10"
-            ]
+            "value": "rgba(0, 0, 0, 0.1)"
           },
           "12": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.12)"
-            },
-            "name": "ColorColorTransparentBlack12",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "12"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "12"
-            ]
+            "value": "rgba(0, 0, 0, 0.12)"
           },
           "16": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.16)"
-            },
-            "name": "ColorColorTransparentBlack16",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "16"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "16"
-            ]
+            "value": "rgba(0, 0, 0, 0.16)"
           },
           "26": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.26)"
-            },
-            "name": "ColorColorTransparentBlack26",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "26"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "26"
-            ]
+            "value": "rgba(0, 0, 0, 0.26)"
           },
           "30": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.3)"
-            },
-            "name": "ColorColorTransparentBlack30",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "30"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "30"
-            ]
+            "value": "rgba(0, 0, 0, 0.3)"
           },
           "38": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.38)"
-            },
-            "name": "ColorColorTransparentBlack38",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "38"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "38"
-            ]
+            "value": "rgba(0, 0, 0, 0.38)"
           },
           "50": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.5)"
-            },
-            "name": "ColorColorTransparentBlack50",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "50"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "50"
-            ]
+            "value": "rgba(0, 0, 0, 0.5)"
           },
           "55": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.55)"
-            },
-            "name": "ColorColorTransparentBlack55",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "55"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "55"
-            ]
+            "value": "rgba(0, 0, 0, 0.55)"
           },
           "60": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.6)"
-            },
-            "name": "ColorColorTransparentBlack60",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "60"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "60"
-            ]
+            "value": "rgba(0, 0, 0, 0.6)"
           },
           "70": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.7)"
-            },
-            "name": "ColorColorTransparentBlack70",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "70"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "70"
-            ]
+            "value": "rgba(0, 0, 0, 0.7)"
           },
           "75": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.75)"
-            },
-            "name": "ColorColorTransparentBlack75",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "75"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "75"
-            ]
+            "value": "rgba(0, 0, 0, 0.75)"
           },
           "80": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.8)"
-            },
-            "name": "ColorColorTransparentBlack80",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "80"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "80"
-            ]
+            "value": "rgba(0, 0, 0, 0.8)"
           },
           "85": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.85)"
-            },
-            "name": "ColorColorTransparentBlack85",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "85"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "85"
-            ]
+            "value": "rgba(0, 0, 0, 0.85)"
           },
           "90": {
-            "value": "#000000",
-            "original": {
-              "value": "rgba(0, 0, 0, 0.9)"
-            },
-            "name": "ColorColorTransparentBlack90",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "black",
-              "state": "90"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "black",
-              "90"
-            ]
+            "value": "rgba(0, 0, 0, 0.9)"
           }
         },
+        "value": "#ffffff",
         "white": {
           "0": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0)"
-            },
-            "name": "ColorColorTransparentWhite0",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "0"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "0"
-            ]
+            "value": "rgba(255, 255, 255, 0)"
           },
           "2": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.02)"
-            },
-            "name": "ColorColorTransparentWhite2",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "2"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "2"
-            ]
+            "value": "rgba(255, 255, 255, 0.02)"
           },
           "4": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.04)"
-            },
-            "name": "ColorColorTransparentWhite4",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "4"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "4"
-            ]
+            "value": "rgba(255, 255, 255, 0.04)"
           },
           "8": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.08)"
-            },
-            "name": "ColorColorTransparentWhite8",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "8"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "8"
-            ]
+            "value": "rgba(255, 255, 255, 0.08)"
           },
           "10": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.1)"
-            },
-            "name": "ColorColorTransparentWhite10",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "10"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "10"
-            ]
+            "value": "rgba(255, 255, 255, 0.1)"
           },
           "12": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.12)"
-            },
-            "name": "ColorColorTransparentWhite12",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "12"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "12"
-            ]
+            "value": "rgba(255, 255, 255, 0.12)"
           },
           "16": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.16)"
-            },
-            "name": "ColorColorTransparentWhite16",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "16"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "16"
-            ]
+            "value": "rgba(255, 255, 255, 0.16)"
           },
           "26": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.26)"
-            },
-            "name": "ColorColorTransparentWhite26",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "26"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "26"
-            ]
+            "value": "rgba(255, 255, 255, 0.26)"
           },
           "30": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.3)"
-            },
-            "name": "ColorColorTransparentWhite30",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "30"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "30"
-            ]
+            "value": "rgba(255, 255, 255, 0.3)"
           },
           "38": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.38)"
-            },
-            "name": "ColorColorTransparentWhite38",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "38"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "38"
-            ]
+            "value": "rgba(255, 255, 255, 0.38)"
           },
           "54": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.54)"
-            },
-            "name": "ColorColorTransparentWhite54",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "54"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "54"
-            ]
+            "value": "rgba(255, 255, 255, 0.54)"
           },
           "62": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.62)"
-            },
-            "name": "ColorColorTransparentWhite62",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "62"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "62"
-            ]
+            "value": "rgba(255, 255, 255, 0.62)"
           },
           "70": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.7)"
-            },
-            "name": "ColorColorTransparentWhite70",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "70"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "70"
-            ]
+            "value": "rgba(255, 255, 255, 0.7)"
           },
           "74": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.74)"
-            },
-            "name": "ColorColorTransparentWhite74",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "74"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "74"
-            ]
+            "value": "rgba(255, 255, 255, 0.74)"
           },
           "87": {
-            "value": "#ffffff",
-            "original": {
-              "value": "rgba(255, 255, 255, 0.87)"
-            },
-            "name": "ColorColorTransparentWhite87",
-            "attributes": {
-              "category": "color",
-              "type": "color",
-              "item": "transparent",
-              "subitem": "white",
-              "state": "87"
-            },
-            "path": [
-              "color",
-              "color",
-              "transparent",
-              "white",
-              "87"
-            ]
+            "value": "rgba(255, 255, 255, 0.87)"
           }
-        }
+        },
+        "original": {
+          "black": {
+            "0": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "2": {
+              "value": "rgba(0, 0, 0, 0.02)"
+            },
+            "4": {
+              "value": "rgba(0, 0, 0, 0.04)"
+            },
+            "8": {
+              "value": "rgba(0, 0, 0, 0.08)"
+            },
+            "10": {
+              "value": "rgba(0, 0, 0, 0.1)"
+            },
+            "12": {
+              "value": "rgba(0, 0, 0, 0.12)"
+            },
+            "16": {
+              "value": "rgba(0, 0, 0, 0.16)"
+            },
+            "26": {
+              "value": "rgba(0, 0, 0, 0.26)"
+            },
+            "30": {
+              "value": "rgba(0, 0, 0, 0.3)"
+            },
+            "38": {
+              "value": "rgba(0, 0, 0, 0.38)"
+            },
+            "50": {
+              "value": "rgba(0, 0, 0, 0.5)"
+            },
+            "55": {
+              "value": "rgba(0, 0, 0, 0.55)"
+            },
+            "60": {
+              "value": "rgba(0, 0, 0, 0.6)"
+            },
+            "70": {
+              "value": "rgba(0, 0, 0, 0.7)"
+            },
+            "75": {
+              "value": "rgba(0, 0, 0, 0.75)"
+            },
+            "80": {
+              "value": "rgba(0, 0, 0, 0.8)"
+            },
+            "85": {
+              "value": "rgba(0, 0, 0, 0.85)"
+            },
+            "90": {
+              "value": "rgba(0, 0, 0, 0.9)"
+            }
+          },
+          "value": "rgba(255, 255, 255, 0)",
+          "white": {
+            "0": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "2": {
+              "value": "rgba(255, 255, 255, 0.02)"
+            },
+            "4": {
+              "value": "rgba(255, 255, 255, 0.04)"
+            },
+            "8": {
+              "value": "rgba(255, 255, 255, 0.08)"
+            },
+            "10": {
+              "value": "rgba(255, 255, 255, 0.1)"
+            },
+            "12": {
+              "value": "rgba(255, 255, 255, 0.12)"
+            },
+            "16": {
+              "value": "rgba(255, 255, 255, 0.16)"
+            },
+            "26": {
+              "value": "rgba(255, 255, 255, 0.26)"
+            },
+            "30": {
+              "value": "rgba(255, 255, 255, 0.3)"
+            },
+            "38": {
+              "value": "rgba(255, 255, 255, 0.38)"
+            },
+            "54": {
+              "value": "rgba(255, 255, 255, 0.54)"
+            },
+            "62": {
+              "value": "rgba(255, 255, 255, 0.62)"
+            },
+            "70": {
+              "value": "rgba(255, 255, 255, 0.7)"
+            },
+            "74": {
+              "value": "rgba(255, 255, 255, 0.74)"
+            },
+            "87": {
+              "value": "rgba(255, 255, 255, 0.87)"
+            }
+          }
+        },
+        "name": "ColorColorTransparent",
+        "attributes": {
+          "category": "color",
+          "type": "color",
+          "item": "transparent"
+        },
+        "path": [
+          "color",
+          "color",
+          "transparent"
+        ]
       },
       "white": {
         "value": "#ffffff",
