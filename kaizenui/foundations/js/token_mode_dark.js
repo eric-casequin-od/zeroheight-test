@@ -19,9 +19,9 @@ module.exports = {
         ]
       },
       "accent-muted": {
-        "value": "#e1f5fe",
+        "value": "#039be5",
         "original": {
-          "value": "#E1F5FE"
+          "value": "rgba(3, 155, 229, 0.41)"
         },
         "name": "ColorBgColorAccentMuted",
         "attributes": {
@@ -53,9 +53,9 @@ module.exports = {
         ]
       },
       "attention-muted": {
-        "value": "#fefaeb",
+        "value": "#f8d148",
         "original": {
-          "value": "#FEFAEB"
+          "value": "rgba(248, 209, 72, 0.41)"
         },
         "name": "ColorBgColorAttentionMuted",
         "attributes": {
@@ -121,9 +121,9 @@ module.exports = {
         ]
       },
       "closed-muted": {
-        "value": "#c9c9c9",
+        "value": "#8b8b8b",
         "original": {
-          "value": "#C9C9C9"
+          "value": "rgba(139, 139, 139, 0.41)"
         },
         "name": "ColorBgColorClosedMuted",
         "attributes": {
@@ -138,9 +138,9 @@ module.exports = {
         ]
       },
       "danger-emphasis": {
-        "value": "#c10007",
+        "value": "#fb2c36",
         "original": {
-          "value": "#C10007"
+          "value": "#FB2C36"
         },
         "name": "ColorBgColorDangerEmphasis",
         "attributes": {
@@ -155,9 +155,9 @@ module.exports = {
         ]
       },
       "danger-muted": {
-        "value": "#ffe2e2",
+        "value": "#e7000b",
         "original": {
-          "value": "#FFE2E2"
+          "value": "rgba(231, 0, 11, 0.41)"
         },
         "name": "ColorBgColorDangerMuted",
         "attributes": {
@@ -206,9 +206,9 @@ module.exports = {
         ]
       },
       "done-emphasis": {
-        "value": "#717171",
+        "value": "#615fff",
         "original": {
-          "value": "#717171"
+          "value": "#615FFF"
         },
         "name": "ColorBgColorDoneEmphasis",
         "attributes": {
@@ -223,9 +223,9 @@ module.exports = {
         ]
       },
       "done-muted": {
-        "value": "#c9c9c9",
+        "value": "#615fff",
         "original": {
-          "value": "#C9C9C9"
+          "value": "rgba(97, 95, 255, 0.41)"
         },
         "name": "ColorBgColorDoneMuted",
         "attributes": {
@@ -494,9 +494,9 @@ module.exports = {
         ]
       },
       "open-muted": {
-        "value": "#d9f5da",
+        "value": "#348037",
         "original": {
-          "value": "#D9F5DA"
+          "value": "rgba(52, 128, 55, 0.41)"
         },
         "name": "ColorBgColorOpenMuted",
         "attributes": {
@@ -508,6 +508,74 @@ module.exports = {
           "color",
           "bgColor",
           "open-muted"
+        ]
+      },
+      "primary-emphasis": {
+        "value": "#832a80",
+        "original": {
+          "value": "#832A80"
+        },
+        "name": "ColorBgColorPrimaryEmphasis",
+        "attributes": {
+          "category": "color",
+          "type": "bgColor",
+          "item": "primary-emphasis"
+        },
+        "path": [
+          "color",
+          "bgColor",
+          "primary-emphasis"
+        ]
+      },
+      "primary-muted": {
+        "value": "#832a80",
+        "original": {
+          "value": "rgba(131, 42, 128, 0.41)"
+        },
+        "name": "ColorBgColorPrimaryMuted",
+        "attributes": {
+          "category": "color",
+          "type": "bgColor",
+          "item": "primary-muted"
+        },
+        "path": [
+          "color",
+          "bgColor",
+          "primary-muted"
+        ]
+      },
+      "secondary-emphasis": {
+        "value": "#0078a2",
+        "original": {
+          "value": "#0078A2"
+        },
+        "name": "ColorBgColorSecondaryEmphasis",
+        "attributes": {
+          "category": "color",
+          "type": "bgColor",
+          "item": "secondary-emphasis"
+        },
+        "path": [
+          "color",
+          "bgColor",
+          "secondary-emphasis"
+        ]
+      },
+      "secondary-muted": {
+        "value": "#0078a2",
+        "original": {
+          "value": "rgba(0, 120, 162, 0.41)"
+        },
+        "name": "ColorBgColorSecondaryMuted",
+        "attributes": {
+          "category": "color",
+          "type": "bgColor",
+          "item": "secondary-muted"
+        },
+        "path": [
+          "color",
+          "bgColor",
+          "secondary-muted"
         ]
       },
       "severe-emphasis": {
@@ -528,9 +596,9 @@ module.exports = {
         ]
       },
       "severe-muted": {
-        "value": "#fdebd7",
+        "value": "#d96e00",
         "original": {
-          "value": "#FDEBD7"
+          "value": "rgba(217, 110, 0, 0.41)"
         },
         "name": "ColorBgColorSevereMuted",
         "attributes": {
@@ -562,9 +630,9 @@ module.exports = {
         ]
       },
       "success-muted": {
-        "value": "#d9f5da",
+        "value": "#348037",
         "original": {
-          "value": "#D9F5DA"
+          "value": "rgba(52, 128, 55, 0.41)"
         },
         "name": "ColorBgColorSuccessMuted",
         "attributes": {
@@ -683,9 +751,9 @@ module.exports = {
         ]
       },
       "closed-emphasis": {
-        "value": "#c10007",
+        "value": "#717171",
         "original": {
-          "value": "#C10007"
+          "value": "#717171"
         },
         "name": "ColorBorderColorClosedEmphasis",
         "attributes": {
@@ -700,9 +768,9 @@ module.exports = {
         ]
       },
       "closed-muted": {
-        "value": "#f85149",
+        "value": "#717171",
         "original": {
-          "value": "rgba(248, 81, 73, 0.4)"
+          "value": "rgba(113, 113, 113, 0.4)"
         },
         "name": "ColorBorderColorClosedMuted",
         "attributes": {
@@ -717,9 +785,9 @@ module.exports = {
         ]
       },
       "danger-emphasis": {
-        "value": "#c10007",
+        "value": "#fb2c36",
         "original": {
-          "value": "#C10007"
+          "value": "#FB2C36"
         },
         "name": "ColorBorderColorDangerEmphasis",
         "attributes": {
@@ -802,9 +870,9 @@ module.exports = {
         ]
       },
       "done-muted": {
-        "value": "#615fff",
+        "value": "#e0e7ff",
         "original": {
-          "value": "rgba(97, 95, 255, 0.4)"
+          "value": "#E0E7FF"
         },
         "name": "ColorBorderColorDoneMuted",
         "attributes": {
@@ -884,6 +952,74 @@ module.exports = {
           "color",
           "borderColor",
           "open-muted"
+        ]
+      },
+      "primary": {
+        "value": "#832a80",
+        "original": {
+          "value": "#832A80"
+        },
+        "name": "ColorBorderColorPrimary",
+        "attributes": {
+          "category": "color",
+          "type": "borderColor",
+          "item": "primary"
+        },
+        "path": [
+          "color",
+          "borderColor",
+          "primary"
+        ]
+      },
+      "primary-muted": {
+        "value": "#832a80",
+        "original": {
+          "value": "rgba(131, 42, 128, 0.4)"
+        },
+        "name": "ColorBorderColorPrimaryMuted",
+        "attributes": {
+          "category": "color",
+          "type": "borderColor",
+          "item": "primary-muted"
+        },
+        "path": [
+          "color",
+          "borderColor",
+          "primary-muted"
+        ]
+      },
+      "secondary": {
+        "value": "#0078a2",
+        "original": {
+          "value": "#0078A2"
+        },
+        "name": "ColorBorderColorSecondary",
+        "attributes": {
+          "category": "color",
+          "type": "borderColor",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "borderColor",
+          "secondary"
+        ]
+      },
+      "secondary-muted": {
+        "value": "#0078a2",
+        "original": {
+          "value": "rgba(0, 120, 162, 0.4)"
+        },
+        "name": "ColorBorderColorSecondaryMuted",
+        "attributes": {
+          "category": "color",
+          "type": "borderColor",
+          "item": "secondary-muted"
+        },
+        "path": [
+          "color",
+          "borderColor",
+          "secondary-muted"
         ]
       },
       "severe-emphasis": {
@@ -987,1583 +1123,1476 @@ module.exports = {
           "borderColor",
           "transparent"
         ]
-      },
-      "upsell-emphasis": {
-        "value": "#b078ae",
-        "original": {
-          "value": "#B078AE"
-        },
-        "name": "ColorBorderColorUpsellEmphasis",
-        "attributes": {
-          "category": "color",
-          "type": "borderColor",
-          "item": "upsell-emphasis"
-        },
-        "path": [
-          "color",
-          "borderColor",
-          "upsell-emphasis"
-        ]
-      },
-      "upsell-muted": {
-        "value": "#b078ae",
-        "original": {
-          "value": "rgba(176, 120, 174, 0.4)"
-        },
-        "name": "ColorBorderColorUpsellMuted",
-        "attributes": {
-          "category": "color",
-          "type": "borderColor",
-          "item": "upsell-muted"
-        },
-        "path": [
-          "color",
-          "borderColor",
-          "upsell-muted"
-        ]
       }
     },
-    "components": {
-      "button": {
-        "danger": {
-          "bgColor": {
-            "active": {
-              "value": "#d03533",
-              "original": {
-                "value": "#D03533"
-              },
-              "name": "ColorComponentsButtonDangerBgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "bgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#eff2f5",
-              "original": {
-                "value": "#EFF2F5"
-              },
-              "name": "ColorComponentsButtonDangerBgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "bgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#b62324",
-              "original": {
-                "value": "#B62324"
-              },
-              "name": "ColorComponentsButtonDangerBgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "bgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#f6f8fa",
-              "original": {
-                "value": "#F6F8FA"
-              },
-              "name": "ColorComponentsButtonDangerBgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "bgColor",
-                "rest"
-              ]
-            }
-          },
-          "borderColor": {
-            "active": {
-              "value": "#1f2328",
-              "original": {
-                "value": "rgba(31, 35, 40, 0.15)"
-              },
-              "name": "ColorComponentsButtonDangerBorderColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "borderColor",
-                "active"
-              ]
-            },
-            "hover": {
-              "value": "#1f2328",
-              "original": {
-                "value": "rgba(31, 35, 40, 0.15)"
-              },
-              "name": "ColorComponentsButtonDangerBorderColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "borderColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#d1d9e0",
-              "original": {
-                "value": "#D1D9E0"
-              },
-              "name": "ColorComponentsButtonDangerBorderColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "borderColor",
-                "rest"
-              ]
-            }
-          },
-          "fgColor": {
-            "active": {
-              "value": "#222222",
-              "original": {
-                "value": "#222222"
-              },
-              "name": "ColorComponentsButtonDangerFgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "fgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#f85149",
-              "original": {
-                "value": "rgba(248, 81, 73, 0.5)"
-              },
-              "name": "ColorComponentsButtonDangerFgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "fgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#222222",
-              "original": {
-                "value": "#222222"
-              },
-              "name": "ColorComponentsButtonDangerFgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "fgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#fa5e55",
-              "original": {
-                "value": "#FA5E55"
-              },
-              "name": "ColorComponentsButtonDangerFgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "fgColor",
-                "rest"
-              ]
-            }
-          },
-          "iconColor": {
-            "hover": {
-              "value": "#ffffff",
-              "original": {
-                "value": "#FFFFFF"
-              },
-              "name": "ColorComponentsButtonDangerIconColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "iconColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "iconColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#fa5e55",
-              "original": {
-                "value": "#FA5E55"
-              },
-              "name": "ColorComponentsButtonDangerIconColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "danger",
-                "state": "iconColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "danger",
-                "iconColor",
-                "rest"
-              ]
-            }
-          },
-          "shadow": {
-            "selected": {
-              "color": {
-                "value": "#000000",
-                "original": {
-                  "value": "rgba(0, 0, 0, 0)"
-                },
-                "name": "ColorComponentsButtonDangerShadowSelectedColor",
-                "attributes": {
-                  "category": "color",
-                  "type": "components",
-                  "item": "button",
-                  "subitem": "danger",
-                  "state": "shadow"
-                },
-                "path": [
-                  "color",
-                  "components",
-                  "button",
-                  "danger",
-                  "shadow",
-                  "selected",
-                  "color"
-                ]
-              }
-            }
-          }
-        },
-        "inactive": {
-          "bgColor": {
-            "value": "#262c36",
+    "button": {
+      "danger": {
+        "bgColor": {
+          "active": {
+            "value": "#c10007",
             "original": {
-              "value": "#262C36"
+              "value": "#C10007"
             },
-            "name": "ColorComponentsButtonInactiveBgColor",
+            "name": "ColorButtonDangerBgColorActive",
             "attributes": {
               "category": "color",
-              "type": "components",
-              "item": "button",
-              "subitem": "inactive",
-              "state": "bgColor"
+              "type": "button",
+              "item": "danger",
+              "subitem": "bgColor",
+              "state": "active"
             },
             "path": [
               "color",
-              "components",
               "button",
-              "inactive",
-              "bgColor"
+              "danger",
+              "bgColor",
+              "active"
             ]
           },
-          "fgColor": {
-            "value": "#9198a1",
+          "disabled": {
+            "value": "#eeeeee",
             "original": {
-              "value": "#9198A1"
+              "value": "#EEEEEE"
             },
-            "name": "ColorComponentsButtonInactiveFgColor",
+            "name": "ColorButtonDangerBgColorDisabled",
             "attributes": {
               "category": "color",
-              "type": "components",
-              "item": "button",
-              "subitem": "inactive",
-              "state": "fgColor"
+              "type": "button",
+              "item": "danger",
+              "subitem": "bgColor",
+              "state": "disabled"
             },
             "path": [
               "color",
-              "components",
               "button",
-              "inactive",
-              "fgColor"
+              "danger",
+              "bgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#e7000b",
+            "original": {
+              "value": "#E7000B"
+            },
+            "name": "ColorButtonDangerBgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "bgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "bgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#fb2c36",
+            "original": {
+              "value": "#FB2C36"
+            },
+            "name": "ColorButtonDangerBgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "bgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "bgColor",
+              "rest"
             ]
           }
         },
-        "neutral": {
-          "bgColor": {
-            "active": {
-              "value": "#818b98",
-              "original": {
-                "value": "rgba(129, 139, 152, 0.15)"
-              },
-              "name": "ColorComponentsButtonNeutralBgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "bgColor",
-                "active"
-              ]
+        "borderColor": {
+          "active": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
             },
-            "disabled": {
+            "name": "ColorButtonDangerBorderColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "borderColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "borderColor",
+              "active"
+            ]
+          },
+          "hover": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonDangerBorderColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "borderColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "borderColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonDangerBorderColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "borderColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "borderColor",
+              "rest"
+            ]
+          }
+        },
+        "fgColor": {
+          "active": {
+            "value": "#ffffff",
+            "original": {
+              "value": "#FFFFFF"
+            },
+            "name": "ColorButtonDangerFgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "fgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "fgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonDangerFgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "fgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "fgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#ffffff",
+            "original": {
+              "value": "#FFFFFF"
+            },
+            "name": "ColorButtonDangerFgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "fgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "fgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "#FFFFFF"
+            },
+            "name": "ColorButtonDangerFgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "fgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "fgColor",
+              "rest"
+            ]
+          }
+        },
+        "iconColor": {
+          "hover": {
+            "value": "#ffffff",
+            "original": {
+              "value": "#FFFFFF"
+            },
+            "name": "ColorButtonDangerIconColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "iconColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "iconColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "#FFFFFF"
+            },
+            "name": "ColorButtonDangerIconColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "danger",
+              "subitem": "iconColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "danger",
+              "iconColor",
+              "rest"
+            ]
+          }
+        },
+        "shadow": {
+          "selected": {
+            "color": {
               "value": "#000000",
               "original": {
                 "value": "rgba(0, 0, 0, 0)"
               },
-              "name": "ColorComponentsButtonNeutralBgColorDisabled",
+              "name": "ColorButtonDangerShadowSelectedColor",
               "attributes": {
                 "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "bgColor"
+                "type": "button",
+                "item": "danger",
+                "subitem": "shadow",
+                "state": "selected"
               },
               "path": [
                 "color",
-                "components",
                 "button",
-                "neutral",
-                "bgColor",
-                "disabled"
+                "danger",
+                "shadow",
+                "selected",
+                "color"
               ]
-            },
-            "hover": {
-              "value": "#818b98",
-              "original": {
-                "value": "rgba(129, 139, 152, 0.1)"
-              },
-              "name": "ColorComponentsButtonNeutralBgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "bgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#ffffff",
-              "original": {
-                "value": "rgba(255, 255, 255, 0)"
-              },
-              "name": "ColorComponentsButtonNeutralBgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "bgColor",
-                "rest"
-              ]
-            }
-          },
-          "borderColor": {
-            "disabled": {
-              "value": "#000000",
-              "original": {
-                "value": "rgba(0, 0, 0, 0)"
-              },
-              "name": "ColorComponentsButtonNeutralBorderColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "borderColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#ffffff",
-              "original": {
-                "value": "rgba(255, 255, 255, 0)"
-              },
-              "name": "ColorComponentsButtonNeutralBorderColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "borderColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#ffffff",
-              "original": {
-                "value": "rgba(255, 255, 255, 0)"
-              },
-              "name": "ColorComponentsButtonNeutralBorderColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "borderColor",
-                "rest"
-              ]
-            }
-          },
-          "fgColor": {
-            "active": {
-              "value": "#25292e",
-              "original": {
-                "value": "#25292E"
-              },
-              "name": "ColorComponentsButtonNeutralFgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "fgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#818b98",
-              "original": {
-                "value": "#818B98"
-              },
-              "name": "ColorComponentsButtonNeutralFgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "fgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#25292e",
-              "original": {
-                "value": "#25292E"
-              },
-              "name": "ColorComponentsButtonNeutralFgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "fgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#25292e",
-              "original": {
-                "value": "#25292E"
-              },
-              "name": "ColorComponentsButtonNeutralFgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "fgColor",
-                "rest"
-              ]
-            }
-          },
-          "iconColor": {
-            "disabled": {
-              "value": "#818b98",
-              "original": {
-                "value": "#818B98"
-              },
-              "name": "ColorComponentsButtonNeutralIconColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "iconColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "iconColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#59636e",
-              "original": {
-                "value": "#59636E"
-              },
-              "name": "ColorComponentsButtonNeutralIconColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "iconColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "iconColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#59636e",
-              "original": {
-                "value": "#59636E"
-              },
-              "name": "ColorComponentsButtonNeutralIconColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "neutral",
-                "state": "iconColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "neutral",
-                "iconColor",
-                "rest"
-              ]
-            }
-          }
-        },
-        "primary": {
-          "bgColor": {
-            "active": {
-              "value": "#2e9a40",
-              "original": {
-                "value": "#2E9A40"
-              },
-              "name": "ColorComponentsButtonPrimaryBgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "bgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#105823",
-              "original": {
-                "value": "#105823"
-              },
-              "name": "ColorComponentsButtonPrimaryBgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "bgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#29903b",
-              "original": {
-                "value": "#29903B"
-              },
-              "name": "ColorComponentsButtonPrimaryBgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "bgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#079c32",
-              "original": {
-                "value": "#079C32"
-              },
-              "name": "ColorComponentsButtonPrimaryBgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "bgColor",
-                "rest"
-              ]
-            }
-          },
-          "borderColor": {
-            "active": {
-              "value": "#1f2328",
-              "original": {
-                "value": "rgba(31, 35, 40, 0.15)"
-              },
-              "name": "ColorComponentsButtonPrimaryBorderColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "borderColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#105823",
-              "original": {
-                "value": "#105823"
-              },
-              "name": "ColorComponentsButtonPrimaryBorderColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "borderColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#1f2328",
-              "original": {
-                "value": "rgba(31, 35, 40, 0.15)"
-              },
-              "name": "ColorComponentsButtonPrimaryBorderColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "borderColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#ffffff",
-              "original": {
-                "value": "rgba(255, 255, 255, 0.1)"
-              },
-              "name": "ColorComponentsButtonPrimaryBorderColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "borderColor",
-                "rest"
-              ]
-            }
-          },
-          "fgColor": {
-            "disabled": {
-              "value": "#ffffff",
-              "original": {
-                "value": "rgba(255, 255, 255, 0.4)"
-              },
-              "name": "ColorComponentsButtonPrimaryFgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "fgColor",
-                "disabled"
-              ]
-            },
-            "rest": {
-              "value": "#ffffff",
-              "original": {
-                "value": "#FFFFFF"
-              },
-              "name": "ColorComponentsButtonPrimaryFgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "fgColor",
-                "rest"
-              ]
-            }
-          },
-          "iconColor": {
-            "rest": {
-              "value": "#ffffff",
-              "original": {
-                "value": "#FFFFFF"
-              },
-              "name": "ColorComponentsButtonPrimaryIconColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "primary",
-                "state": "iconColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "primary",
-                "iconColor",
-                "rest"
-              ]
-            }
-          },
-          "shadow": {
-            "selected": {
-              "color": {
-                "value": "#000000",
-                "original": {
-                  "value": "rgba(0, 0, 0, 0)"
-                },
-                "name": "ColorComponentsButtonPrimaryShadowSelectedColor",
-                "attributes": {
-                  "category": "color",
-                  "type": "components",
-                  "item": "button",
-                  "subitem": "primary",
-                  "state": "shadow"
-                },
-                "path": [
-                  "color",
-                  "components",
-                  "button",
-                  "primary",
-                  "shadow",
-                  "selected",
-                  "color"
-                ]
-              }
-            }
-          }
-        },
-        "secondary": {
-          "bgColor": {
-            "active": {
-              "value": "#e6eaef",
-              "original": {
-                "value": "#E6EAEF"
-              },
-              "name": "ColorComponentsButtonSecondaryBgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "bgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#eff2f5",
-              "original": {
-                "value": "#EFF2F5"
-              },
-              "name": "ColorComponentsButtonSecondaryBgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "bgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#eff2f5",
-              "original": {
-                "value": "#EFF2F5"
-              },
-              "name": "ColorComponentsButtonSecondaryBgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "bgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#f6f8fa",
-              "original": {
-                "value": "#F6F8FA"
-              },
-              "name": "ColorComponentsButtonSecondaryBgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "bgColor",
-                "rest"
-              ]
-            },
-            "selected": {
-              "value": "#e6eaef",
-              "original": {
-                "value": "#E6EAEF"
-              },
-              "name": "ColorComponentsButtonSecondaryBgColorSelected",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "bgColor",
-                "selected"
-              ]
-            }
-          },
-          "borderColor": {
-            "active": {
-              "value": "#d1d9e0",
-              "original": {
-                "value": "#D1D9E0"
-              },
-              "name": "ColorComponentsButtonSecondaryBorderColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "borderColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#818b98",
-              "original": {
-                "value": "rgba(129, 139, 152, 0.1)"
-              },
-              "name": "ColorComponentsButtonSecondaryBorderColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "borderColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#d1d9e0",
-              "original": {
-                "value": "#D1D9E0"
-              },
-              "name": "ColorComponentsButtonSecondaryBorderColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "borderColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#d1d9e0",
-              "original": {
-                "value": "#D1D9E0"
-              },
-              "name": "ColorComponentsButtonSecondaryBorderColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "borderColor",
-                "rest"
-              ]
-            }
-          },
-          "fgColor": {
-            "rest": {
-              "value": "#25292e",
-              "original": {
-                "value": "#25292E"
-              },
-              "name": "ColorComponentsButtonSecondaryFgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "secondary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "secondary",
-                "fgColor",
-                "rest"
-              ]
-            }
-          },
-          "shadow": {
-            "resting": {
-              "color": {
-                "value": "#000000",
-                "original": {
-                  "value": "rgba(0, 0, 0, 0)"
-                },
-                "name": "ColorComponentsButtonSecondaryShadowRestingColor",
-                "attributes": {
-                  "category": "color",
-                  "type": "components",
-                  "item": "button",
-                  "subitem": "secondary",
-                  "state": "shadow"
-                },
-                "path": [
-                  "color",
-                  "components",
-                  "button",
-                  "secondary",
-                  "shadow",
-                  "resting",
-                  "color"
-                ]
-              }
-            }
-          }
-        },
-        "star": {
-          "iconColor": {
-            "value": "#e3b341",
-            "original": {
-              "value": "#E3B341"
-            },
-            "name": "ColorComponentsButtonStarIconColor",
-            "attributes": {
-              "category": "color",
-              "type": "components",
-              "item": "button",
-              "subitem": "star",
-              "state": "iconColor"
-            },
-            "path": [
-              "color",
-              "components",
-              "button",
-              "star",
-              "iconColor"
-            ]
-          }
-        },
-        "tertiary": {
-          "bgColor": {
-            "active": {
-              "value": "#0d419d",
-              "original": {
-                "value": "#0D419D"
-              },
-              "name": "ColorComponentsButtonTertiaryBgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "bgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#eff2f5",
-              "original": {
-                "value": "#EFF2F5"
-              },
-              "name": "ColorComponentsButtonTertiaryBgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "bgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#eff2f5",
-              "original": {
-                "value": "#EFF2F5"
-              },
-              "name": "ColorComponentsButtonTertiaryBgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "bgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#f0f6fc",
-              "original": {
-                "value": "#F0F6FC"
-              },
-              "name": "ColorComponentsButtonTertiaryBgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "bgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "bgColor",
-                "rest"
-              ]
-            }
-          },
-          "borderColor": {
-            "active": {
-              "value": "#ffffff",
-              "original": {
-                "value": "#FFFFFF"
-              },
-              "name": "ColorComponentsButtonTertiaryBorderColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "borderColor",
-                "active"
-              ]
-            },
-            "hover": {
-              "value": "#d1d9e0",
-              "original": {
-                "value": "#D1D9E0"
-              },
-              "name": "ColorComponentsButtonTertiaryBorderColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "borderColor",
-                "hover"
-              ]
-            },
-            "selected": {
-              "value": "#1f2328",
-              "original": {
-                "value": "rgba(31, 35, 40, 0.15)"
-              },
-              "name": "ColorComponentsButtonTertiaryBorderColorSelected",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "borderColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "borderColor",
-                "selected"
-              ]
-            }
-          },
-          "fgColor": {
-            "active": {
-              "value": "#ffffff",
-              "original": {
-                "value": "#FFFFFF"
-              },
-              "name": "ColorComponentsButtonTertiaryFgColorActive",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "fgColor",
-                "active"
-              ]
-            },
-            "disabled": {
-              "value": "#4493f8",
-              "original": {
-                "value": "rgba(68, 147, 248, 0.5)"
-              },
-              "name": "ColorComponentsButtonTertiaryFgColorDisabled",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "fgColor",
-                "disabled"
-              ]
-            },
-            "hover": {
-              "value": "#58a6ff",
-              "original": {
-                "value": "#58A6FF"
-              },
-              "name": "ColorComponentsButtonTertiaryFgColorHover",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "fgColor",
-                "hover"
-              ]
-            },
-            "rest": {
-              "value": "#388bfd",
-              "original": {
-                "value": "#388BFD"
-              },
-              "name": "ColorComponentsButtonTertiaryFgColorRest",
-              "attributes": {
-                "category": "color",
-                "type": "components",
-                "item": "button",
-                "subitem": "tertiary",
-                "state": "fgColor"
-              },
-              "path": [
-                "color",
-                "components",
-                "button",
-                "tertiary",
-                "fgColor",
-                "rest"
-              ]
-            }
-          },
-          "shadow": {
-            "selected": {
-              "color": {
-                "value": "#000000",
-                "original": {
-                  "value": "rgba(0, 0, 0, 0)"
-                },
-                "name": "ColorComponentsButtonTertiaryShadowSelectedColor",
-                "attributes": {
-                  "category": "color",
-                  "type": "components",
-                  "item": "button",
-                  "subitem": "tertiary",
-                  "state": "shadow"
-                },
-                "path": [
-                  "color",
-                  "components",
-                  "button",
-                  "tertiary",
-                  "shadow",
-                  "selected",
-                  "color"
-                ]
-              }
             }
           }
         }
       },
-      "focus": {
-        "outlineColor": {
-          "value": "#03a9f4",
+      "inactive": {
+        "bgColor": {
+          "value": "#262c36",
           "original": {
-            "value": "#03A9F4"
+            "value": "#262C36"
           },
-          "name": "ColorComponentsFocusOutlineColor",
+          "name": "ColorButtonInactiveBgColor",
           "attributes": {
             "category": "color",
-            "type": "components",
-            "item": "focus",
-            "subitem": "outlineColor"
+            "type": "button",
+            "item": "inactive",
+            "subitem": "bgColor"
           },
           "path": [
             "color",
-            "components",
-            "focus",
-            "outlineColor"
+            "button",
+            "inactive",
+            "bgColor"
           ]
+        },
+        "fgColor": {
+          "value": "#9198a1",
+          "original": {
+            "value": "#9198A1"
+          },
+          "name": "ColorButtonInactiveFgColor",
+          "attributes": {
+            "category": "color",
+            "type": "button",
+            "item": "inactive",
+            "subitem": "fgColor"
+          },
+          "path": [
+            "color",
+            "button",
+            "inactive",
+            "fgColor"
+          ]
+        }
+      },
+      "neutral": {
+        "bgColor": {
+          "active": {
+            "value": "#c9c9c9",
+            "original": {
+              "value": "#C9C9C9"
+            },
+            "name": "ColorButtonNeutralBgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "bgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonNeutralBgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "bgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#d5d5d5",
+            "original": {
+              "value": "#D5D5D5"
+            },
+            "name": "ColorButtonNeutralBgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "bgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonNeutralBgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "bgColor",
+              "rest"
+            ]
+          }
+        },
+        "borderColor": {
+          "disabled": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonNeutralBorderColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "borderColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "borderColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonNeutralBorderColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "borderColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "borderColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0)"
+            },
+            "name": "ColorButtonNeutralBorderColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "borderColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "borderColor",
+              "rest"
+            ]
+          }
+        },
+        "fgColor": {
+          "active": {
+            "value": "#fafafa",
+            "original": {
+              "value": "#FAFAFA"
+            },
+            "name": "ColorButtonNeutralFgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "fgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonNeutralFgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "fgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonNeutralFgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "fgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#fafafa",
+            "original": {
+              "value": "#FAFAFA"
+            },
+            "name": "ColorButtonNeutralFgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "fgColor",
+              "rest"
+            ]
+          }
+        },
+        "iconColor": {
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonNeutralIconColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "iconColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "iconColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonNeutralIconColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "iconColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "iconColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#fafafa",
+            "original": {
+              "value": "#FAFAFA"
+            },
+            "name": "ColorButtonNeutralIconColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "neutral",
+              "subitem": "iconColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "neutral",
+              "iconColor",
+              "rest"
+            ]
+          }
+        }
+      },
+      "primary": {
+        "bgColor": {
+          "active": {
+            "value": "#832a80",
+            "original": {
+              "value": "#832A80"
+            },
+            "name": "ColorButtonPrimaryBgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "bgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "bgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#eeeeee",
+            "original": {
+              "value": "#EEEEEE"
+            },
+            "name": "ColorButtonPrimaryBgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "bgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "bgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#5d1e5a",
+            "original": {
+              "value": "#5D1E5A"
+            },
+            "name": "ColorButtonPrimaryBgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "bgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "bgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#832a80",
+            "original": {
+              "value": "#832A80"
+            },
+            "name": "ColorButtonPrimaryBgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "bgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "bgColor",
+              "rest"
+            ]
+          }
+        },
+        "borderColor": {
+          "active": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonPrimaryBorderColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "borderColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "borderColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonPrimaryBorderColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "borderColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "borderColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonPrimaryBorderColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "borderColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "borderColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonPrimaryBorderColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "borderColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "borderColor",
+              "rest"
+            ]
+          }
+        },
+        "fgColor": {
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonPrimaryFgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "fgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "fgColor",
+              "disabled"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "#FFFFFF"
+            },
+            "name": "ColorButtonPrimaryFgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "primary",
+              "subitem": "fgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "primary",
+              "fgColor",
+              "rest"
+            ]
+          }
+        },
+        "shadow": {
+          "selected": {
+            "color": {
+              "value": "#000000",
+              "original": {
+                "value": "rgba(0, 0, 0, 0)"
+              },
+              "name": "ColorButtonPrimaryShadowSelectedColor",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "primary",
+                "subitem": "shadow",
+                "state": "selected"
+              },
+              "path": [
+                "color",
+                "button",
+                "primary",
+                "shadow",
+                "selected",
+                "color"
+              ]
+            }
+          }
+        }
+      },
+      "secondary": {
+        "bgColor": {
+          "active": {
+            "value": "#d3b3d2",
+            "original": {
+              "value": "#D3B3D2"
+            },
+            "name": "ColorButtonSecondaryBgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "bgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "bgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonSecondaryBgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "bgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "bgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#5d1e5a",
+            "original": {
+              "value": "#5D1E5A"
+            },
+            "name": "ColorButtonSecondaryBgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "bgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "bgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonSecondaryBgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "bgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "bgColor",
+              "rest"
+            ]
+          },
+          "selected": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonSecondaryBgColorSelected",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "bgColor",
+              "state": "selected"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "bgColor",
+              "selected"
+            ]
+          }
+        },
+        "borderColor": {
+          "active": {
+            "value": "#d3b3d2",
+            "original": {
+              "value": "#D3B3D2"
+            },
+            "name": "ColorButtonSecondaryBorderColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "borderColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "borderColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#656c76",
+            "original": {
+              "value": "rgba(101, 108, 118, 0.1)"
+            },
+            "name": "ColorButtonSecondaryBorderColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "borderColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "borderColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#b078ae",
+            "original": {
+              "value": "#B078AE"
+            },
+            "name": "ColorButtonSecondaryBorderColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "borderColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "borderColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#c297c1",
+            "original": {
+              "value": "#C297C1"
+            },
+            "name": "ColorButtonSecondaryBorderColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "borderColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "borderColor",
+              "rest"
+            ]
+          }
+        },
+        "fgColor": {
+          "disable": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonSecondaryFgColorDisable",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "fgColor",
+              "state": "disable"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "fgColor",
+              "disable"
+            ]
+          },
+          "rest": {
+            "value": "#c297c1",
+            "original": {
+              "value": "#C297C1"
+            },
+            "name": "ColorButtonSecondaryFgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "secondary",
+              "subitem": "fgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "secondary",
+              "fgColor",
+              "rest"
+            ]
+          }
+        },
+        "shadow": {
+          "resting": {
+            "color": {
+              "value": "#000000",
+              "original": {
+                "value": "rgba(0, 0, 0, 0)"
+              },
+              "name": "ColorButtonSecondaryShadowRestingColor",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "secondary",
+                "subitem": "shadow",
+                "state": "resting"
+              },
+              "path": [
+                "color",
+                "button",
+                "secondary",
+                "shadow",
+                "resting",
+                "color"
+              ]
+            }
+          }
+        }
+      },
+      "star": {
+        "iconColor": {
+          "value": "#f8d148",
+          "original": {
+            "value": "#F8D148"
+          },
+          "name": "ColorButtonStarIconColor",
+          "attributes": {
+            "category": "color",
+            "type": "button",
+            "item": "star",
+            "subitem": "iconColor"
+          },
+          "path": [
+            "color",
+            "button",
+            "star",
+            "iconColor"
+          ]
+        }
+      },
+      "tertiary": {
+        "bgColor": {
+          "active": {
+            "value": "#d3b3d2",
+            "original": {
+              "value": "#D3B3D2"
+            },
+            "name": "ColorButtonTertiaryBgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "bgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "bgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonTertiaryBgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "bgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "bgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#5d1e5a",
+            "original": {
+              "value": "#5D1E5A"
+            },
+            "name": "ColorButtonTertiaryBgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "bgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "bgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonTertiaryBgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "bgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "bgColor",
+              "rest"
+            ]
+          }
+        },
+        "borderColor": {
+          "active": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonTertiaryBorderColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "borderColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "borderColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonTertiaryBorderColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "borderColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "borderColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonTertiaryBorderColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "borderColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "borderColor",
+              "hover"
+            ]
+          },
+          "selected": {
+            "value": "#000000",
+            "original": {
+              "value": "rgba(0, 0, 0, 0)"
+            },
+            "name": "ColorButtonTertiaryBorderColorSelected",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "borderColor",
+              "state": "selected"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "borderColor",
+              "selected"
+            ]
+          }
+        },
+        "fgColor": {
+          "active": {
+            "value": "#c297c1",
+            "original": {
+              "value": "#C297C1"
+            },
+            "name": "ColorButtonTertiaryFgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "fgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "fgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorButtonTertiaryFgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "fgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "fgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#c297c1",
+            "original": {
+              "value": "#C297C1"
+            },
+            "name": "ColorButtonTertiaryFgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "fgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "fgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#c297c1",
+            "original": {
+              "value": "#C297C1"
+            },
+            "name": "ColorButtonTertiaryFgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "button",
+              "item": "tertiary",
+              "subitem": "fgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "button",
+              "tertiary",
+              "fgColor",
+              "rest"
+            ]
+          }
+        },
+        "shadow": {
+          "selected": {
+            "color": {
+              "value": "#000000",
+              "original": {
+                "value": "rgba(0, 0, 0, 0)"
+              },
+              "name": "ColorButtonTertiaryShadowSelectedColor",
+              "attributes": {
+                "category": "color",
+                "type": "button",
+                "item": "tertiary",
+                "subitem": "shadow",
+                "state": "selected"
+              },
+              "path": [
+                "color",
+                "button",
+                "tertiary",
+                "shadow",
+                "selected",
+                "color"
+              ]
+            }
+          }
         }
       }
     },
@@ -2667,9 +2696,9 @@ module.exports = {
       },
       "borderColor": {
         "danger": {
-          "value": "#cf222e",
+          "value": "#fb2c36",
           "original": {
-            "value": "#CF222E"
+            "value": "#FB2C36"
           },
           "name": "ColorControlBorderColorDanger",
           "attributes": {
@@ -3042,9 +3071,9 @@ module.exports = {
             ]
           },
           "hover": {
-            "value": "#ffe2e2",
+            "value": "#e7000b",
             "original": {
-              "value": "#FFE2E2"
+              "value": "rgba(231, 0, 11, 0.41)"
             },
             "name": "ColorControlDangerBgColorHover",
             "attributes": {
@@ -3065,9 +3094,9 @@ module.exports = {
         },
         "fgColor": {
           "hover": {
-            "value": "#ff6467",
+            "value": "#fb2c36",
             "original": {
-              "value": "#FF6467"
+              "value": "#FB2C36"
             },
             "name": "ColorControlDangerFgColorHover",
             "attributes": {
@@ -3365,9 +3394,9 @@ module.exports = {
     },
     "fgColor": {
       "accent": {
-        "value": "#03a9f4",
+        "value": "#29b6f6",
         "original": {
-          "value": "#03A9F4"
+          "value": "#29B6F6"
         },
         "name": "ColorFgColorAccent",
         "attributes": {
@@ -3382,9 +3411,9 @@ module.exports = {
         ]
       },
       "attention": {
-        "value": "#a2892e",
+        "value": "#f8d148",
         "original": {
-          "value": "#A2892E"
+          "value": "#F8D148"
         },
         "name": "ColorFgColorAttention",
         "attributes": {
@@ -3416,9 +3445,9 @@ module.exports = {
         ]
       },
       "closed": {
-        "value": "#717171",
+        "value": "#a5a5a5",
         "original": {
-          "value": "#717171"
+          "value": "#A5A5A5"
         },
         "name": "ColorFgColorClosed",
         "attributes": {
@@ -3484,9 +3513,9 @@ module.exports = {
         ]
       },
       "done": {
-        "value": "#615fff",
+        "value": "#a3b3ff",
         "original": {
-          "value": "#615FFF"
+          "value": "#A3B3FF"
         },
         "name": "ColorFgColorDone",
         "attributes": {
@@ -3501,9 +3530,9 @@ module.exports = {
         ]
       },
       "link": {
-        "value": "#9d579b",
+        "value": "#c297c1",
         "original": {
-          "value": "#9D579B"
+          "value": "#C297C1"
         },
         "name": "ColorFgColorLink",
         "attributes": {
@@ -3515,6 +3544,23 @@ module.exports = {
           "color",
           "fgColor",
           "link"
+        ]
+      },
+      "link-onEmphasis": {
+        "value": "#c297c1",
+        "original": {
+          "value": "#C297C1"
+        },
+        "name": "ColorFgColorLinkOnEmphasis",
+        "attributes": {
+          "category": "color",
+          "type": "fgColor",
+          "item": "link-onEmphasis"
+        },
+        "path": [
+          "color",
+          "fgColor",
+          "link-onEmphasis"
         ]
       },
       "muted": {
@@ -3586,9 +3632,9 @@ module.exports = {
         ]
       },
       "open": {
-        "value": "#409d44",
+        "value": "#4cbb51",
         "original": {
-          "value": "#409D44"
+          "value": "#4CBB51"
         },
         "name": "ColorFgColorOpen",
         "attributes": {
@@ -3602,10 +3648,78 @@ module.exports = {
           "open"
         ]
       },
-      "severe": {
-        "value": "#d96e00",
+      "primary": {
+        "value": "#832a80",
         "original": {
-          "value": "#D96E00"
+          "value": "#832A80"
+        },
+        "name": "ColorFgColorPrimary",
+        "attributes": {
+          "category": "color",
+          "type": "fgColor",
+          "item": "primary"
+        },
+        "path": [
+          "color",
+          "fgColor",
+          "primary"
+        ]
+      },
+      "primary-muted": {
+        "value": "#c297c1",
+        "original": {
+          "value": "#C297C1"
+        },
+        "name": "ColorFgColorPrimaryMuted",
+        "attributes": {
+          "category": "color",
+          "type": "fgColor",
+          "item": "primary-muted"
+        },
+        "path": [
+          "color",
+          "fgColor",
+          "primary-muted"
+        ]
+      },
+      "secondary": {
+        "value": "#0078a2",
+        "original": {
+          "value": "#0078A2"
+        },
+        "name": "ColorFgColorSecondary",
+        "attributes": {
+          "category": "color",
+          "type": "fgColor",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "fgColor",
+          "secondary"
+        ]
+      },
+      "secondary-muted": {
+        "value": "#91c5d7",
+        "original": {
+          "value": "#91C5D7"
+        },
+        "name": "ColorFgColorSecondaryMuted",
+        "attributes": {
+          "category": "color",
+          "type": "fgColor",
+          "item": "secondary-muted"
+        },
+        "path": [
+          "color",
+          "fgColor",
+          "secondary-muted"
+        ]
+      },
+      "severe": {
+        "value": "#f68919",
+        "original": {
+          "value": "#F68919"
         },
         "name": "ColorFgColorSevere",
         "attributes": {
@@ -3620,9 +3734,9 @@ module.exports = {
         ]
       },
       "success": {
-        "value": "#409d44",
+        "value": "#4cbb51",
         "original": {
-          "value": "#409D44"
+          "value": "#4CBB51"
         },
         "name": "ColorFgColorSuccess",
         "attributes": {
@@ -3651,6 +3765,386 @@ module.exports = {
           "color",
           "fgColor",
           "white"
+        ]
+      }
+    },
+    "focus": {
+      "outlineColor": {
+        "value": "#03a9f4",
+        "original": {
+          "value": "#03A9F4"
+        },
+        "name": "ColorFocusOutlineColor",
+        "attributes": {
+          "category": "color",
+          "type": "focus",
+          "item": "outlineColor"
+        },
+        "path": [
+          "color",
+          "focus",
+          "outlineColor"
+        ]
+      }
+    },
+    "iconButton": {
+      "neutral": {
+        "bgColor": {
+          "active": {
+            "value": "#c9c9c9",
+            "original": {
+              "value": "#C9C9C9"
+            },
+            "name": "ColorIconButtonNeutralBgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "bgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#eeeeee",
+            "original": {
+              "value": "#EEEEEE"
+            },
+            "name": "ColorIconButtonNeutralBgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "bgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#d5d5d5",
+            "original": {
+              "value": "#D5D5D5"
+            },
+            "name": "ColorIconButtonNeutralBgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "bgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#717171",
+            "original": {
+              "value": "#717171"
+            },
+            "name": "ColorIconButtonNeutralBgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "bgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "bgColor",
+              "rest"
+            ]
+          }
+        },
+        "borderColor": {
+          "disabled": {
+            "value": "#656c76",
+            "original": {
+              "value": "rgba(101, 108, 118, 0.1)"
+            },
+            "name": "ColorIconButtonNeutralBorderColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "borderColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "borderColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#a5a5a5",
+            "original": {
+              "value": "#A5A5A5"
+            },
+            "name": "ColorIconButtonNeutralBorderColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "borderColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "borderColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#ffffff",
+            "original": {
+              "value": "rgba(255, 255, 255, 0.12)"
+            },
+            "name": "ColorIconButtonNeutralBorderColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "borderColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "borderColor",
+              "rest"
+            ]
+          }
+        },
+        "fgColor": {
+          "active": {
+            "value": "#fafafa",
+            "original": {
+              "value": "#FAFAFA"
+            },
+            "name": "ColorIconButtonNeutralFgColorActive",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "active"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "fgColor",
+              "active"
+            ]
+          },
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorIconButtonNeutralFgColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "fgColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorIconButtonNeutralFgColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "fgColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#fafafa",
+            "original": {
+              "value": "#FAFAFA"
+            },
+            "name": "ColorIconButtonNeutralFgColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "fgColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "fgColor",
+              "rest"
+            ]
+          }
+        },
+        "iconColor": {
+          "disabled": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorIconButtonNeutralIconColorDisabled",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "iconColor",
+              "state": "disabled"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "iconColor",
+              "disabled"
+            ]
+          },
+          "hover": {
+            "value": "#8b8b8b",
+            "original": {
+              "value": "#8B8B8B"
+            },
+            "name": "ColorIconButtonNeutralIconColorHover",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "iconColor",
+              "state": "hover"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "iconColor",
+              "hover"
+            ]
+          },
+          "rest": {
+            "value": "#fafafa",
+            "original": {
+              "value": "#FAFAFA"
+            },
+            "name": "ColorIconButtonNeutralIconColorRest",
+            "attributes": {
+              "category": "color",
+              "type": "iconButton",
+              "item": "neutral",
+              "subitem": "iconColor",
+              "state": "rest"
+            },
+            "path": [
+              "color",
+              "iconButton",
+              "neutral",
+              "iconColor",
+              "rest"
+            ]
+          }
+        }
+      }
+    },
+    "sectionNavigation": {
+      "bgColor": {
+        "value": "#222222",
+        "original": {
+          "value": "#222222"
+        },
+        "name": "ColorSectionNavigationBgColor",
+        "attributes": {
+          "category": "color",
+          "type": "sectionNavigation",
+          "item": "bgColor"
+        },
+        "path": [
+          "color",
+          "sectionNavigation",
+          "bgColor"
+        ]
+      }
+    },
+    "tooltip": {
+      "bgColor": {
+        "value": "#4c4c4c",
+        "original": {
+          "value": "#4C4C4C"
+        },
+        "name": "ColorTooltipBgColor",
+        "attributes": {
+          "category": "color",
+          "type": "tooltip",
+          "item": "bgColor"
+        },
+        "path": [
+          "color",
+          "tooltip",
+          "bgColor"
+        ]
+      },
+      "fgColor": {
+        "value": "#ffffff",
+        "original": {
+          "value": "#FFFFFF"
+        },
+        "name": "ColorTooltipFgColor",
+        "attributes": {
+          "category": "color",
+          "type": "tooltip",
+          "item": "fgColor"
+        },
+        "path": [
+          "color",
+          "tooltip",
+          "fgColor"
         ]
       }
     }
