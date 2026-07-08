@@ -218,6 +218,48 @@
         "value": "#1E1A4D"
       }
     },
+    "lavender": {
+      "100": {
+        "type": "color",
+        "value": "#E4CFF2"
+      },
+      "200": {
+        "type": "color",
+        "value": "#D3AFE9"
+      },
+      "300": {
+        "type": "color",
+        "value": "#C290E1"
+      },
+      "400": {
+        "type": "color",
+        "value": "#B171D8"
+      },
+      "50": {
+        "type": "color",
+        "value": "#F5EEFA"
+      },
+      "500": {
+        "type": "color",
+        "value": "#9A58C3"
+      },
+      "600": {
+        "type": "color",
+        "value": "#7E46A1"
+      },
+      "700": {
+        "type": "color",
+        "value": "#63357E"
+      },
+      "800": {
+        "type": "color",
+        "value": "#47235C"
+      },
+      "900": {
+        "type": "color",
+        "value": "#2B113A"
+      }
+    },
     "lightCyanBlue": {
       "100": {
         "type": "color",
@@ -771,6 +813,8 @@
           "value": "rgba(0, 0, 0, 0.9)"
         }
       },
+      "type": "color",
+      "value": "rgba(255, 255, 255, 0)",
       "white": {
         "0": {
           "type": "color",
@@ -1150,12 +1194,12 @@
           "medium": {
             "comment": "Base text",
             "type": "number",
-            "value": 21
+            "value": 20
           },
           "small": {
             "comment": "Base text",
             "type": "number",
-            "value": 16.5
+            "value": 20
           }
         },
         "size": {
@@ -1205,7 +1249,7 @@
         },
         "fontWeight": {
           "type": "number",
-          "value": "{typography.text.weight.bold}"
+          "value": "{typography.text.weight.semibold}"
         },
         "letterSpacing": {
           "type": "number",
@@ -1387,7 +1431,7 @@
         },
         "weight": {
           "type": "number",
-          "value": "{typography.text.weight.regular}"
+          "value": "{typography.text.weight.medium}"
         }
       },
       "subtitle2": {
@@ -1405,7 +1449,7 @@
         },
         "weight": {
           "type": "number",
-          "value": "{typography.text.weight.regular}"
+          "value": "{typography.text.weight.medium}"
         }
       },
       "title": {
@@ -1454,7 +1498,7 @@
         "weight": {
           "large": {
             "type": "number",
-            "value": "{typography.text.weight.regular}"
+            "value": "{typography.text.weight.semibold}"
           },
           "medium": {
             "type": "number",
