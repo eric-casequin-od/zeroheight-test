@@ -36,6 +36,10 @@
       "$type": "boolean",
       "$value": false
     },
+    "XL+L": {
+      "$type": "boolean",
+      "$value": false
+    },
     "XL+L+M": {
       "$type": "boolean",
       "$value": false
