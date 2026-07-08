@@ -1,5 +1,19 @@
 {
   "size": {
+    "badge": {
+      "gap": {
+        "type": "number",
+        "value": 4
+      },
+      "paddingBlock": {
+        "type": "number",
+        "value": 2
+      },
+      "paddingInline": {
+        "type": "number",
+        "value": 2
+      }
+    },
     "control": {
       "large": {
         "gap": {
@@ -59,16 +73,6 @@
         "size": {
           "type": "number",
           "value": "{size.32}"
-        }
-      },
-      "minTarget": {
-        "coarse": {
-          "type": "number",
-          "value": "{size.44}"
-        },
-        "fine": {
-          "type": "number",
-          "value": "{size.16}"
         }
       },
       "small": {
@@ -134,7 +138,7 @@
         },
         "lineBoxHeight": {
           "type": "number",
-          "value": "{size.20}"
+          "value": "{size.16}"
         },
         "paddingBlock": {
           "type": "number",
@@ -156,7 +160,7 @@
         },
         "size": {
           "type": "number",
-          "value": "{size.24}"
+          "value": "{size.20}"
         }
       }
     },

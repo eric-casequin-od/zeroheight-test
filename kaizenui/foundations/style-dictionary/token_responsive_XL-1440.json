@@ -36,6 +36,10 @@
       "type": "boolean",
       "value": true
     },
+    "XL+L": {
+      "type": "boolean",
+      "value": true
+    },
     "XL+L+M": {
       "type": "boolean",
       "value": true
